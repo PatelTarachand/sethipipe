@@ -890,7 +890,7 @@
                                  </div>
                                  <div class="elementor-element elementor-element-9569f57 elementor-widget elementor-widget-text-editor" data-id="9569f57" data-element_type="widget" data-widget_type="text-editor.default">
                                     <div class="elementor-widget-container">
-                                       Quis ipsum suspendisse ultrices gravida risus commodo viverra maecenas accumsan lacus vel facilisis. 								
+                                        								
                                     </div>
                                  </div>
                                  <div class="elementor-element elementor-element-71aa246 elementor-widget elementor-widget-shortcode" data-id="71aa246" data-element_type="widget" data-widget_type="shortcode.default">

@@ -19,7 +19,6 @@
   <!-- .container -->
 </div>
 <!-- .tstk-title-bar-wrapper -->
-</header><!-- #masthead -->
 <div class="site-content-contain ">
 <div class="site-content-wrap">
   <div id="content" class="site-content container">
@@ -44,17 +43,7 @@
                 </div>
               </div>
               <div class="elementor-element elementor-element-bfb9f39 tstk-btn-shape-round elementor-widget__width-auto elementor-absolute tstk-button-new tstk-btn-color-globalcolor tstk-btn-style-flat elementor-widget elementor-widget-button" data-id="bfb9f39" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="button.default">
-                <div class="elementor-widget-container">
-                  <div class="elementor-button-wrapper">
-                    <a class="elementor-button elementor-button-link elementor-size-lg" href="#">
-                    <span class="elementor-button-content-wrapper">
-                    <span class="elementor-button-icon">
-                    <i aria-hidden="true" class="fab fa-youtube"></i>			</span>
-                    <span class="elementor-button-text">See Our Industry</span>
-                    </span>
-                    </a>
-                  </div>
-                </div>
+               
               </div>
             </div>
           </div>
@@ -64,18 +53,18 @@
                 <div class="elementor-widget-container">
                   <div class="tstk-heading-subheading left-align tstk-reverse-heading-yes">
                     <h4 class="tstk-element-subtitle">
-                      About Our Industry
-                    </h4>
-                    <h2 class="tstk-element-title">
-                      We are largest independent sit manufacturing company 
-                    </h2>
-                  </div>
-                </div>
-              </div>
+                       About Our Industry
+                     </h4>
+                     <h2 class="tstk-element-title">
+                       Shri Krishna Rubber Industries — Established 1992
+                     </h2>
+                   </div>
+                 </div>
+               </div>
               <div class="elementor-element elementor-element-eaaa293 elementor-widget elementor-widget-text-editor" data-id="eaaa293" data-element_type="widget" data-widget_type="text-editor.default">
-                <div class="elementor-widget-container">
-                  Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo nemo enim ipsam.								
-                </div>
+                 <div class="elementor-widget-container">
+                   Established in 1992 on the banks of Narmada River and centre of India, Jabalpur, Madhya Pradesh, in line with the escalating demand of plastic pipes and fittings products in the region. The versatility of plastic pipe systems has made the products of Shri Krishna Rubber Industries a preferred choice for a wide range of applications for water, energy, gas, conduit, sewerage and other industrial applications. We are one of the leading plastic pipe manufacturers in Madhya Pradesh, focused on advanced plastic piping solutions and product development.
+                 </div>
               </div>
               <div class="elementor-element elementor-element-cfd51a0 tstk-align-left elementor-widget elementor-widget-tstk_multiple_icon_heading" data-id="cfd51a0" data-element_type="widget" data-widget_type="tstk_multiple_icon_heading.default">
                 <div class="elementor-widget-container">
@@ -86,53 +75,44 @@
                       </div>
                       <div class="tstk-element-posts-wrapper row multi-columns-row">
                         <article class="tstk-ele tstk-ele-miconheading tstk-miconheading-style-13 col-md-12   ">
-                          <div class="tstk-ihbox tstk-ihbox-style-13">
-                            <div class="tstk-ihbox-box d-flex align-items-start">
-                              <div class="tstk-ihbox-icon">
-                                <div class="tstk-ihbox-icon-wrapper"><i class="tstk-industrey-icon tstk-industrey-icon-professional"></i></div>
-                              </div>
-                              <div class="tstk-ihbox-contents">
-                                <h2 class="tstk-element-title">
-                                  We Are Bring Quality Services
-                                </h2>
-                                <div class="tstk-heading-desc">Perspiciatis unde totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta.</div>
-                              </div>
-                              <!-- .tstk-ihbox-contents -->
-                            </div>
-                          </div>
-                        </article>
-                        <article class="tstk-ele tstk-ele-miconheading tstk-miconheading-style-13 col-md-12   ">
-                          <div class="tstk-ihbox tstk-ihbox-style-13">
-                            <div class="tstk-ihbox-box d-flex align-items-start">
-                              <div class="tstk-ihbox-icon">
-                                <div class="tstk-ihbox-icon-wrapper"><i class="tstk-industrey-icon tstk-industrey-icon-certificate"></i></div>
-                              </div>
-                              <div class="tstk-ihbox-contents">
-                                <h2 class="tstk-element-title">
-                                  Experienced And Talented
-                                </h2>
-                                <div class="tstk-heading-desc">Perspiciatis unde totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta.</div>
-                              </div>
-                              <!-- .tstk-ihbox-contents -->
-                            </div>
-                          </div>
-                        </article>
-                        <article class="tstk-ele tstk-ele-miconheading tstk-miconheading-style-13 col-md-12   ">
-                          <div class="tstk-ihbox tstk-ihbox-style-13">
-                            <div class="tstk-ihbox-box d-flex align-items-start">
-                              <div class="tstk-ihbox-icon">
-                                <div class="tstk-ihbox-icon-wrapper"><i class="tstk-industrey-icon tstk-industrey-icon-security-helmet"></i></div>
-                              </div>
-                              <div class="tstk-ihbox-contents">
-                                <h2 class="tstk-element-title">
-                                  Offer 24/7 Quick Support
-                                </h2>
-                                <div class="tstk-heading-desc">Perspiciatis unde totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta.</div>
-                              </div>
-                              <!-- .tstk-ihbox-contents -->
-                            </div>
-                          </div>
-                        </article>
+                           <div class="tstk-ihbox tstk-ihbox-style-13">
+                             <div class="tstk-ihbox-box d-flex align-items-start">
+                               <div class="tstk-ihbox-icon">
+                                 <div class="tstk-ihbox-icon-wrapper"><i class="tstk-industrey-icon tstk-industrey-icon-professional"></i></div>
+                               </div>
+                               <div class="tstk-ihbox-contents">
+                                 <h2 class="tstk-element-title">Leading Plastic Pipe Manufacturer</h2>
+                                 <div class="tstk-heading-desc">One of the leading plastic pipe manufacturers in Madhya Pradesh, offering advanced piping solutions for water, energy, gas, sewerage and industrial applications.</div>
+                               </div>
+                             </div>
+                           </div>
+                         </article>
+                         <article class="tstk-ele tstk-ele-miconheading tstk-miconheading-style-13 col-md-12   ">
+                           <div class="tstk-ihbox tstk-ihbox-style-13">
+                             <div class="tstk-ihbox-box d-flex align-items-start">
+                               <div class="tstk-ihbox-icon">
+                                 <div class="tstk-ihbox-icon-wrapper"><i class="tstk-industrey-icon tstk-industrey-icon-certificate"></i></div>
+                               </div>
+                               <div class="tstk-ihbox-contents">
+                                 <h2 class="tstk-element-title">10+ Quality Certificates</h2>
+                                 <div class="tstk-heading-desc">Our products meet applicable international standards, backed by more than 10 quality certifications, making us a trusted choice across India.</div>
+                               </div>
+                             </div>
+                           </div>
+                         </article>
+                         <article class="tstk-ele tstk-ele-miconheading tstk-miconheading-style-13 col-md-12   ">
+                           <div class="tstk-ihbox tstk-ihbox-style-13">
+                             <div class="tstk-ihbox-box d-flex align-items-start">
+                               <div class="tstk-ihbox-icon">
+                                 <div class="tstk-ihbox-icon-wrapper"><i class="tstk-industrey-icon tstk-industrey-icon-security-helmet"></i></div>
+                               </div>
+                               <div class="tstk-ihbox-contents">
+                                 <h2 class="tstk-element-title">1000+ Dealer Network</h2>
+                                 <div class="tstk-heading-desc">With a pan-India dealer network of 1000+ partners across 15+ states, we deliver reliable plastic pipe products right to your doorstep.</div>
+                               </div>
+                             </div>
+                           </div>
+                         </article>
                       </div>
                     </div>
                     <!-- .themestek-element-inner -->   
@@ -168,9 +148,9 @@
                       <div class="elementor-element elementor-element-e1c8408 tstk-align-left elementor-widget elementor-widget-tstk_heading" data-id="e1c8408" data-element_type="widget" data-widget_type="tstk_heading.default">
                         <div class="elementor-widget-container">
                           <div class="tstk-heading-subheading left-align tstk-reverse-heading-yes">
-                            <h2 class="tstk-element-title">
-                              We have twenty years of great experience of various type industries
-                            </h2>
+                             <h2 class="tstk-element-title">
+                               Established in 1992 &mdash; 30+ Years of Trusted Pipe Manufacturing
+                             </h2>
                           </div>
                         </div>
                       </div>
@@ -187,13 +167,13 @@
                           <div class="themestek-ele themestek-ele-fid themestek-ele-fid-style-1 ">
                             <div class="tstk-fld-contents">
                               <div class="tstk-sbox-icon-wrapper tstk-icon-type-icon"><i class="fas fa-star"></i></div>
-                              <div class="tstk-fld-wrap">
-                                <h4 class="tstk-fid-inner">
-                                  <span class="tstk-number-rotate" data-appear-animation="animateDigits" data-from="0" data-to="6154" data-interval="5" data-before="" data-before-style="" data-after="" data-after-style="">
-                                  6154			</span><span class="tstk-fid"></span>
-                                </h4>
-                                <div class="tstk-fid-contents">
-                                  <div class="tstk-fid-title"><span>Project Completed<br />Last 5 Years</span></div>
+                               <div class="tstk-fld-wrap">
+                                 <h4 class="tstk-fid-inner">
+                                   <span class="tstk-number-rotate" data-appear-animation="animateDigits" data-from="0" data-to="1000" data-interval="5" data-before="" data-before-style="" data-after="+" data-after-style="">
+                                   1000+			</span><span class="tstk-fid"></span>
+                                 </h4>
+                                 <div class="tstk-fid-contents">
+                                   <div class="tstk-fid-title"><span>Dealer Network<br />Across India</span></div>
                                 </div>
                               </div>
                             </div>
@@ -210,13 +190,13 @@
                           <div class="themestek-ele themestek-ele-fid themestek-ele-fid-style-1 ">
                             <div class="tstk-fld-contents">
                               <div class="tstk-sbox-icon-wrapper tstk-icon-type-icon"><i class="fas fa-star"></i></div>
-                              <div class="tstk-fld-wrap">
-                                <h4 class="tstk-fid-inner">
-                                  <span class="tstk-number-rotate" data-appear-animation="animateDigits" data-from="0" data-to="1124" data-interval="5" data-before="" data-before-style="" data-after="" data-after-style="">
-                                  1124			</span><span class="tstk-fid"></span>
-                                </h4>
-                                <div class="tstk-fid-contents">
-                                  <div class="tstk-fid-title"><span>Great Experienced<br />Team Member</span></div>
+                               <div class="tstk-fld-wrap">
+                                 <h4 class="tstk-fid-inner">
+                                   <span class="tstk-number-rotate" data-appear-animation="animateDigits" data-from="0" data-to="15" data-interval="5" data-before="" data-before-style="" data-after="+" data-after-style="">
+                                   15+			</span><span class="tstk-fid"></span>
+                                 </h4>
+                                 <div class="tstk-fid-contents">
+                                   <div class="tstk-fid-title"><span>States Served<br />In India</span></div>
                                 </div>
                               </div>
                             </div>
@@ -233,13 +213,13 @@
                           <div class="themestek-ele themestek-ele-fid themestek-ele-fid-style-1 ">
                             <div class="tstk-fld-contents">
                               <div class="tstk-sbox-icon-wrapper tstk-icon-type-icon"><i class="fas fa-star"></i></div>
-                              <div class="tstk-fld-wrap">
-                                <h4 class="tstk-fid-inner">
-                                  <span class="tstk-number-rotate" data-appear-animation="animateDigits" data-from="0" data-to="687" data-interval="5" data-before="" data-before-style="" data-after="" data-after-style="">
-                                  687			</span><span class="tstk-fid"></span>
-                                </h4>
-                                <div class="tstk-fid-contents">
-                                  <div class="tstk-fid-title"><span>Clients Worldwide<br />in 10 Years</span></div>
+                               <div class="tstk-fld-wrap">
+                                 <h4 class="tstk-fid-inner">
+                                   <span class="tstk-number-rotate" data-appear-animation="animateDigits" data-from="0" data-to="236" data-interval="5" data-before="" data-before-style="" data-after="+" data-after-style="">
+                                   236+			</span><span class="tstk-fid"></span>
+                                 </h4>
+                                 <div class="tstk-fid-contents">
+                                   <div class="tstk-fid-title"><span>Experienced<br />Team Members</span></div>
                                 </div>
                               </div>
                             </div>
@@ -256,13 +236,13 @@
                           <div class="themestek-ele themestek-ele-fid themestek-ele-fid-style-1 ">
                             <div class="tstk-fld-contents">
                               <div class="tstk-sbox-icon-wrapper tstk-icon-type-icon"><i class="fas fa-star"></i></div>
-                              <div class="tstk-fld-wrap">
-                                <h4 class="tstk-fid-inner">
-                                  <span class="tstk-number-rotate" data-appear-animation="animateDigits" data-from="0" data-to="236" data-interval="5" data-before="" data-before-style="" data-after="" data-after-style="">
-                                  236			</span><span class="tstk-fid"></span>
-                                </h4>
-                                <div class="tstk-fid-contents">
-                                  <div class="tstk-fid-title"><span>Winning Universal<br />Five Awards</span></div>
+                               <div class="tstk-fld-wrap">
+                                 <h4 class="tstk-fid-inner">
+                                   <span class="tstk-number-rotate" data-appear-animation="animateDigits" data-from="0" data-to="10" data-interval="5" data-before="" data-before-style="" data-after="+" data-after-style="">
+                                   10+			</span><span class="tstk-fid"></span>
+                                 </h4>
+                                 <div class="tstk-fid-contents">
+                                   <div class="tstk-fid-title"><span>Quality<br />Certificates</span></div>
                                 </div>
                               </div>
                             </div>
@@ -286,58 +266,27 @@
                               <div class="tstk-element-posts-wrapper row multi-columns-row">
                                 <article class="tstk-ele tstk-ele-static-box tstk-static-box-style-1 col-md-12   ">
                                   <div class="tstk-imgbox">
-                                    <img decoding="async" src="wp-content/uploads/sites/5/2021/09/staticbox-01.jpg" alt="Design Product " />
+                                    <img decoding="async" src="wp-content/uploads/sites/5/2021/09/staticbox-01.jpg" alt="Our Vision" />
                                   </div>
                                   <div class="tstk-contentbox">
                                     <div class="themestek-box-title">
-                                      <h4>Design Product </h4>
+                                      <h4>Our Vision</h4>
                                     </div>
                                     <div class="themestek-static-box-desc">
-                                      Consectetur adipiscing elit sed do tempor labor dolore magna aliqua quis ipsum suspendisse ultrices gravida commodo.
-                                      <ul>
-                                        <li>Consectetur adipiscing elit sed</li>
-                                        <li>Do Tempor labor dolore magna</li>
-                                        <li>suspendisse ultrices Gravida</li>
-                                        <li>commodo viverra maecenas</li>
-                                      </ul>
+                                      Shri Krishna Rubber Industries exists to provide best quality products and services in accordance with the applicable international standards in the Indian Sub-Continent and the associated territories.
                                     </div>
                                   </div>
                                 </article>
                                 <article class="tstk-ele tstk-ele-static-box tstk-static-box-style-1 col-md-12   ">
                                   <div class="tstk-imgbox">
-                                    <img decoding="async" src="wp-content/uploads/sites/5/2021/09/staticbox-02.jpg" alt="Fabric Product" />
+                                    <img decoding="async" src="wp-content/uploads/sites/5/2021/09/staticbox-02.jpg" alt="Our Mission" />
                                   </div>
                                   <div class="tstk-contentbox">
                                     <div class="themestek-box-title">
-                                      <h4>Fabric Product</h4>
+                                      <h4>Our Mission</h4>
                                     </div>
                                     <div class="themestek-static-box-desc">
-                                      Consectetur adipiscing elit sed do tempor labor dolore magna aliqua quis ipsum suspendisse ultrices gravida commodo.
-                                      <ul>
-                                        <li>Consectetur adipiscing elit sed</li>
-                                        <li>Do Tempor labor dolore magna</li>
-                                        <li>suspendisse ultrices Gravida</li>
-                                        <li>commodo viverra maecenas</li>
-                                      </ul>
-                                    </div>
-                                  </div>
-                                </article>
-                                <article class="tstk-ele tstk-ele-static-box tstk-static-box-style-1 col-md-12   ">
-                                  <div class="tstk-imgbox">
-                                    <img decoding="async" src="wp-content/uploads/sites/5/2021/09/staticbox-03.jpg" alt="Product Info" />
-                                  </div>
-                                  <div class="tstk-contentbox">
-                                    <div class="themestek-box-title">
-                                      <h4>Product Info</h4>
-                                    </div>
-                                    <div class="themestek-static-box-desc">
-                                      Consectetur adipiscing elit sed do tempor labor dolore magna aliqua quis ipsum suspendisse ultrices gravida commodo.
-                                      <ul>
-                                        <li>Consectetur adipiscing elit sed</li>
-                                        <li>Do Tempor labor dolore magna</li>
-                                        <li>suspendisse ultrices Gravida</li>
-                                        <li>commodo viverra maecenas</li>
-                                      </ul>
+                                      Shri Krishna Rubber Industries has been incorporated with a mission to serve India in its growth journey of rapid infrastructural development. We are determined to provide the best quality product at competitive price, deliver as per commitments, and remain <strong>"The Symbol of Quality"</strong> &mdash; the ultimate leader in plastic pipes &amp; fittings manufacturing.
                                     </div>
                                   </div>
                                 </article>

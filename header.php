@@ -96,17 +96,11 @@
       <link rel='stylesheet' id='tstk-testimonial-style-2-css' href='wp-content/themes/industrey/css/testimonial/testimonial-style-2.minb34e.css?ver=6.9.4' media='all' />
       <link rel='stylesheet' id='elementor-post-12661-css' href='wp-content/uploads/sites/5/elementor/css/post-126611326.css?ver=1671688331' media='all' />
       <?php elseif (in_array(basename($_SERVER['PHP_SELF']), [
-         'water-supply-scheme.php',
-         'sewage-piping-system.php',
-         'chemical-industries.php',
-         'plant-effluent-disposal.php',
-         'waste-water-disposal-pipeline.php',
-         'lift-irrigation-system.php',
-         'agricultural.php',
-         'fuel-gas-distribution.php',
-         'construction-industry.php',
-         'electrical-cable-ducting.php',
-         'marine-dragging-piping.php'
+         'hdpe-pipe.php',
+         'hdpe-roll-pipe.php',
+         'sprinkler-pipe.php',
+         'mdpe-pipe.php',
+         'rubber-washer.php'
       ])): ?>
       <link rel='stylesheet' id='tstk-service-style-2-css' href='wp-content/themes/industrey/css/service/service-style-2.minb34e.css?ver=6.9.4' media='all' />
       <link rel='stylesheet' id='tstk-team-style-2-css' href='wp-content/themes/industrey/css/team/team-style-2.minb34e.css?ver=6.9.4' media='all' />
@@ -322,17 +316,11 @@
    <body class="<?php 
       $current_page = basename($_SERVER['PHP_SELF']);
       $service_pages = [
-         'water-supply-scheme.php',
-         'sewage-piping-system.php',
-         'chemical-industries.php',
-         'plant-effluent-disposal.php',
-         'waste-water-disposal-pipeline.php',
-         'lift-irrigation-system.php',
-         'agricultural.php',
-         'fuel-gas-distribution.php',
-         'construction-industry.php',
-         'electrical-cable-ducting.php',
-         'marine-dragging-piping.php'
+         'hdpe-pipe.php',
+         'hdpe-roll-pipe.php',
+         'sprinkler-pipe.php',
+         'mdpe-pipe.php',
+         'rubber-washer.php'
       ];
       if ($current_page == 'index.php') {
          echo 'home page-id-15796 elementor-page-15796 wp-singular page-template-default page wp-theme-industrey theme-industrey woocommerce-no-js mega-menu-themestek-top tstk-sidebar-no tstk-max-mega-menu-override elementor-default elementor-kit-5 elementor-page';
@@ -423,17 +411,11 @@
                                  <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-align-bottom-left mega-menu-flyout mega-menu-item-33783' id='mega-menu-item-33783'>
                                     <a class="mega-menu-link" href="products/index.html" aria-expanded="false" tabindex="0">Products<span class="mega-indicator"> </span> </a>
                                      <ul class="mega-sub-menu">
-                                        <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-tstk-service'><a class="mega-menu-link" href="water-supply-scheme.php">Water Supply Scheme</a></li>
-                                        <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-tstk-service'><a class="mega-menu-link" href="sewage-piping-system.php">Sewage Piping System</a></li>
-                                        <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-tstk-service'><a class="mega-menu-link" href="chemical-industries.php">Chemical Industries</a></li>
-                                        <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-tstk-service'><a class="mega-menu-link" href="plant-effluent-disposal.php">Plant Effluent Disposal</a></li>
-                                        <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-tstk-service'><a class="mega-menu-link" href="waste-water-disposal-pipeline.php">Waste Water Disposal Pipeline</a></li>
-                                        <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-tstk-service'><a class="mega-menu-link" href="lift-irrigation-system.php">Lift Irrigation System</a></li>
-                                        <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-tstk-service'><a class="mega-menu-link" href="agricultural.php">Agricultural</a></li>
-                                        <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-tstk-service'><a class="mega-menu-link" href="fuel-gas-distribution.php">Fuel Gas Distribution</a></li>
-                                        <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-tstk-service'><a class="mega-menu-link" href="construction-industry.php">Construction Industry</a></li>
-                                        <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-tstk-service'><a class="mega-menu-link" href="electrical-cable-ducting.php">Electrical Cable Ducting</a></li>
-                                        <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-tstk-service'><a class="mega-menu-link" href="marine-dragging-piping.php">Marine &amp; Dragging Piping</a></li>
+                                        <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-tstk-service'><a class="mega-menu-link" href="hdpe-pipe.php">HDPE PIPE</a></li>
+                                        <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-tstk-service'><a class="mega-menu-link" href="hdpe-roll-pipe.php">HDPE ROLL PIPE</a></li>
+                                        <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-tstk-service'><a class="mega-menu-link" href="sprinkler-pipe.php">SPRINKLER PIPE</a></li>
+                                        <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-tstk-service'><a class="mega-menu-link" href="mdpe-pipe.php">MDPE PIPE</a></li>
+                                        <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-tstk-service'><a class="mega-menu-link" href="rubber-washer.php">RUBBER WASHER</a></li>
                                      </ul>
                                  </li>
                                  <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-menu-item-33789' id='mega-menu-item-33789'> <a class="mega-menu-link" href="contact.php" tabindex="0">Contact Us</a> </li>
