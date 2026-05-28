@@ -448,9 +448,9 @@
                               <div class="elementor-widget-wrap elementor-element-populated">
                                  <div class="elementor-element elementor-element-a4f131c tstk-align-center elementor-widget elementor-widget-tstk_portfolio_element" data-id="a4f131c" data-element_type="widget" data-widget_type="tstk_portfolio_element.default">
                                     <div class="elementor-widget-container">
-                                       <div class="themestek-element themestek-element-portfolio tstk-element-portfolio-style-1 themestek-element-viewtype-carousel themestek-gap-30px tstk-infinite-scroll-no tstk-infinite-scroll-button-no" data-cpt="portfolio" data-totalpagination="1" data-style="1" data-show="9" data-columns="4" data-loop="true" data-autoplay="false" data-center="false" data-nav="false" data-dots="true" data-autoplayspeed="1000" data-lasthalf="false" data-margin="30px">
+                                       <div class="themestek-element themestek-element-portfolio tstk-element-portfolio-style-1 themestek-element-viewtype-carousel themestek-gap-30px tstk-infinite-scroll-no tstk-infinite-scroll-button-no" data-cpt="portfolio" data-totalpagination="1" data-style="1" data-show="11" data-columns="4" data-loop="true" data-autoplay="false" data-center="false" data-nav="false" data-dots="true" data-autoplayspeed="1000" data-lasthalf="false" data-margin="30px">
                                           <div class="themestek-element-inner">
-                                             <div class="tstk-infinite-scroll-data">{"cpt":"portfolio","style":"1","columns":"4","show":9,"order":"DESC","orderby":"DESC"}</div>
+                                             <div class="tstk-infinite-scroll-data">{"cpt":"portfolio","style":"1","columns":"4","show":11,"order":"DESC","orderby":"DESC"}</div>
                                              <div class="tstk-ele-header-area">
                                                 <div class="tstk-heading-subheading center-align tstk-reverse-heading-yes">
                                                    <h4 class="tstk-element-subtitle">
@@ -462,146 +462,178 @@
                                                 </div>
                                              </div>
                                              <div class="tstk-element-posts-wrapper row multi-columns-row">
-                                                <article class="tstk-ele tstk-ele-portfolio tstk-portfolio-style-1 col-md-6 col-lg-3 chemical tstk-term-36  ">
+                                                <article class="tstk-ele tstk-ele-portfolio tstk-portfolio-style-1 col-md-6 col-lg-3 water-supply tstk-term-36">
                                                    <div class="themestek-post-content">
                                                       <div class="tstk-portfolio-img-wrapper">
-                                                         <div class="tstk-featured-wrapper"><img loading="lazy" decoding="async" width="770" height="520" src="wp-content/uploads/sites/5/2021/09/project-new-01-770x520.jpg" class="attachment-tstk-img-770x520 size-tstk-img-770x520 wp-post-image" alt="" /></div>
+                                                         <div class="tstk-featured-wrapper"><img loading="lazy" decoding="async" width="770" height="520" src="images/products/Water Supply Scheme.webp" class="attachment-tstk-img-770x520 size-tstk-img-770x520 wp-post-image" alt="Water Supply Scheme" /></div>
                                                          <div class="themestek-icon-box themestek-media-link">			  	
-                                                            <a class="tstk-lightbox" title="Chemical Industry Innovation" href="wp-content/uploads/sites/5/2021/09/project-new-01.jpg"><i class=" tstk-base-icon-plus"></i></a>
+                                                            <a class="tstk-lightbox" title="Water Supply Scheme" href="images/products/Water Supply Scheme.webp"><i class="tstk-base-icon-plus"></i></a>
                                                          </div>
                                                       </div>
                                                       <div class="themestek-box-content">
                                                          <div class="themestek-titlebox">
-                                                            <h6 class="tstk-port-cat"><a href="portfolio-category/chemical/index.html" rel="tag">Chemical</a></h6>
-                                                            <h3 class="tstk-portfolio-title"><a href="portfolio/chemical-industry-innovation/index.html">Chemical Industry Innovation</a></h3>
+                                                            <h6 class="tstk-port-cat"><a href="water-supply-scheme.php" rel="tag">Water Supply</a></h6>
+                                                            <h3 class="tstk-portfolio-title"><a href="water-supply-scheme.php">Water Supply Scheme</a></h3>
                                                          </div>
                                                       </div>
                                                    </div>
                                                 </article>
-                                                <article class="tstk-ele tstk-ele-portfolio tstk-portfolio-style-1 col-md-6 col-lg-3 factory tstk-term-43  ">
+                                                <article class="tstk-ele tstk-ele-portfolio tstk-portfolio-style-1 col-md-6 col-lg-3 sewage tstk-term-36">
                                                    <div class="themestek-post-content">
                                                       <div class="tstk-portfolio-img-wrapper">
-                                                         <div class="tstk-featured-wrapper"><img loading="lazy" decoding="async" width="770" height="520" src="wp-content/uploads/sites/5/2021/09/project-new-02-770x520.jpg" class="attachment-tstk-img-770x520 size-tstk-img-770x520 wp-post-image" alt="" /></div>
+                                                         <div class="tstk-featured-wrapper"><img loading="lazy" decoding="async" width="770" height="520" src="images/products/Sewarage.png" class="attachment-tstk-img-770x520 size-tstk-img-770x520 wp-post-image" alt="Sewage Piping System" /></div>
                                                          <div class="themestek-icon-box themestek-media-link">			  	
-                                                            <a class="tstk-lightbox" title="Manufacture Petroleum Camber" href="wp-content/uploads/sites/5/2021/09/project-new-02.jpg"><i class=" tstk-base-icon-plus"></i></a>
+                                                            <a class="tstk-lightbox" title="Sewage Piping System" href="images/products/Sewarage.png"><i class="tstk-base-icon-plus"></i></a>
                                                          </div>
                                                       </div>
                                                       <div class="themestek-box-content">
                                                          <div class="themestek-titlebox">
-                                                            <h6 class="tstk-port-cat"><a href="portfolio-category/factory/index.html" rel="tag">Factory</a></h6>
-                                                            <h3 class="tstk-portfolio-title"><a href="portfolio/manufacture-petroleum-camber/index.html">Manufacture Petroleum Camber</a></h3>
+                                                            <h6 class="tstk-port-cat"><a href="sewage-piping-system.php" rel="tag">Sewage</a></h6>
+                                                            <h3 class="tstk-portfolio-title"><a href="sewage-piping-system.php">Sewage Piping System</a></h3>
                                                          </div>
                                                       </div>
                                                    </div>
                                                 </article>
-                                                <article class="tstk-ele tstk-ele-portfolio tstk-portfolio-style-1 col-md-6 col-lg-3 construction tstk-term-38  ">
+                                                <article class="tstk-ele tstk-ele-portfolio tstk-portfolio-style-1 col-md-6 col-lg-3 chemical tstk-term-36">
                                                    <div class="themestek-post-content">
                                                       <div class="tstk-portfolio-img-wrapper">
-                                                         <div class="tstk-featured-wrapper"><img loading="lazy" decoding="async" width="770" height="520" src="wp-content/uploads/sites/5/2021/09/project-new-03-770x520.jpg" class="attachment-tstk-img-770x520 size-tstk-img-770x520 wp-post-image" alt="" /></div>
+                                                         <div class="tstk-featured-wrapper"><img loading="lazy" decoding="async" width="770" height="520" src="images/products/Chemical.png" class="attachment-tstk-img-770x520 size-tstk-img-770x520 wp-post-image" alt="Chemical Industries" /></div>
                                                          <div class="themestek-icon-box themestek-media-link">			  	
-                                                            <a class="tstk-lightbox" title="Building Construction Project" href="wp-content/uploads/sites/5/2021/09/project-new-03.jpg"><i class=" tstk-base-icon-plus"></i></a>
+                                                            <a class="tstk-lightbox" title="Chemical Industries" href="images/products/Chemical.png"><i class="tstk-base-icon-plus"></i></a>
                                                          </div>
                                                       </div>
                                                       <div class="themestek-box-content">
                                                          <div class="themestek-titlebox">
-                                                            <h6 class="tstk-port-cat"><a href="portfolio-category/construction/index.html" rel="tag">Construction</a></h6>
-                                                            <h3 class="tstk-portfolio-title"><a href="portfolio/building-construction-project/index.html">Building Construction Project</a></h3>
+                                                            <h6 class="tstk-port-cat"><a href="chemical-industries.php" rel="tag">Chemical</a></h6>
+                                                            <h3 class="tstk-portfolio-title"><a href="chemical-industries.php">Chemical Industries</a></h3>
                                                          </div>
                                                       </div>
                                                    </div>
                                                 </article>
-                                                <article class="tstk-ele tstk-ele-portfolio tstk-portfolio-style-1 col-md-6 col-lg-3 engineering tstk-term-42  ">
+                                                <article class="tstk-ele tstk-ele-portfolio tstk-portfolio-style-1 col-md-6 col-lg-3 effluent tstk-term-36">
                                                    <div class="themestek-post-content">
                                                       <div class="tstk-portfolio-img-wrapper">
-                                                         <div class="tstk-featured-wrapper"><img loading="lazy" decoding="async" width="770" height="520" src="wp-content/uploads/sites/5/2021/09/project-new-04-770x520.jpg" class="attachment-tstk-img-770x520 size-tstk-img-770x520 wp-post-image" alt="" /></div>
+                                                         <div class="tstk-featured-wrapper"><img loading="lazy" decoding="async" width="770" height="520" src="images/products/ETP.jpeg" class="attachment-tstk-img-770x520 size-tstk-img-770x520 wp-post-image" alt="Plant Effluent Disposal" /></div>
                                                          <div class="themestek-icon-box themestek-media-link">			  	
-                                                            <a class="tstk-lightbox" title="Boston Railway Elements" href="wp-content/uploads/sites/5/2021/09/project-new-04.jpg"><i class=" tstk-base-icon-plus"></i></a>
+                                                            <a class="tstk-lightbox" title="Plant Effluent Disposal" href="images/products/ETP.jpeg"><i class="tstk-base-icon-plus"></i></a>
                                                          </div>
                                                       </div>
                                                       <div class="themestek-box-content">
                                                          <div class="themestek-titlebox">
-                                                            <h6 class="tstk-port-cat"><a href="portfolio-category/engineering/index.html" rel="tag">Engineering</a></h6>
-                                                            <h3 class="tstk-portfolio-title"><a href="portfolio/boston-railway-elements/index.html">Boston Railway Elements</a></h3>
+                                                            <h6 class="tstk-port-cat"><a href="plant-effluent-disposal.php" rel="tag">Effluent</a></h6>
+                                                            <h3 class="tstk-portfolio-title"><a href="plant-effluent-disposal.php">Plant Effluent Disposal</a></h3>
                                                          </div>
                                                       </div>
                                                    </div>
                                                 </article>
-                                                <article class="tstk-ele tstk-ele-portfolio tstk-portfolio-style-1 col-md-6 col-lg-3 manufacture tstk-term-51  ">
+                                                <article class="tstk-ele tstk-ele-portfolio tstk-portfolio-style-1 col-md-6 col-lg-3 wastewater tstk-term-36">
                                                    <div class="themestek-post-content">
                                                       <div class="tstk-portfolio-img-wrapper">
-                                                         <div class="tstk-featured-wrapper"><img loading="lazy" decoding="async" width="770" height="520" src="wp-content/uploads/sites/5/2021/09/project-new-05-770x520.jpg" class="attachment-tstk-img-770x520 size-tstk-img-770x520 wp-post-image" alt="" /></div>
+                                                         <div class="tstk-featured-wrapper"><img loading="lazy" decoding="async" width="770" height="520" src="images/products/HDPE-Pipe-for-Wastewater-Management.webp" class="attachment-tstk-img-770x520 size-tstk-img-770x520 wp-post-image" alt="Waste Water Disposal Pipeline" /></div>
                                                          <div class="themestek-icon-box themestek-media-link">			  	
-                                                            <a class="tstk-lightbox" title="GC Phoenix Engineering" href="wp-content/uploads/sites/5/2021/09/project-new-05.jpg"><i class=" tstk-base-icon-plus"></i></a>
+                                                            <a class="tstk-lightbox" title="Waste Water Disposal Pipeline" href="images/products/HDPE-Pipe-for-Wastewater-Management.webp"><i class="tstk-base-icon-plus"></i></a>
                                                          </div>
                                                       </div>
                                                       <div class="themestek-box-content">
                                                          <div class="themestek-titlebox">
-                                                            <h6 class="tstk-port-cat"><a href="portfolio-category/manufacture/index.html" rel="tag">Manufacture</a></h6>
-                                                            <h3 class="tstk-portfolio-title"><a href="portfolio/gc-phoenix-engineering/index.html">GC Phoenix Engineering</a></h3>
+                                                            <h6 class="tstk-port-cat"><a href="waste-water-disposal-pipeline.php" rel="tag">Wastewater</a></h6>
+                                                            <h3 class="tstk-portfolio-title"><a href="waste-water-disposal-pipeline.php">Waste Water Disposal Pipeline</a></h3>
                                                          </div>
                                                       </div>
                                                    </div>
                                                 </article>
-                                                <article class="tstk-ele tstk-ele-portfolio tstk-portfolio-style-1 col-md-6 col-lg-3 industrial tstk-term-49  ">
+                                                <article class="tstk-ele tstk-ele-portfolio tstk-portfolio-style-1 col-md-6 col-lg-3 irrigation tstk-term-36">
                                                    <div class="themestek-post-content">
                                                       <div class="tstk-portfolio-img-wrapper">
-                                                         <div class="tstk-featured-wrapper"><img loading="lazy" decoding="async" width="770" height="520" src="wp-content/uploads/sites/5/2021/09/project-new-06-770x520.jpg" class="attachment-tstk-img-770x520 size-tstk-img-770x520 wp-post-image" alt="" /></div>
+                                                         <div class="tstk-featured-wrapper"><img loading="lazy" decoding="async" width="770" height="520" src="images/products/Lift irrigation.jpeg" class="attachment-tstk-img-770x520 size-tstk-img-770x520 wp-post-image" alt="Lift Irrigation System" /></div>
                                                          <div class="themestek-icon-box themestek-media-link">			  	
-                                                            <a class="tstk-lightbox" title="Industry Logistic Solutions" href="wp-content/uploads/sites/5/2021/09/project-new-06.jpg"><i class=" tstk-base-icon-plus"></i></a>
+                                                            <a class="tstk-lightbox" title="Lift Irrigation System" href="images/products/Lift irrigation.jpeg"><i class="tstk-base-icon-plus"></i></a>
                                                          </div>
                                                       </div>
                                                       <div class="themestek-box-content">
                                                          <div class="themestek-titlebox">
-                                                            <h6 class="tstk-port-cat"><a href="portfolio-category/industrial/index.html" rel="tag">Industrial</a></h6>
-                                                            <h3 class="tstk-portfolio-title"><a href="portfolio/industry-logistic-solutions/index.html">Industry Logistic Solutions</a></h3>
+                                                            <h6 class="tstk-port-cat"><a href="lift-irrigation-system.php" rel="tag">Irrigation</a></h6>
+                                                            <h3 class="tstk-portfolio-title"><a href="lift-irrigation-system.php">Lift Irrigation System</a></h3>
                                                          </div>
                                                       </div>
                                                    </div>
                                                 </article>
-                                                <article class="tstk-ele tstk-ele-portfolio tstk-portfolio-style-1 col-md-6 col-lg-3 construction tstk-term-38  ">
+                                                <article class="tstk-ele tstk-ele-portfolio tstk-portfolio-style-1 col-md-6 col-lg-3 agricultural tstk-term-36">
                                                    <div class="themestek-post-content">
                                                       <div class="tstk-portfolio-img-wrapper">
-                                                         <div class="tstk-featured-wrapper"><img loading="lazy" decoding="async" width="770" height="520" src="wp-content/uploads/sites/5/2021/09/project-new-07-770x520.jpg" class="attachment-tstk-img-770x520 size-tstk-img-770x520 wp-post-image" alt="" /></div>
+                                                         <div class="tstk-featured-wrapper"><img loading="lazy" decoding="async" width="770" height="520" src="images/products/Agricultural.png" class="attachment-tstk-img-770x520 size-tstk-img-770x520 wp-post-image" alt="Agricultural" /></div>
                                                          <div class="themestek-icon-box themestek-media-link">			  	
-                                                            <a class="tstk-lightbox" title="Construction Online Event" href="wp-content/uploads/sites/5/2021/09/project-new-07.jpg"><i class=" tstk-base-icon-plus"></i></a>
+                                                            <a class="tstk-lightbox" title="Agricultural" href="images/products/Agricultural.png"><i class="tstk-base-icon-plus"></i></a>
                                                          </div>
                                                       </div>
                                                       <div class="themestek-box-content">
                                                          <div class="themestek-titlebox">
-                                                            <h6 class="tstk-port-cat"><a href="portfolio-category/construction/index.html" rel="tag">Construction</a></h6>
-                                                            <h3 class="tstk-portfolio-title"><a href="portfolio/construction-online-event/index.html">Construction Online Event</a></h3>
+                                                            <h6 class="tstk-port-cat"><a href="agricultural.php" rel="tag">Agricultural</a></h6>
+                                                            <h3 class="tstk-portfolio-title"><a href="agricultural.php">Agricultural</a></h3>
                                                          </div>
                                                       </div>
                                                    </div>
                                                 </article>
-                                                <article class="tstk-ele tstk-ele-portfolio tstk-portfolio-style-1 col-md-6 col-lg-3 engineering tstk-term-42  ">
+                                                <article class="tstk-ele tstk-ele-portfolio tstk-portfolio-style-1 col-md-6 col-lg-3 gas tstk-term-36">
                                                    <div class="themestek-post-content">
                                                       <div class="tstk-portfolio-img-wrapper">
-                                                         <div class="tstk-featured-wrapper"><img loading="lazy" decoding="async" width="770" height="520" src="wp-content/uploads/sites/5/2021/09/project-new-08-770x520.jpg" class="attachment-tstk-img-770x520 size-tstk-img-770x520 wp-post-image" alt="" /></div>
+                                                         <div class="tstk-featured-wrapper"><img loading="lazy" decoding="async" width="770" height="520" src="images/products/Gas Pipe Line.jpg.jpeg" class="attachment-tstk-img-770x520 size-tstk-img-770x520 wp-post-image" alt="Fuel Gas Distribution" /></div>
                                                          <div class="themestek-icon-box themestek-media-link">			  	
-                                                            <a class="tstk-lightbox" title="Mineral Specialty Solutions" href="wp-content/uploads/sites/5/2021/09/project-new-08.jpg"><i class=" tstk-base-icon-plus"></i></a>
+                                                            <a class="tstk-lightbox" title="Fuel Gas Distribution" href="images/products/Gas Pipe Line.jpg.jpeg"><i class="tstk-base-icon-plus"></i></a>
                                                          </div>
                                                       </div>
                                                       <div class="themestek-box-content">
                                                          <div class="themestek-titlebox">
-                                                            <h6 class="tstk-port-cat"><a href="portfolio-category/engineering/index.html" rel="tag">Engineering</a></h6>
-                                                            <h3 class="tstk-portfolio-title"><a href="portfolio/mineral-specialty-solutions/index.html">Mineral Specialty Solutions</a></h3>
+                                                            <h6 class="tstk-port-cat"><a href="fuel-gas-distribution.php" rel="tag">Gas</a></h6>
+                                                            <h3 class="tstk-portfolio-title"><a href="fuel-gas-distribution.php">Fuel Gas Distribution</a></h3>
                                                          </div>
                                                       </div>
                                                    </div>
                                                 </article>
-                                                <article class="tstk-ele tstk-ele-portfolio tstk-portfolio-style-1 col-md-6 col-lg-3 industrial tstk-term-49  ">
+                                                <article class="tstk-ele tstk-ele-portfolio tstk-portfolio-style-1 col-md-6 col-lg-3 construction tstk-term-36">
                                                    <div class="themestek-post-content">
                                                       <div class="tstk-portfolio-img-wrapper">
-                                                         <div class="tstk-featured-wrapper"><img loading="lazy" decoding="async" width="770" height="520" src="wp-content/uploads/sites/5/2021/09/project-new-09-770x520.jpg" class="attachment-tstk-img-770x520 size-tstk-img-770x520 wp-post-image" alt="" /></div>
+                                                         <div class="tstk-featured-wrapper"><img loading="lazy" decoding="async" width="770" height="520" src="images/products/Construction.jpg.jpeg" class="attachment-tstk-img-770x520 size-tstk-img-770x520 wp-post-image" alt="Construction Industry" /></div>
                                                          <div class="themestek-icon-box themestek-media-link">			  	
-                                                            <a class="tstk-lightbox" title="SGA Recruitment Solutions" href="wp-content/uploads/sites/5/2021/09/project-new-09.jpg"><i class=" tstk-base-icon-plus"></i></a>
+                                                            <a class="tstk-lightbox" title="Construction Industry" href="images/products/Construction.jpg.jpeg"><i class="tstk-base-icon-plus"></i></a>
                                                          </div>
                                                       </div>
                                                       <div class="themestek-box-content">
                                                          <div class="themestek-titlebox">
-                                                            <h6 class="tstk-port-cat"><a href="portfolio-category/industrial/index.html" rel="tag">Industrial</a></h6>
-                                                            <h3 class="tstk-portfolio-title"><a href="portfolio/sga-recruitment-solutions/index.html">SGA Recruitment Solutions</a></h3>
+                                                            <h6 class="tstk-port-cat"><a href="construction-industry.php" rel="tag">Construction</a></h6>
+                                                            <h3 class="tstk-portfolio-title"><a href="construction-industry.php">Construction Industry</a></h3>
+                                                         </div>
+                                                      </div>
+                                                   </div>
+                                                </article>
+                                                <article class="tstk-ele tstk-ele-portfolio tstk-portfolio-style-1 col-md-6 col-lg-3 ducting tstk-term-36">
+                                                   <div class="themestek-post-content">
+                                                      <div class="tstk-portfolio-img-wrapper">
+                                                         <div class="tstk-featured-wrapper"><img loading="lazy" decoding="async" width="770" height="520" src="images/products/Cable Duction.png" class="attachment-tstk-img-770x520 size-tstk-img-770x520 wp-post-image" alt="Electrical Cable Ducting" /></div>
+                                                         <div class="themestek-icon-box themestek-media-link">			  	
+                                                            <a class="tstk-lightbox" title="Electrical Cable Ducting" href="images/products/Cable Duction.png"><i class="tstk-base-icon-plus"></i></a>
+                                                         </div>
+                                                      </div>
+                                                      <div class="themestek-box-content">
+                                                         <div class="themestek-titlebox">
+                                                            <h6 class="tstk-port-cat"><a href="electrical-cable-ducting.php" rel="tag">Ducting</a></h6>
+                                                            <h3 class="tstk-portfolio-title"><a href="electrical-cable-ducting.php">Electrical Cable Ducting</a></h3>
+                                                         </div>
+                                                      </div>
+                                                   </div>
+                                                </article>
+                                                <article class="tstk-ele tstk-ele-portfolio tstk-portfolio-style-1 col-md-6 col-lg-3 marine tstk-term-36">
+                                                   <div class="themestek-post-content">
+                                                      <div class="tstk-portfolio-img-wrapper">
+                                                         <div class="tstk-featured-wrapper"><img loading="lazy" decoding="async" width="770" height="520" src="images/products/Marine and Dragging Piping.png" class="attachment-tstk-img-770x520 size-tstk-img-770x520 wp-post-image" alt="Marine & Dragging Piping" /></div>
+                                                         <div class="themestek-icon-box themestek-media-link">			  	
+                                                            <a class="tstk-lightbox" title="Marine & Dragging Piping" href="images/products/Marine and Dragging Piping.png"><i class="tstk-base-icon-plus"></i></a>
+                                                         </div>
+                                                      </div>
+                                                      <div class="themestek-box-content">
+                                                         <div class="themestek-titlebox">
+                                                            <h6 class="tstk-port-cat"><a href="marine-dragging-piping.php" rel="tag">Marine</a></h6>
+                                                            <h3 class="tstk-portfolio-title"><a href="marine-dragging-piping.php">Marine & Dragging Piping</a></h3>
                                                          </div>
                                                       </div>
                                                    </div>
