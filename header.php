@@ -53,7 +53,7 @@
       <link rel='stylesheet' id='dashicons-css' href='wp-includes/css/dashicons.minb34e.css?ver=6.9.4' media='all' />
       <link rel='stylesheet' id='brands-styles-css' href='wp-content/plugins/woocommerce/assets/css/brands5c8b.css?ver=9.8.7' media='all' />
       <link rel='stylesheet' id='tstk-industrey-header-style-css' href='wp-content/themes/industrey/css/header/header-style-2.minb34e.css?ver=6.9.4' media='all' />
-      <link rel='stylesheet' id='tstk-service-style-4-css' href='wp-content/themes/industrey/css/product/service-style-4.minb34e.css?ver=6.9.4' media='all' />
+      <link rel='stylesheet' id='tstk-service-style-4-css' href='wp-content/themes/industrey/css/service/service-style-4.minb34e.css?ver=6.9.4' media='all' />
       <link rel='stylesheet' id='tstk-icon-heading-style-11-css' href='wp-content/themes/industrey/css/icon-heading/icon-heading-style-11.minb34e.css?ver=6.9.4' media='all' />
       <link rel='stylesheet' id='tstk-fid-style-4-css' href='wp-content/themes/industrey/css/fid/fid-style-4.minb34e.css?ver=6.9.4' media='all' />
       <link rel='stylesheet' id='tstk-icon-heading-style-8-css' href='wp-content/themes/industrey/css/icon-heading/icon-heading-style-8.minb34e.css?ver=6.9.4' media='all' />
@@ -326,7 +326,7 @@
                   <div class="tstk-logo-menuarea">
                      <div class="site-branding tstk-logo-area">
                         <div class="wrap">
-                           <h1 class="site-title"><a href="index.php" rel="home"><span class="site-title-text">Industrey Demo3 - Industry and Engineering WordPress Theme</span><img class="tstk-main-logo" src="wp-content/themes/industrey/images/logo.png" alt="Industrey Demo3" title="Industrey Demo3" /><img class="tstk-sticky-logo" src="wp-content/themes/industrey/images/logo.png" alt="Industrey Demo3" title="Industrey Demo3" /></a></h1>
+                           <h1 class="site-title"><a href="index.php" rel="home"><span class="site-title-text">Reliable HDPE Pipe Solutions</span><img class="tstk-main-logo" src="wp-content/themes/industrey/images/logo.png" alt="Industrey Demo3" title="Industrey Demo3" /><img class="tstk-sticky-logo" src="wp-content/themes/industrey/images/logo.png" alt="Industrey Demo3" title="Industrey Demo3" /></a></h1>
                            <!-- Logo area -->
                         </div>
                         <!-- .wrap -->
@@ -404,8 +404,8 @@
             <rs-module-wrap id="rev_slider_1_1_wrapper" data-source="gallery" style="visibility:hidden;background:transparent;padding:0;margin:0px auto;margin-top:0;margin-bottom:0;">
                <rs-module id="rev_slider_1_1" style="" data-version="6.7.20">
                   <rs-slides style="overflow: hidden; position: absolute;">
-                     <rs-slide style="position: absolute;" data-key="rs-1" data-title="Slide" data-thumb="//industrey-demo.pbminfotech.com/demo3/wp-content/uploads/sites/5/revslider/slider-demo-3/slider03-img1-50x100.jpg" data-anim="adpr:false;" data-in="o:0;" data-out="a:false;">
-                        <img fetchpriority="high" src="wp-content/plugins/revslider/sr6/assets/assets/dummy.png" alt="" title="slider03-img1.jpg" width="1920" height="815" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="//industrey-demo.pbminfotech.com/demo3/wp-content/uploads/sites/5/revslider/slider-demo-3/slider03-img1.jpg" data-no-retina>
+                     <rs-slide style="position: absolute;" data-key="rs-1" data-title="Slide" data-thumb="images/slider1.jpeg" data-anim="adpr:false;" data-in="o:0;" data-out="a:false;">
+                        <img fetchpriority="high" src="wp-content/plugins/revslider/sr6/assets/assets/dummy.png" alt="" title="slider03-img1.jpg" width="1920" height="815" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="images/slider1.jpeg" data-no-retina>
                         <!--
                            -->
                         <rs-layer
@@ -495,8 +495,8 @@
                         <!--
                            -->					
                      </rs-slide>
-                     <rs-slide style="position: absolute;" data-key="rs-3" data-title="Slide" data-thumb="//industrey-demo.pbminfotech.com/demo3/wp-content/uploads/sites/5/revslider/slider-demo-3/slider03-img2-50x100.jpg" data-anim="adpr:false;" data-in="o:0;" data-out="a:false;">
-                        <img src="wp-content/plugins/revslider/sr6/assets/assets/dummy.png" alt="" title="slider03-img2.jpg" width="1920" height="815" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="//industrey-demo.pbminfotech.com/demo3/wp-content/uploads/sites/5/revslider/slider-demo-3/slider03-img2.jpg" data-no-retina>
+                     <rs-slide style="position: absolute;" data-key="rs-3" data-title="Slide" data-thumb="images/slider2.jpeg" data-anim="adpr:false;" data-in="o:0;" data-out="a:false;">
+                        <img src="wp-content/plugins/revslider/sr6/assets/assets/dummy.png" alt="" title="slider03-img2.jpg" width="1920" height="815" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="images/slider2.jpeg" data-no-retina>
                         <!--
                            -->
                         <rs-layer
