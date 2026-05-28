@@ -1,0 +1,266 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("flaticon6c97.ttf?ad9a54ae51fc0858013b365f391d7322") format("truetype"),
+url("flaticon6c97.woff?ad9a54ae51fc0858013b365f391d7322") format("woff"),
+url("flaticon6c97.woff2?ad9a54ae51fc0858013b365f391d7322") format("woff2"),
+url("flaticon6c97.eot?ad9a54ae51fc0858013b365f391d7322#iefix") format("embedded-opentype"),
+url("flaticon6c97.svg?ad9a54ae51fc0858013b365f391d7322#flaticon") format("svg");
+}
+
+i[class^="tstk-industrey-icon-"]:before, i[class*=" tstk-industrey-icon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+}
+
+.tstk-industrey-icon-back:before {
+    content: "\f101";
+}
+.tstk-industrey-icon-next:before {
+    content: "\f102";
+}
+.tstk-industrey-icon-conveyor:before {
+    content: "\f103";
+}
+.tstk-industrey-icon-coal:before {
+    content: "\f104";
+}
+.tstk-industrey-icon-cosmetic:before {
+    content: "\f105";
+}
+.tstk-industrey-icon-chemicals:before {
+    content: "\f106";
+}
+.tstk-industrey-icon-screwdriver:before {
+    content: "\f107";
+}
+.tstk-industrey-icon-pipe:before {
+    content: "\f108";
+}
+.tstk-industrey-icon-warehouse:before {
+    content: "\f109";
+}
+.tstk-industrey-icon-welder:before {
+    content: "\f10a";
+}
+.tstk-industrey-icon-refinery:before {
+    content: "\f10b";
+}
+.tstk-industrey-icon-drilling-rig:before {
+    content: "\f10c";
+}
+.tstk-industrey-icon-gear:before {
+    content: "\f10d";
+}
+.tstk-industrey-icon-package:before {
+    content: "\f10e";
+}
+.tstk-industrey-icon-windmill:before {
+    content: "\f10f";
+}
+.tstk-industrey-icon-industry:before {
+    content: "\f110";
+}
+.tstk-industrey-icon-hook:before {
+    content: "\f111";
+}
+.tstk-industrey-icon-meter:before {
+    content: "\f112";
+}
+.tstk-industrey-icon-tank:before {
+    content: "\f113";
+}
+.tstk-industrey-icon-security-helmet:before {
+    content: "\f114";
+}
+.tstk-industrey-icon-factory:before {
+    content: "\f115";
+}
+.tstk-industrey-icon-packages:before {
+    content: "\f116";
+}
+.tstk-industrey-icon-wrench:before {
+    content: "\f117";
+}
+.tstk-industrey-icon-food-industry:before {
+    content: "\f118";
+}
+.tstk-industrey-icon-waste-water:before {
+    content: "\f119";
+}
+.tstk-industrey-icon-power-plant:before {
+    content: "\f11a";
+}
+.tstk-industrey-icon-plug:before {
+    content: "\f11b";
+}
+.tstk-industrey-icon-truck:before {
+    content: "\f11c";
+}
+.tstk-industrey-icon-food-industry-1:before {
+    content: "\f11d";
+}
+.tstk-industrey-icon-forklift:before {
+    content: "\f11e";
+}
+.tstk-industrey-icon-construction-worker:before {
+    content: "\f11f";
+}
+.tstk-industrey-icon-vest:before {
+    content: "\f120";
+}
+.tstk-industrey-icon-control-panel:before {
+    content: "\f121";
+}
+.tstk-industrey-icon-cargo-ship:before {
+    content: "\f122";
+}
+.tstk-industrey-icon-battery:before {
+    content: "\f123";
+}
+.tstk-industrey-icon-gas-mask:before {
+    content: "\f124";
+}
+.tstk-industrey-icon-barrel:before {
+    content: "\f125";
+}
+.tstk-industrey-icon-construction-worker-1:before {
+    content: "\f126";
+}
+.tstk-industrey-icon-battery-1:before {
+    content: "\f127";
+}
+.tstk-industrey-icon-industry-1:before {
+    content: "\f128";
+}
+.tstk-industrey-icon-valve:before {
+    content: "\f129";
+}
+.tstk-industrey-icon-gloves:before {
+    content: "\f12a";
+}
+.tstk-industrey-icon-saw:before {
+    content: "\f12b";
+}
+.tstk-industrey-icon-scissor-lift:before {
+    content: "\f12c";
+}
+.tstk-industrey-icon-oil-tank:before {
+    content: "\f12d";
+}
+.tstk-industrey-icon-oil-pump:before {
+    content: "\f12e";
+}
+.tstk-industrey-icon-factory-1:before {
+    content: "\f12f";
+}
+.tstk-industrey-icon-container:before {
+    content: "\f130";
+}
+.tstk-industrey-icon-oil-industry:before {
+    content: "\f131";
+}
+.tstk-industrey-icon-packages-1:before {
+    content: "\f132";
+}
+.tstk-industrey-icon-plan:before {
+    content: "\f133";
+}
+.tstk-industrey-icon-factory-2:before {
+    content: "\f134";
+}
+.tstk-industrey-icon-loupe:before {
+    content: "\f135";
+}
+.tstk-industrey-icon-shopping-cart:before {
+    content: "\f136";
+}
+.tstk-industrey-icon-conveyor-1:before {
+    content: "\f137";
+}
+.tstk-industrey-icon-factory-3:before {
+    content: "\f138";
+}
+.tstk-industrey-icon-engineer:before {
+    content: "\f139";
+}
+.tstk-industrey-icon-valve-1:before {
+    content: "\f13a";
+}
+.tstk-industrey-icon-barrel-1:before {
+    content: "\f13b";
+}
+.tstk-industrey-icon-eolic-energy:before {
+    content: "\f13c";
+}
+.tstk-industrey-icon-helmet:before {
+    content: "\f13d";
+}
+.tstk-industrey-icon-professional:before {
+    content: "\f13e";
+}
+.tstk-industrey-icon-forklift-1:before {
+    content: "\f13f";
+}
+.tstk-industrey-icon-solar-panel:before {
+    content: "\f140";
+}
+.tstk-industrey-icon-fuel-truck:before {
+    content: "\f141";
+}
+.tstk-industrey-icon-battery-2:before {
+    content: "\f142";
+}
+.tstk-industrey-icon-tick:before {
+    content: "\f143";
+}
+.tstk-industrey-icon-conversation:before {
+    content: "\f144";
+}
+.tstk-industrey-icon-call:before {
+    content: "\f145";
+}
+.tstk-industrey-icon-helmet-1:before {
+    content: "\f146";
+}
+.tstk-industrey-icon-location:before {
+    content: "\f147";
+}
+.tstk-industrey-icon-send:before {
+    content: "\f148";
+}
+.tstk-industrey-icon-telephone:before {
+    content: "\f149";
+}
+.tstk-industrey-icon-world:before {
+    content: "\f14a";
+}
+.tstk-industrey-icon-time-call:before {
+    content: "\f14b";
+}
+.tstk-industrey-icon-chat:before {
+    content: "\f14c";
+}
+.tstk-industrey-icon-email:before {
+    content: "\f14d";
+}
+.tstk-industrey-icon-mailbox:before {
+    content: "\f14e";
+}
+.tstk-industrey-icon-guarantee:before {
+    content: "\f14f";
+}
+.tstk-industrey-icon-plus:before {
+    content: "\f150";
+}
+.tstk-industrey-icon-medal:before {
+    content: "\f151";
+}
+.tstk-industrey-icon-certificate:before {
+    content: "\f152";
+}
+.tstk-industrey-icon-winner:before {
+    content: "\f153";
+}
+.tstk-industrey-icon-trophy:before {
+    content: "\f154";
+}
