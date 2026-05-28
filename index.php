@@ -652,19 +652,7 @@
                                              <div class="elementor-element elementor-element-65fd309 elementor-widget elementor-widget-tstk_icon_heading" data-id="65fd309" data-element_type="widget" data-widget_type="tstk_icon_heading.default">
                                                 <div class="elementor-widget-container">
                                                    <div class="tstk-ihbox tstk-ihbox-style-3">
-                                                      <div class="tstk-ihbox-box">
-                                                         <div class="tstk-ihbox-headingicon d-flex align-items-center">
-                                                            <div class="tstk-ihbox-icon">
-                                                               <div class="tstk-ihbox-icon-wrapper tstk-ihbox-icon-type-image"><img decoding="async" src="wp-content/uploads/sites/5/2021/09/testimonial-06.jpg" alt="As a app web crawler expert, I help &lt;a href=index.html#&quot;&gt;organizations adjust to the expanding&lt;br&gt; &lt;/a&gt; significance of internet promoting." /></div>
-                                                            </div>
-                                                            <div class="tstk-ihbox-contents">
-                                                               <h2 class="tstk-element-title">
-                                                                  As a app web crawler expert, I help <a href="#">organizations adjust to the expanding<br> </a> significance of internet promoting.
-                                                               </h2>
-                                                            </div>
-                                                            <!-- .tstk-ihbox-contents -->
-                                                         </div>
-                                                      </div>
+                                                     
                                                    </div>
                                                 </div>
                                              </div>
@@ -699,16 +687,11 @@
                                                          <div class="themestek-testimonial-wrapper">
                                                             <div class="themestek-box-desc">
                                                                <blockquote class="themestek-testimonial-text">
-                                                                  <p>“ After being forced to move twice within five years, our customers had a hard time finding us and our sales plummeted. The Trydus Co. not only revitalized our brand, but saved our nearly 100-year-old family business from the brink of ruin.”</p>
+                                                                  <p>“ Every pipe manufactured at Shri Krishna Rubber Industries is produced under strict quality standards. We conduct quality checks at every stage of production to ensure durability, strength, and long-lasting performance.”</p>
                                                                </blockquote>
                                                             </div>
                                                          </div>
-                                                         <div class="themestek-box-img d-flex justify-content-center align-items-center">
-                                                            <div class="themestek-box-author">
-                                                               <h3 class="themestek-box-title">Amanda Pryor</h3>
-                                                               <div class="themestek-testimonial-detail">Manager</div>
-                                                            </div>
-                                                         </div>
+                                                         
                                                       </div>
                                                    </div>
                                                 </article>
@@ -718,38 +701,15 @@
                                                          <div class="themestek-testimonial-wrapper">
                                                             <div class="themestek-box-desc">
                                                                <blockquote class="themestek-testimonial-text">
-                                                                  <p>“ After being forced to move twice within five years, our customers had a hard time finding us and our sales plummeted. The Trydus Co. not only revitalized our brand, but saved our nearly 100-year-old family business from the brink of ruin.”</p>
+                                                                  <p>“ Every pipe manufactured at Shri Krishna Rubber Industries is produced under strict quality standards. We conduct quality checks at every stage of production to ensure durability, strength, and long-lasting performance.”</p>
                                                                </blockquote>
                                                             </div>
                                                          </div>
-                                                         <div class="themestek-box-img d-flex justify-content-center align-items-center">
-                                                            <div class="themestek-box-author">
-                                                               <h3 class="themestek-box-title">Rick Jason</h3>
-                                                               <div class="themestek-testimonial-detail">Manager</div>
-                                                            </div>
-                                                         </div>
+                                                         
                                                       </div>
                                                    </div>
                                                 </article>
-                                                <article class="tstk-ele tstk-ele-testimonial tstk-testimonial-style-3 col-md-12  tstk-odd tstk-col-odd">
-                                                   <div class="themestek-post-item">
-                                                      <div class="themestek-box-content">
-                                                         <div class="themestek-testimonial-wrapper">
-                                                            <div class="themestek-box-desc">
-                                                               <blockquote class="themestek-testimonial-text">
-                                                                  <p>“ After being forced to move twice within five years, our customers had a hard time finding us and our sales plummeted. The Trydus Co. not only revitalized our brand, but saved our nearly 100-year-old family business from the brink of ruin.”</p>
-                                                               </blockquote>
-                                                            </div>
-                                                         </div>
-                                                         <div class="themestek-box-img d-flex justify-content-center align-items-center">
-                                                            <div class="themestek-box-author">
-                                                               <h3 class="themestek-box-title">Cheryl Dunye</h3>
-                                                               <div class="themestek-testimonial-detail">Managing Director</div>
-                                                            </div>
-                                                         </div>
-                                                      </div>
-                                                   </div>
-                                                </article>
+                                                
                                              </div>
                                           </div>
                                           <!-- .themestek-element-inner -->   
@@ -1008,134 +968,9 @@
                            </div>
                         </div>
                      </section>
-                     <section class="elementor-section elementor-top-section elementor-element elementor-element-67e7684 tstk-col-stretched-none tstk-bg-color-over-image elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="67e7684" data-element_type="section">
-                        <div class="elementor-container elementor-column-gap-no">
-                           <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1030a7a tstk-bg-color-over-image" data-id="1030a7a" data-element_type="column">
-                              <div class="elementor-widget-wrap elementor-element-populated">
-                                 <div class="elementor-element elementor-element-09a6baf tstk-align-center elementor-widget elementor-widget-tstk_heading" data-id="09a6baf" data-element_type="widget" data-widget_type="tstk_heading.default">
-                                    <div class="elementor-widget-container">
-                                       <div class="tstk-heading-subheading center-align tstk-reverse-heading-yes">
-                                          <h4 class="tstk-element-subtitle">
-                                             Our Latest News
-                                          </h4>
-                                          <h2 class="tstk-element-title">
-                                             What's going on in our blog? 
-                                          </h2>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <div class="elementor-element elementor-element-72e1b3b tstk-align-left elementor-widget elementor-widget-tstk_blog_element" data-id="72e1b3b" data-element_type="widget" data-widget_type="tstk_blog_element.default">
-                                    <div class="elementor-widget-container">
-                                       <div class="themestek-element themestek-element-blog tstk-element-blog-style-3 themestek-element-viewtype-row-column themestek-gap-30px tstk-infinite-scroll-no tstk-infinite-scroll-button-no" data-cpt="blog" data-totalpagination="3" data-style="3" data-show="3" data-columns="3" data-loop="false" data-autoplay="false" data-center="false" data-nav="false" data-dots="false" data-autoplayspeed="1000" data-lasthalf="false" data-margin="30px">
-                                          <div class="themestek-element-inner">
-                                             <div class="tstk-infinite-scroll-data">{"cpt":"blog","style":"3","columns":"3","show":3,"order":"DESC","orderby":"DESC"}</div>
-                                             <div class="tstk-ele-header-area">
-                                                <div class="tstk-heading-subheading left-align "></div>
-                                             </div>
-                                             <div class="tstk-element-posts-wrapper row multi-columns-row">
-                                                <article class="tstk-ele tstk-ele-blog tstk-blog-style-3 col-md-4 manufacture tstk-term-22 tstk-odd tstk-col-odd">
-                                                   <div class="post-item">
-                                                      <div class="tstk-featured-container">
-                                                         <div class="tstk-featured-wrapper"><img loading="lazy" decoding="async" width="770" height="550" src="wp-content/uploads/sites/5/2021/09/blog-new-06-770x550.jpg" class="attachment-tstk-img-770x550 size-tstk-img-770x550 wp-post-image" alt="" /></div>
-                                                         <div class="tstk-meta-date-wrapper">					
-                                                            <span class="tstk-post-date">29</span><span class="tstk-post-month-year">Jun</span>
-                                                         </div>
-                                                      </div>
-                                                      <div class="themestek-box-content">
-                                                         <div class="tstk-meta-container">
-                                                            <div class="tstk-meta-author-wrapper tstk-meta-line">					
-                                                               <a href="author/industreypbm/index.html" title="Posted Admin" rel="author"> Admin</a>
-                                                            </div>
-                                                            <div class="tstk-meta-comment-wrapper tstk-meta-line">
-                                                               <div class="tstk-meta-category">
-                                                                  <div class="tstk-comment-wrapper">	
-                                                                     <span class="tstk-meta tstk-meta-comments">3 
-                                                                     <span class="tstk-meta tstk-comments-hide">Comments</span></span>
-                                                                  </div>
-                                                               </div>
-                                                            </div>
-                                                         </div>
-                                                         <h3 class="tstk-post-title"><a href="2021/06/29/we-provide-asset-management-and-monitoring-system/index.html">We provide Asset Management and Monitoring System</a></h3>
-                                                      </div>
-                                                   </div>
-                                                </article>
-                                                <article class="tstk-ele tstk-ele-blog tstk-blog-style-3 col-md-4 construction tstk-term-18 tstk-even tstk-col-odd">
-                                                   <div class="post-item">
-                                                      <div class="tstk-featured-container">
-                                                         <div class="tstk-featured-wrapper"><img loading="lazy" decoding="async" width="770" height="550" src="wp-content/uploads/sites/5/2021/09/blog-new-07-770x550.jpg" class="attachment-tstk-img-770x550 size-tstk-img-770x550 wp-post-image" alt="" /></div>
-                                                         <div class="tstk-meta-date-wrapper">					
-                                                            <span class="tstk-post-date">18</span><span class="tstk-post-month-year">Jun</span>
-                                                         </div>
-                                                      </div>
-                                                      <div class="themestek-box-content">
-                                                         <div class="tstk-meta-container">
-                                                            <div class="tstk-meta-author-wrapper tstk-meta-line">					
-                                                               <a href="author/industreypbm/index.html" title="Posted Admin" rel="author"> Admin</a>
-                                                            </div>
-                                                            <div class="tstk-meta-comment-wrapper tstk-meta-line">
-                                                               <div class="tstk-meta-category">
-                                                                  <div class="tstk-comment-wrapper">	
-                                                                     <span class="tstk-meta tstk-meta-comments">3 
-                                                                     <span class="tstk-meta tstk-comments-hide">Comments</span></span>
-                                                                  </div>
-                                                               </div>
-                                                            </div>
-                                                         </div>
-                                                         <h3 class="tstk-post-title"><a href="2021/06/18/modern-steel-for-apparatus-mix-filling-construction/index.html">Modern Steel for  Apparatus mix &amp; Filling Construction</a></h3>
-                                                      </div>
-                                                   </div>
-                                                </article>
-                                                <article class="tstk-ele tstk-ele-blog tstk-blog-style-3 col-md-4 industrial tstk-term-21 tstk-odd tstk-col-odd">
-                                                   <div class="post-item">
-                                                      <div class="tstk-featured-container">
-                                                         <div class="tstk-featured-wrapper"><img loading="lazy" decoding="async" width="770" height="550" src="wp-content/uploads/sites/5/2021/09/blog-new-08-770x550.jpg" class="attachment-tstk-img-770x550 size-tstk-img-770x550 wp-post-image" alt="" /></div>
-                                                         <div class="tstk-meta-date-wrapper">					
-                                                            <span class="tstk-post-date">10</span><span class="tstk-post-month-year">Jun</span>
-                                                         </div>
-                                                      </div>
-                                                      <div class="themestek-box-content">
-                                                         <div class="tstk-meta-container">
-                                                            <div class="tstk-meta-author-wrapper tstk-meta-line">					
-                                                               <a href="author/industreypbm/index.html" title="Posted Admin" rel="author"> Admin</a>
-                                                            </div>
-                                                            <div class="tstk-meta-comment-wrapper tstk-meta-line">
-                                                               <div class="tstk-meta-category">
-                                                                  <div class="tstk-comment-wrapper">	
-                                                                     <span class="tstk-meta tstk-meta-comments">3 
-                                                                     <span class="tstk-meta tstk-comments-hide">Comments</span></span>
-                                                                  </div>
-                                                               </div>
-                                                            </div>
-                                                         </div>
-                                                         <h3 class="tstk-post-title"><a href="2021/06/10/get-the-best-solutions-for-wind-energy-systems-work/index.html">Get the best Solutions for  Wind Energy Systems work</a></h3>
-                                                      </div>
-                                                   </div>
-                                                </article>
-                                             </div>
-                                             <!-- .tstk-element-posts-wrapper -->
-                                          </div>
-                                          <!-- .themestek-element-inner -->   
-                                       </div>
-                                       <!-- .themestek-element -->  
-                                    </div>
-                                 </div>
-                                 <div class="elementor-element elementor-element-48f4a5b tstk-btn-style-outline elementor-align-center tstk-btn-shape-round tstk-btn-color-globalcolor elementor-widget elementor-widget-button" data-id="48f4a5b" data-element_type="widget" data-widget_type="button.default">
-                                    <div class="elementor-widget-container">
-                                       <div class="elementor-button-wrapper">
-                                          <a class="elementor-button elementor-button-link elementor-size-md" href="blog-grid-view/index.html">
-                                          <span class="elementor-button-content-wrapper">
-                                          <span class="elementor-button-text">View All blogs</span>
-                                          </span>
-                                          </a>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                     </section>
+                     
                   </div>
-                  <h3 class="tstk-hide">Homepage 3</h3>
+                 
                </div>
                <!-- .entry-content -->
             </div>

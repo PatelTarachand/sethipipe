@@ -82,7 +82,36 @@
       <link rel='stylesheet' id='elementor-icons-css' href='wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.minf25c.css?ver=5.35.0' media='all' />
       <link rel='stylesheet' id='elementor-frontend-css' href='wp-content/uploads/sites/5/elementor/css/custom-frontend.min02e2.css?ver=1634124432' media='all' />
       <link rel='stylesheet' id='elementor-post-5-css' href='wp-content/uploads/sites/5/elementor/css/post-502e2.css?ver=1634124432' media='all' />
+      <?php if (basename($_SERVER['PHP_SELF']) == 'index.php'): ?>
       <link rel='stylesheet' id='elementor-post-15796-css' href='wp-content/uploads/sites/5/elementor/css/post-157961bee.css?ver=1671626194' media='all' />
+      <?php elseif (basename($_SERVER['PHP_SELF']) == 'contact.php'): ?>
+      <link rel='stylesheet' id='tstk-icon-heading-style-9-css' href='wp-content/themes/industrey/css/icon-heading/icon-heading-style-9.minb34e.css?ver=6.9.4' media='all' />
+      <link rel='stylesheet' id='tstk-icon-heading-style-2-css' href='wp-content/themes/industrey/css/icon-heading/icon-heading-style-2.minb34e.css?ver=6.9.4' media='all' />
+      <link rel='stylesheet' id='elementor-post-12842-css' href='wp-content/uploads/sites/5/elementor/css/post-128420f4b.css?ver=1649407372' media='all' />
+       <?php elseif (basename($_SERVER['PHP_SELF']) == 'about-us.php'): ?>
+      <link rel='stylesheet' id='tstk-icon-heading-style-13-css' href='wp-content/themes/industrey/css/icon-heading/icon-heading-style-13.minb34e.css?ver=6.9.4' media='all' />
+      <link rel='stylesheet' id='tstk-fid-style-1-css' href='wp-content/themes/industrey/css/fid/fid-style-1.minb34e.css?ver=6.9.4' media='all' />
+      <link rel='stylesheet' id='tstk-static-box-style-1-css' href='wp-content/themes/industrey/css/static-box/static-box-style-1.minb34e.css?ver=6.9.4' media='all' />
+      <link rel='stylesheet' id='tstk-team-style-1-css' href='wp-content/themes/industrey/css/team/team-style-1.minb34e.css?ver=6.9.4' media='all' />
+      <link rel='stylesheet' id='tstk-testimonial-style-2-css' href='wp-content/themes/industrey/css/testimonial/testimonial-style-2.minb34e.css?ver=6.9.4' media='all' />
+      <link rel='stylesheet' id='elementor-post-12661-css' href='wp-content/uploads/sites/5/elementor/css/post-126611326.css?ver=1671688331' media='all' />
+      <?php elseif (in_array(basename($_SERVER['PHP_SELF']), [
+         'water-supply-scheme.php',
+         'sewage-piping-system.php',
+         'chemical-industries.php',
+         'plant-effluent-disposal.php',
+         'waste-water-disposal-pipeline.php',
+         'lift-irrigation-system.php',
+         'agricultural.php',
+         'fuel-gas-distribution.php',
+         'construction-industry.php',
+         'electrical-cable-ducting.php',
+         'marine-dragging-piping.php'
+      ])): ?>
+      <link rel='stylesheet' id='tstk-service-style-2-css' href='wp-content/themes/industrey/css/service/service-style-2.minb34e.css?ver=6.9.4' media='all' />
+      <link rel='stylesheet' id='tstk-team-style-2-css' href='wp-content/themes/industrey/css/team/team-style-2.minb34e.css?ver=6.9.4' media='all' />
+      <link rel='stylesheet' id='elementor-post-7558-css' href='wp-content/uploads/sites/5/elementor/css/post-75586b24.css?ver=1634841554' media='all' />
+      <?php endif; ?>
       <link rel='stylesheet' id='elementor-icons-tstk-industrey-icon-css' href='wp-content/themes/industrey/libraries/tstk-industrey-icon/flaticon8a54.css?ver=1.0.0' media='all' />
       <link rel='stylesheet' id='elementor-icons-shared-0-css' href='wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min52d5.css?ver=5.15.3' media='all' />
       <link rel='stylesheet' id='elementor-icons-fa-brands-css' href='wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min52d5.css?ver=5.15.3' media='all' />
@@ -282,8 +311,39 @@
          #rev_slider_1_1_wrapper .zeus .tp-bullet{box-sizing:content-box; -webkit-box-sizing:content-box; border-radius:50%;   background-color:rgba(0,0,0,0);   -webkit-transition:opacity 0.3s ease;   transition:opacity 0.3s ease;  width:13px;height:13px;  border:2px solid #ffffff}#rev_slider_1_1_wrapper .zeus .tp-bullet:after{content:''; position:absolute; width:100%; height:100%; left:0; border-radius:50%; background-color:#ffffff; -webkit-transform:scale(0); transform:scale(0); -webkit-transform-origin:50% 50%; transform-origin:50% 50%; -webkit-transition:-webkit-transform 0.3s ease; transition:transform 0.3s ease}#rev_slider_1_1_wrapper .zeus .tp-bullet.rs-touchhover:after,#rev_slider_1_1_wrapper .zeus .tp-bullet.selected:after{-webkit-transform:scale(1.2); transform:scale(1.2)}#rev_slider_1_1_wrapper .zeus .tp-bullet-image,#rev_slider_1_1_wrapper .zeus .tp-bullet-imageoverlay{width:135px; height:60px; position:absolute; background:#000; background:rgba(0,0,0,0.5); bottom:13px; margin-bottom:10px; transform:translateX(-50%); -webkit-transform:translateX(-50%); box-sizing:border-box; background-size:cover; background-position:center center; visibility:hidden; opacity:0;  -webkit-backface-visibility:hidden;  backface-visibility:hidden; -webkit-transform-origin:50% 50%;  transform-origin:50% 50%;   -webkit-transition:all 0.3s ease;   transition:all 0.3s ease; border-radius:4px}#rev_slider_1_1_wrapper .zeus .tp-bullet-title,#rev_slider_1_1_wrapper .zeus .tp-bullet-imageoverlay{z-index:2; -webkit-transition:all 0.5s ease;   transition:all 0.5s ease; transform:translateX(-50%); -webkit-transform:translateX(-50%)}#rev_slider_1_1_wrapper .zeus .tp-bullet-title{color:#ffffff; text-align:center; line-height:15px; font-size:13px; font-weight:600;  z-index:3;  visibility:hidden; opacity:0;  -webkit-backface-visibility:hidden;  backface-visibility:hidden; -webkit-transform-origin:50% 50%;  transform-origin:50% 50%;   -webkit-transition:all 0.3s ease;   transition:all 0.3s ease; position:absolute; bottom:45px; width:135px;   vertical-align:middle}#rev_slider_1_1_wrapper .zeus .tp-bullet.rs-touchhover .tp-bullet-title,#rev_slider_1_1_wrapper .zeus .tp-bullet.rs-touchhover .tp-bullet-image,#rev_slider_1_1_wrapper .zeus .tp-bullet.rs-touchhover .tp-bullet-imageoverlay{opacity:1;   visibility:visible;  -webkit-transform:translateY(0px) translateX(-50%);   transform:translateY(0px) translateX(-50%)}#rev_slider_1_1_wrapper .zeus.nav-dir-vertical .tp-bullet-image,#rev_slider_1_1_wrapper .zeus.nav-dir-vertical .tp-bullet-imageoverlay{bottom:auto; margin-right:10px; margin-bottom:0px; right:13px; transform:translateX(0px) translateY(-50%); -webkit-transform:translateX(0px) translateY(-50%)}#rev_slider_1_1_wrapper .zeus.nav-dir-vertical .tp-bullet.rs-touchhover .tp-bullet-image{transform:translateX(0px) translateY(-50%); -webkit-transform:translateX(0px) translateY(-50%)}#rev_slider_1_1_wrapper .zeus.nav-dir-vertical .tp-bullet-title,#rev_slider_1_1_wrapper .zeus.nav-dir-vertical .tp-bullet-imageoverlay{z-index:2; -webkit-transition:all 0.5s ease; transition:all 0.5s ease; transform:translateX(0px) translateY(-50%); -webkit-transform:translateX(0px) translateY(-50%)}#rev_slider_1_1_wrapper .zeus.nav-dir-vertical .tp-bullet-title{bottom:auto;   right:100%;   margin-right:10px}#rev_slider_1_1_wrapper .zeus.nav-dir-vertical .tp-bullet.rs-touchhover .tp-bullet-title,#rev_slider_1_1_wrapper .zeus.nav-dir-vertical .tp-bullet.rs-touchhover .tp-bullet-image,#rev_slider_1_1_wrapper .zeus.nav-dir-vertical .tp-bullet.rs-touchhover .tp-bullet-imageoverlay{transform:translateX(0px) translateY(-50%); -webkit-transform:translateX(0px) translateY(-50%)}#rev_slider_1_1_wrapper .zeus.nav-dir-vertical.nav-pos-hor-left .tp-bullet-image,#rev_slider_1_1_wrapper .zeus.nav-dir-vertical.nav-pos-hor-left .tp-bullet-imageoverlay{bottom:auto; margin-left:10px; margin-bottom:0px; left:13px; transform:translateX(0px) translateY(-50%); -webkit-transform:translateX(0px) translateY(-50%)}#rev_slider_1_1_wrapper .zeus.nav-dir-vertical.nav-pos-hor-left .tp-bullet.rs-touchhover .tp-bullet-image{transform:translateX(0px) translateY(-50%); -webkit-transform:translateX(0px) translateY(-50%)}#rev_slider_1_1_wrapper .zeus.nav-dir-vertical.nav-pos-hor-left .tp-bullet-title,#rev_slider_1_1_wrapper .zeus.nav-dir-vertical.nav-pos-hor-left .tp-bullet-imageoverlay{z-index:2; -webkit-transition:all 0.5s ease; transition:all 0.5s ease; transform:translateX(0px) translateY(-50%); -webkit-transform:translateX(0px) translateY(-50%)}#rev_slider_1_1_wrapper .zeus.nav-dir-vertical.nav-pos-hor-left .tp-bullet-title{bottom:auto;   left:100%;   margin-left:10px}#rev_slider_1_1_wrapper .zeus.nav-dir-horizontal.nav-pos-ver-top .tp-bullet-image,#rev_slider_1_1_wrapper .zeus.nav-dir-horizontal.nav-pos-ver-top .tp-bullet-imageoverlay{bottom:auto; top:13px; margin-top:10px; margin-bottom:0px; left:0px; transform:translateY(0px) translateX(-50%); -webkit-transform:translateX(0px) translateX(-50%)}#rev_slider_1_1_wrapper .zeus.nav-dir-horizontal.nav-pos-ver-top .tp-bullet.rs-touchhover .tp-bullet-image{transform:scale(1) translateY(0px) translateX(-50%); -webkit-transform:scale(1) translateY(0px) translateX(-50%)}#rev_slider_1_1_wrapper .zeus.nav-dir-horizontal.nav-pos-ver-top .tp-bullet-title,#rev_slider_1_1_wrapper .zeus.nav-dir-horizontal.nav-pos-ver-top .tp-bullet-imageoverlay{z-index:2; -webkit-transition:all 0.5s ease; transition:all 0.5s ease; transform:translateY(0px) translateX(-50%); -webkit-transform:translateY(0px) translateX(-50%)}#rev_slider_1_1_wrapper .zeus.nav-dir-horizontal.nav-pos-ver-top .tp-bullet-title{bottom:auto;   top:13px;   margin-top:20px}
          /*# sourceURL=rs-plugin-settings-inline-css */
       </style>
+      <style>
+         .themestek-element-portfolio .tstk-featured-wrapper img {
+            width: 100% !important;
+            aspect-ratio: 770 / 520 !important;
+            object-fit: cover !important;
+         }
+      </style>
    </head>
-   <body class="home wp-singular page-template-default page page-id-15796 wp-theme-industrey theme-industrey woocommerce-no-js mega-menu-themestek-top tstk-sidebar-no tstk-max-mega-menu-override elementor-default elementor-kit-5 elementor-page elementor-page-15796">
+   <body class="<?php 
+      $current_page = basename($_SERVER['PHP_SELF']);
+      $service_pages = [
+         'water-supply-scheme.php',
+         'sewage-piping-system.php',
+         'chemical-industries.php',
+         'plant-effluent-disposal.php',
+         'waste-water-disposal-pipeline.php',
+         'lift-irrigation-system.php',
+         'agricultural.php',
+         'fuel-gas-distribution.php',
+         'construction-industry.php',
+         'electrical-cable-ducting.php',
+         'marine-dragging-piping.php'
+      ];
+      if ($current_page == 'index.php') {
+         echo 'home page-id-15796 elementor-page-15796 wp-singular page-template-default page wp-theme-industrey theme-industrey woocommerce-no-js mega-menu-themestek-top tstk-sidebar-no tstk-max-mega-menu-override elementor-default elementor-kit-5 elementor-page';
+      } elseif ($current_page == 'about-us.php') {
+         echo 'page-id-12661 elementor-page-12661 wp-singular page-template-default page wp-theme-industrey theme-industrey woocommerce-no-js mega-menu-themestek-top tstk-sidebar-no tstk-max-mega-menu-override elementor-default elementor-kit-5 elementor-page';
+      } elseif (in_array($current_page, $service_pages)) {
+         echo 'wp-singular tstk-service-template-default single single-tstk-service postid-7558 wp-theme-industrey theme-industrey woocommerce-no-js mega-menu-themestek-top tstk-sidebar-exists tstk-sidebar-left tstk-max-mega-menu-override elementor-default elementor-kit-5 elementor-page elementor-page-7558';
+      } else {
+         echo 'page-id-12842 elementor-page-12842 wp-singular page-template-default page wp-theme-industrey theme-industrey woocommerce-no-js mega-menu-themestek-top tstk-sidebar-no tstk-max-mega-menu-override elementor-default elementor-kit-5 elementor-page';
+      }
+   ?>">
       <div class="tstk-preloader" style="background-image:url(wp-content/themes/industrey/images/loader1.svg)"></div>
       <div id="page" class="site tstk-parent-header-style-2">
       <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
@@ -294,9 +354,9 @@
                <div class="d-flex justify-content-between">
                   <div class="tstk-pre-header-left">
                      <ul class="tstk-contact-info">
-                        <li><i class="tstk-base-icon-phone"></i> Call +55 654 541 17</li>
-                        <li><i class="tstk-base-icon-mail-alt"></i> <a href="https://industrey-demo.pbminfotech.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="82ebece6f7f1f6f0e7fbebece4edc2e6edefe3ebecace1edef">[email&#160;protected]</a></li>
-                        <li><i class="tstk-base-icon-pin"></i> 23 Beverley Brooklyn, NY</li>
+                        <li><i class="tstk-base-icon-phone"></i> Call +91 9425151151</li>
+                         <li><i class="tstk-base-icon-mail-alt"></i> <a href="mailto:shrikrishnarubberindustries@gmail.com">shrikrishnarubberindustries@gmail.com</a></li>
+                        <li><i class="tstk-base-icon-pin"></i> 58, 59 Industrial Estate, Adhartal, Jabalpur</li>
                      </ul>
                   </div>
                   <!-- .tstk-pre-header-left -->
@@ -358,23 +418,25 @@
                                  </div>
                               </div>
                               <ul id="mega-menu-themestek-top" class="mega-menu max-mega-menu mega-menu-horizontal mega-no-js" data-event="hover_intent" data-effect="fade_up" data-effect-speed="200" data-effect-mobile="disabled" data-effect-speed-mobile="0" data-mobile-force-width="false" data-second-click="go" data-document-click="collapse" data-vertical-behaviour="standard" data-breakpoint="1200" data-unbind="true" data-mobile-state="collapse_all" data-mobile-direction="vertical" data-hover-intent-timeout="300" data-hover-intent-interval="100">
-                                 <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-menu-item-33789' id='mega-menu-item-33789'> <a class="mega-menu-link" href="index.html" tabindex="0">Home</a> 
-                                 <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-menu-item-33790' id='mega-menu-item-33790'> <a class="mega-menu-link" href="about-us/index.html" tabindex="0">About Us</a> </li>
+                                 <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-menu-item-33789' id='mega-menu-item-33789'> <a class="mega-menu-link" href="index.php" tabindex="0">Home</a> 
+                                 <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-menu-item-33790' id='mega-menu-item-33790'> <a class="mega-menu-link" href="about-us.php" tabindex="0">About Us</a> </li>
                                  <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-align-bottom-left mega-menu-flyout mega-menu-item-33783' id='mega-menu-item-33783'>
                                     <a class="mega-menu-link" href="products/index.html" aria-expanded="false" tabindex="0">Products<span class="mega-indicator"> </span> </a>
-                                    <ul class="mega-sub-menu">
-                                       <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-tstk-service mega-menu-item-34049' id='mega-menu-item-34049'> <a class="mega-menu-link" href="product/comprehensive-logits-product/index.html">Comprehensive Logits Service</a> </li>
-                                       <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-tstk-service mega-menu-item-34050' id='mega-menu-item-34050'> <a class="mega-menu-link" href="product/improve-production-processes/index.html">Improve Production Processes</a> </li>
-                                       <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-tstk-service mega-menu-item-34051' id='mega-menu-item-34051'> <a class="mega-menu-link" href="product/machine-learning-analysis/index.html">Machine learning Analysis</a> </li>
-                                       <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-tstk-service mega-menu-item-34052' id='mega-menu-item-34052'> <a class="mega-menu-link" href="product/maintenance-and-repairing/index.html">Maintenance and Repairing</a> </li>
-                                       <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-tstk-service mega-menu-item-34053' id='mega-menu-item-34053'> <a class="mega-menu-link" href="product/mechanical-constructions/index.html">Mechanical Constructions</a> </li>
-                                       <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-tstk-service mega-menu-item-34054' id='mega-menu-item-34054'> <a class="mega-menu-link" href="product/mobile-plant-maintenance/index.html">Mobile Plant Maintenance</a> </li>
-                                       <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-tstk-service mega-menu-item-34055' id='mega-menu-item-34055'> <a class="mega-menu-link" href="product/petroleum-gas-engineering/index.html">Petroleum &amp; Gas Engineering</a> </li>
-                                       <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-tstk-service mega-menu-item-34056' id='mega-menu-item-34056'> <a class="mega-menu-link" href="product/product-design-manufacture/index.html">Product Design &amp; Manufacture</a> </li>
-                                       <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-tstk-service mega-menu-item-34057' id='mega-menu-item-34057'> <a class="mega-menu-link" href="product/research-and-manufacture/index.html">Research and Manufacture</a> </li>
-                                    </ul>
+                                     <ul class="mega-sub-menu">
+                                        <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-tstk-service'><a class="mega-menu-link" href="water-supply-scheme.php">Water Supply Scheme</a></li>
+                                        <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-tstk-service'><a class="mega-menu-link" href="sewage-piping-system.php">Sewage Piping System</a></li>
+                                        <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-tstk-service'><a class="mega-menu-link" href="chemical-industries.php">Chemical Industries</a></li>
+                                        <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-tstk-service'><a class="mega-menu-link" href="plant-effluent-disposal.php">Plant Effluent Disposal</a></li>
+                                        <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-tstk-service'><a class="mega-menu-link" href="waste-water-disposal-pipeline.php">Waste Water Disposal Pipeline</a></li>
+                                        <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-tstk-service'><a class="mega-menu-link" href="lift-irrigation-system.php">Lift Irrigation System</a></li>
+                                        <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-tstk-service'><a class="mega-menu-link" href="agricultural.php">Agricultural</a></li>
+                                        <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-tstk-service'><a class="mega-menu-link" href="fuel-gas-distribution.php">Fuel Gas Distribution</a></li>
+                                        <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-tstk-service'><a class="mega-menu-link" href="construction-industry.php">Construction Industry</a></li>
+                                        <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-tstk-service'><a class="mega-menu-link" href="electrical-cable-ducting.php">Electrical Cable Ducting</a></li>
+                                        <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-tstk-service'><a class="mega-menu-link" href="marine-dragging-piping.php">Marine &amp; Dragging Piping</a></li>
+                                     </ul>
                                  </li>
-                                 <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-menu-item-33789' id='mega-menu-item-33789'> <a class="mega-menu-link" href="contact-us/index.html" tabindex="0">Contact Us</a> </li>
+                                 <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-menu-item-33789' id='mega-menu-item-33789'> <a class="mega-menu-link" href="contact.php" tabindex="0">Contact Us</a> </li>
                               </ul>
                            </div>
                         </nav>
@@ -398,6 +460,7 @@
             <!-- .tstk-header-wrapper -->
          </div>
          <!-- .tstk-header-height-wrapper -->
+         <?php if (basename($_SERVER['PHP_SELF']) == 'index.php'): ?>
          <div class="tstk-slider-area">
             <!-- START Slider Demo 3 REVOLUTION SLIDER 6.7.20 -->
             <p class="rs-p-wp-fix"></p>
@@ -438,7 +501,7 @@
                            >Start experiencing amazing industrial business 
                         </rs-layer>
                         <!--
-                           --><a id="slider-1-slide-1-layer-2" class="rs-layer rev-button rev-btn" href="contact-us/index.html" target="_self" data-type="button" data-rsp_ch="on" data-xy="xo:220px,200px,30px,30px;y:m;yo:114px,95px,70px,87px;" data-text="w:normal;s:18;l:60,55,50,45;ls:1px,1px,1px,0px;fw:300;" data-dim="minh:0px,none,none,none;" data-padding="t:4,5,3,4;r:50,42,40,35;l:50,42,40,35;" data-border="bor:0px,25px,0px,0px;" data-frame_0="x:-100%;" data-frame_0_mask="u:t;" data-frame_1="st:2660;sp:1000;sR:2660;" data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:5340;" data-frame_hover="bgc:#fc0012;bor:0px,25px,0px,0px;" style="z-index:13;background-color:#111010;font-family:'Teko';text-transform:uppercase;"><span>Get a quote</span> 
+                           --><a id="slider-1-slide-1-layer-2" class="rs-layer rev-button rev-btn" href="contact.php" target="_self" data-type="button" data-rsp_ch="on" data-xy="xo:220px,200px,30px,30px;y:m;yo:114px,95px,70px,87px;" data-text="w:normal;s:18;l:60,55,50,45;ls:1px,1px,1px,0px;fw:300;" data-dim="minh:0px,none,none,none;" data-padding="t:4,5,3,4;r:50,42,40,35;l:50,42,40,35;" data-border="bor:0px,25px,0px,0px;" data-frame_0="x:-100%;" data-frame_0_mask="u:t;" data-frame_1="st:2660;sp:1000;sR:2660;" data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:5340;" data-frame_hover="bgc:#fc0012;bor:0px,25px,0px,0px;" style="z-index:13;background-color:#111010;font-family:'Teko';text-transform:uppercase;"><span>Get a quote</span> 
                         </a><!--
                            --><a
                            id="slider-1-slide-1-layer-3" 
@@ -529,7 +592,7 @@
                            >Start experiencing amazing industrial business 
                         </rs-layer>
                         <!--
-                           --><a id="slider-1-slide-3-layer-2" class="rs-layer rev-button rev-btn" href="contact-us/index.html" target="_self" data-type="button" data-rsp_ch="on" data-xy="xo:220px,200px,30px,30px;y:m;yo:114px,95px,70px,87px;" data-text="w:normal;s:18;l:60,55,50,45;ls:1px,1px,1px,0px;fw:300;" data-dim="minh:0px,none,none,none;" data-padding="t:4,5,3,4;r:50,42,40,35;l:50,42,40,35;" data-border="bor:0px,25px,0px,0px;" data-frame_0="x:-100%;" data-frame_0_mask="u:t;" data-frame_1="st:2660;sp:1000;sR:2660;" data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:5340;" data-frame_hover="bgc:#fc0012;bor:0px,25px,0px,0px;" style="z-index:13;background-color:#111010;font-family:'Teko';text-transform:uppercase;"><span>Get a quote</span> 
+                           --><a id="slider-1-slide-3-layer-2" class="rs-layer rev-button rev-btn" href="contact.php" target="_self" data-type="button" data-rsp_ch="on" data-xy="xo:220px,200px,30px,30px;y:m;yo:114px,95px,70px,87px;" data-text="w:normal;s:18;l:60,55,50,45;ls:1px,1px,1px,0px;fw:300;" data-dim="minh:0px,none,none,none;" data-padding="t:4,5,3,4;r:50,42,40,35;l:50,42,40,35;" data-border="bor:0px,25px,0px,0px;" data-frame_0="x:-100%;" data-frame_0_mask="u:t;" data-frame_1="st:2660;sp:1000;sR:2660;" data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:5340;" data-frame_hover="bgc:#fc0012;bor:0px,25px,0px,0px;" style="z-index:13;background-color:#111010;font-family:'Teko';text-transform:uppercase;"><span>Get a quote</span> 
                         </a><!--
                            --><a
                            id="slider-1-slide-3-layer-3" 
@@ -598,5 +661,6 @@
             </rs-module-wrap>
             <!-- END REVOLUTION SLIDER -->
          </div>
+         <?php endif; ?>
       </header>
       <!-- #masthead -->

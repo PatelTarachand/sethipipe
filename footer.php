@@ -1,4 +1,4 @@
-		<div class="tstk-footer-overlay"><div class="tstk-footer-overlay-inner"><div class="container"><div class="row"><div class="tstk-footer-overlay-left col-md-3"></div><div class="tstk-footer-overlay-right col-md-9"><div class="tstk-footer-contact-info"><div class="tstk-footer-contact-info-inner d-flex align-items-center"><i class="tstk-industrey-icon tstk-base-icon-time-call"></i><div class="tstk-footer-contact-info-wrap"><span class="tstk-label tstk-label-2">Hot Line</span>+(123) 1234-567-8901</div></div></div><div class="tstk-footer-contact-info"><div class="tstk-footer-contact-info-inner d-flex align-items-center"><i class="tstk-industrey-icon tstk-base-icon-email"></i><div class="tstk-footer-contact-info-wrap"><span class="tstk-label tstk-label-2">E-mail Address</span><a href="https://industrey-demo.pbminfotech.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="8ee7e0eafbfdfafcebf7e7e0e8e1cee9e3efe7e2a0ede1e3">[email&#160;protected]</a></div></div></div><div class="tstk-footer-contact-info"><div class="tstk-footer-contact-info-inner d-flex align-items-center"><i class="tstk-industrey-icon  tstk-base-icon-send"></i><div class="tstk-footer-contact-info-wrap"><span class="tstk-label tstk-label-2">Our Location</span>23 Beverley Brooklyn, NY</div></div></div></div></div></div></div></div>		<footer id="colophon" class="tstk-footer-section site-footer tstk-footer-style-2 tstk-text-color-white tstk-bg-color-secondarycolor tstk-footer-menu-yes tstk-footer-widget-yes">
+		<div class="tstk-footer-overlay"><div class="tstk-footer-overlay-inner"><div class="container"><div class="row"><div class="tstk-footer-overlay-left col-md-3"></div><div class="tstk-footer-overlay-right col-md-9"><div class="tstk-footer-contact-info"><div class="tstk-footer-contact-info-inner d-flex align-items-center"><i class="tstk-industrey-icon tstk-base-icon-time-call"></i><div class="tstk-footer-contact-info-wrap"><span class="tstk-label tstk-label-2">Hot Line</span>+91 9425151151</div></div></div><div class="tstk-footer-contact-info"><div class="tstk-footer-contact-info-inner d-flex align-items-center"><i class="tstk-industrey-icon tstk-base-icon-email"></i><div class="tstk-footer-contact-info-wrap"><span class="tstk-label tstk-label-2">E-mail Address</span><a href="mailto:shrikrishnarubberindustries@gmail.com">shrikrishnarubberindustries@gmail.com</a></div></div></div><div class="tstk-footer-contact-info"><div class="tstk-footer-contact-info-inner d-flex align-items-center"><i class="tstk-industrey-icon  tstk-base-icon-send"></i><div class="tstk-footer-contact-info-wrap"><span class="tstk-label tstk-label-2">Our Location</span>58, 59 Industrial Estate, Adhartal, Jabalpur</div></div></div></div></div></div></div></div>		<footer id="colophon" class="tstk-footer-section site-footer tstk-footer-style-2 tstk-text-color-white tstk-bg-color-secondarycolor tstk-footer-menu-yes tstk-footer-widget-yes">
 
 						<div class="tstk-footer-section footer-wrap tstk-footer-widget-area  tstk-bg-color-transparent">
 				<div class="container">
@@ -39,17 +39,17 @@
 </div>
 		</aside>								</div><!-- .tstk-footer-widget -->
 															<div class="tstk-footer-widget tstk-footer-widget-col-3 col-md-6 col-lg-3">
-									<aside id="nav_menu-1" class="widget-odd widget-last widget-first widget-1 widget widget_nav_menu industrey_widget  industrey_widget_count_28"><h2 class="widget-title">Company info</h2><div class="menu-footer-menu-container"> <ul id="menu-footer-menu" class="menu"> <li id="menu-item-33793" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33793"> <a href="about-us/index.html">About Us</a> </li>
+									<aside id="nav_menu-1" class="widget-odd widget-last widget-first widget-1 widget widget_nav_menu industrey_widget  industrey_widget_count_28"><h2 class="widget-title">Company info</h2><div class="menu-footer-menu-container"> <ul id="menu-footer-menu" class="menu"> <li id="menu-item-33793" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33793"> <a href="about-us.php">About Us</a> </li>
 <li id="menu-item-33687" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33687"> <a href="#">News &amp; Media</a> </li>
 <li id="menu-item-33686" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33686"> <a href="#">Our Projects</a> </li>
 <li id="menu-item-33688" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33688"> <a href="#">Meet Our Team</a> </li>
-<li id="menu-item-33794" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33794"> <a href="contact-us/index.html">Contact Us</a> </li>
+<li id="menu-item-33794" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33794"> <a href="contact.php">Contact Us</a> </li>
 <li id="menu-item-33689" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33689"> <a href="#">Careers</a> </li>
 </ul> </div></aside>								</div><!-- .tstk-footer-widget -->
 															<div class="tstk-footer-widget tstk-footer-widget-col-4 col-md-6 col-lg-3">
-									<aside id="text-4" class="widget-odd widget-last widget-first widget-1 widget widget_text industrey_widget  industrey_widget_count_29"><h2 class="widget-title">Quick Contact</h2>			<div class="textwidget"><p>2307 Beverley Rd Brooklyn, New York 11226 United States.</p>
+									<aside id="text-4" class="widget-odd widget-last widget-first widget-1 widget widget_text industrey_widget  industrey_widget_count_29"><h2 class="widget-title">Quick Contact</h2>			<div class="textwidget"><p>58, 59 Industrial Estate, Adhartal, Jabalpur</p>
 <p>If you have any questions or need help, feel free to contact with our team.</p>
-<h3 class="footer-phone">(002) 01061245741</h3>
+<h3 class="footer-phone">+91 9425151151, +91 9713014516</h3>
 </div>
 		</aside>								</div><!-- .tstk-footer-widget -->
 												</div><!-- .row -->
@@ -181,7 +181,55 @@ var wc_order_attribution = {"params":{"lifetime":1.00000000000000008180305391403
 <script src="wp-content/plugins/elementor/assets/js/frontend-modules.min3ea8.js?ver=3.27.5" id="elementor-frontend-modules-js"></script>
 <script src="wp-includes/js/jquery/ui/core.minb37e.js?ver=1.13.3" id="jquery-ui-core-js"></script>
 <script id="elementor-frontend-js-before">
-var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1201,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1200,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":true},"version":"3.27.5","is_static":false,"experimentalFeatures":{"additional_custom_breakpoints":true,"e_swiper_latest":true,"e_onboarding":true,"home_screen":true,"landing-pages":true,"editor_v2":true,"link-in-bio":true,"floating-buttons":true},"urls":{"assets":"https:\/\/industrey-demo.pbminfotech.com\/demo3\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/industrey-demo.pbminfotech.com\/demo3\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/industrey-demo.pbminfotech.com\/demo3\/wp-content\/uploads\/sites\/5"},"nonces":{"floatingButtonsClickTracking":"da18d33178"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"viewport_tablet":1200,"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":15796,"title":"Industrey%20Demo3%20%E2%80%93%20Industry%20and%20Engineering%20WordPress%20Theme","excerpt":"","featuredImage":false}};
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1201,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1200,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":true},"version":"3.27.5","is_static":false,"experimentalFeatures":{"additional_custom_breakpoints":true,"e_swiper_latest":true,"e_onboarding":true,"home_screen":true,"landing-pages":true,"editor_v2":true,"link-in-bio":true,"floating-buttons":true},"urls":{"assets":"https:\/\/industrey-demo.pbminfotech.com\/demo3\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/industrey-demo.pbminfotech.com\/demo3\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/industrey-demo.pbminfotech.com\/demo3\/wp-content\/uploads\/sites\/5"},"nonces":{"floatingButtonsClickTracking":"da18d33178"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"viewport_tablet":1200,"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":<?php 
+      $current_page = basename($_SERVER['PHP_SELF']);
+      $service_pages = [
+         'water-supply-scheme.php',
+         'sewage-piping-system.php',
+         'chemical-industries.php',
+         'plant-effluent-disposal.php',
+         'waste-water-disposal-pipeline.php',
+         'lift-irrigation-system.php',
+         'agricultural.php',
+         'fuel-gas-distribution.php',
+         'construction-industry.php',
+         'electrical-cable-ducting.php',
+         'marine-dragging-piping.php'
+      ];
+      if ($current_page == 'index.php') {
+         echo '15796';
+      } elseif ($current_page == 'about-us.php') {
+         echo '12661';
+      } elseif (in_array($current_page, $service_pages)) {
+         echo '7558';
+      } else {
+         echo '12842';
+      }
+   ?>,"title":"<?php 
+      if ($current_page == 'index.php') {
+         echo 'Industrey%20Demo3%20%E2%80%93%20Industry%20and%20Engineering%20WordPress%20Theme';
+      } elseif ($current_page == 'about-us.php') {
+         echo 'About%20Us%20%E2%80%93%20Industrey%20Demo3';
+      } elseif (in_array($current_page, $service_pages)) {
+         $page_titles = [
+            'water-supply-scheme.php' => 'Water%20Supply%20Scheme',
+            'sewage-piping-system.php' => 'Sewage%20Piping%20System',
+            'chemical-industries.php' => 'Chemical%20Industries',
+            'plant-effluent-disposal.php' => 'Plant%20Effluent%20Disposal',
+            'waste-water-disposal-pipeline.php' => 'Waste%20Water%20Disposal%20Pipeline',
+            'lift-irrigation-system.php' => 'Lift%20Irrigation%20System',
+            'agricultural.php' => 'Agricultural',
+            'fuel-gas-distribution.php' => 'Fuel%20Gas%20Distribution',
+            'construction-industry.php' => 'Construction%20Industry',
+            'electrical-cable-ducting.php' => 'Electrical%20Cable%20Ducting',
+            'marine-dragging-piping.php' => 'Marine%20%26%20Dragging%20Piping'
+         ];
+         $sub_title = isset($page_titles[$current_page]) ? $page_titles[$current_page] : 'Comprehensive%20Logits%20Service';
+         echo $sub_title . '%20%E2%80%93%20Industrey%20Demo3';
+      } else {
+         echo 'Contact%20Us%20%E2%80%93%20Industrey%20Demo3';
+      }
+   ?>","excerpt":"","featuredImage":false}};
 //# sourceURL=elementor-frontend-js-before
 </script>
 <script src="wp-content/plugins/elementor/assets/js/frontend.min3ea8.js?ver=3.27.5" id="elementor-frontend-js"></script>
