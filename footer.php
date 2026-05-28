@@ -133,7 +133,7 @@ for (let j = 0; j < urlFields.length; j++) {
 					document.addEventListener( event, lazyloadRunObserver );
 				} );
 			</script>
-			<link href="http://fonts.googleapis.com/css?family=Teko:500%2C300%7CYantramanav:400%7COswald:400%7CBig+Shoulders+Display:700%7CRoboto:400&amp;display=swap" rel="stylesheet" property="stylesheet" media="all" type="text/css" >
+			<link href="https://fonts.googleapis.com/css?family=Teko:300%2C400%2C500%2C600%7CYantramanav:400%7CBarlow:700%2C800%7COswald:400%7CBig+Shoulders+Display:700%7CRoboto:400&amp;display=swap" rel="stylesheet" property="stylesheet" media="all" type="text/css" >
 
 	<script>
 		(function () {

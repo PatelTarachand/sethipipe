@@ -53,7 +53,7 @@
       <link rel='stylesheet' id='dashicons-css' href='wp-includes/css/dashicons.minb34e.css?ver=6.9.4' media='all' />
       <link rel='stylesheet' id='brands-styles-css' href='wp-content/plugins/woocommerce/assets/css/brands5c8b.css?ver=9.8.7' media='all' />
       <link rel='stylesheet' id='tstk-industrey-header-style-css' href='wp-content/themes/industrey/css/header/header-style-2.minb34e.css?ver=6.9.4' media='all' />
-      <link rel='stylesheet' id='tstk-service-style-4-css' href='wp-content/themes/industrey/css/service/service-style-4.minb34e.css?ver=6.9.4' media='all' />
+      <link rel='stylesheet' id='tstk-service-style-4-css' href='wp-content/themes/industrey/css/product/service-style-4.minb34e.css?ver=6.9.4' media='all' />
       <link rel='stylesheet' id='tstk-icon-heading-style-11-css' href='wp-content/themes/industrey/css/icon-heading/icon-heading-style-11.minb34e.css?ver=6.9.4' media='all' />
       <link rel='stylesheet' id='tstk-fid-style-4-css' href='wp-content/themes/industrey/css/fid/fid-style-4.minb34e.css?ver=6.9.4' media='all' />
       <link rel='stylesheet' id='tstk-icon-heading-style-8-css' href='wp-content/themes/industrey/css/icon-heading/icon-heading-style-8.minb34e.css?ver=6.9.4' media='all' />
@@ -64,7 +64,9 @@
       <link rel='stylesheet' id='tstk-icon-heading-style-14-css' href='wp-content/themes/industrey/css/icon-heading/icon-heading-style-14.minb34e.css?ver=6.9.4' media='all' />
       <link rel='stylesheet' id='tstk-client-style-1-css' href='wp-content/themes/industrey/css/client/client-style-1.minb34e.css?ver=6.9.4' media='all' />
       <link rel='stylesheet' id='tstk-blog-style-3-css' href='wp-content/themes/industrey/css/blog/blog-style-3.minb34e.css?ver=6.9.4' media='all' />
-      <link rel='stylesheet' id='kirki-styles-css' href='https://industrey-demo.pbminfotech.com/demo3?action=kirki-styles&amp;ver=3.1.9' media='all' />
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel='stylesheet' id='kirki-styles-css' href='https://fonts.googleapis.com/css2?family=Barlow:wght@700;800&amp;family=Teko:wght@300;400;500;600&amp;family=Yantramanav:wght@400&amp;family=Oswald:wght@400&amp;family=Big+Shoulders+Display:wght@700&amp;family=Roboto:wght@400&amp;display=swap' media='all' />
       <link rel='stylesheet' id='bootstrap-css' href='wp-content/themes/industrey/libraries/bootstrap/css/bootstrap.minb34e.css?ver=6.9.4' media='all' />
       <link rel='stylesheet' id='tstk-elementor-style-css' href='wp-content/themes/industrey/css/elementor.minb34e.css?ver=6.9.4' media='all' />
       <link rel='stylesheet' id='tstk-core-style-css' href='wp-content/themes/industrey/css/core.minb34e.css?ver=6.9.4' media='all' />
@@ -361,7 +363,7 @@
                                  <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-align-bottom-left mega-menu-flyout mega-menu-item-33783' id='mega-menu-item-33783'>
                                     <a class="mega-menu-link" href="products/index.html" aria-expanded="false" tabindex="0">Products<span class="mega-indicator"> </span> </a>
                                     <ul class="mega-sub-menu">
-                                       <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-tstk-service mega-menu-item-34049' id='mega-menu-item-34049'> <a class="mega-menu-link" href="product/comprehensive-logits-service/index.html">Comprehensive Logits Service</a> </li>
+                                       <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-tstk-service mega-menu-item-34049' id='mega-menu-item-34049'> <a class="mega-menu-link" href="product/comprehensive-logits-product/index.html">Comprehensive Logits Service</a> </li>
                                        <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-tstk-service mega-menu-item-34050' id='mega-menu-item-34050'> <a class="mega-menu-link" href="product/improve-production-processes/index.html">Improve Production Processes</a> </li>
                                        <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-tstk-service mega-menu-item-34051' id='mega-menu-item-34051'> <a class="mega-menu-link" href="product/machine-learning-analysis/index.html">Machine learning Analysis</a> </li>
                                        <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-tstk-service mega-menu-item-34052' id='mega-menu-item-34052'> <a class="mega-menu-link" href="product/maintenance-and-repairing/index.html">Maintenance and Repairing</a> </li>

@@ -37,12 +37,12 @@
 		<div class="themestek-box-content-inner">
 			<div class="tstk-service-icon-wrapper">
 				<i class="tstk-industrey-icon tstk-industrey-icon-drilling-rig"></i>			</div>
-			<h3 class="tstk-service-title"><a href="service/mechanical-constructions/index.html">Mechanical Constructions</a></h3>
+			<h3 class="tstk-service-title"><a href="product/mechanical-constructions/index.html">Mechanical Constructions</a></h3>
 						<div class="tstk-service-content"><p>We serve our clients top  level of trusted advisor for their business &amp; marketing progress.</p>
 </div>
 			 
 			<div class="tstk-service-btn"> 
-			<a class="btn-arrow" href="service/mechanical-constructions/index.html"><span>Read More</span></a>
+			<a class="btn-arrow" href="product/mechanical-constructions/index.html"><span>Read More</span></a>
 			</div>
 		</div>
 	</div>
@@ -51,12 +51,12 @@
 		<div class="themestek-box-content-inner">
 			<div class="tstk-service-icon-wrapper">
 				<i class="tstk-industrey-icon tstk-industrey-icon-coal"></i>			</div>
-			<h3 class="tstk-service-title"><a href="service/product-design-manufacture/index.html">Product Design &amp; Manufacture</a></h3>
+			<h3 class="tstk-service-title"><a href="product/product-design-manufacture/index.html">Product Design &amp; Manufacture</a></h3>
 						<div class="tstk-service-content"><p>We serve our clients top  level of trusted advisor for their business &amp; marketing progress.</p>
 </div>
 			 
 			<div class="tstk-service-btn"> 
-			<a class="btn-arrow" href="service/product-design-manufacture/index.html"><span>Read More</span></a>
+			<a class="btn-arrow" href="product/product-design-manufacture/index.html"><span>Read More</span></a>
 			</div>
 		</div>
 	</div>
@@ -65,12 +65,12 @@
 		<div class="themestek-box-content-inner">
 			<div class="tstk-service-icon-wrapper">
 				<i class="tstk-industrey-icon tstk-industrey-icon-tank"></i>			</div>
-			<h3 class="tstk-service-title"><a href="service/research-and-manufacture/index.html">Research and Manufacture</a></h3>
+			<h3 class="tstk-service-title"><a href="product/research-and-manufacture/index.html">Research and Manufacture</a></h3>
 						<div class="tstk-service-content"><p>We serve our clients top  level of trusted advisor for their business &amp; marketing progress.</p>
 </div>
 			 
 			<div class="tstk-service-btn"> 
-			<a class="btn-arrow" href="service/research-and-manufacture/index.html"><span>Read More</span></a>
+			<a class="btn-arrow" href="product/research-and-manufacture/index.html"><span>Read More</span></a>
 			</div>
 		</div>
 	</div>
@@ -79,12 +79,12 @@
 		<div class="themestek-box-content-inner">
 			<div class="tstk-service-icon-wrapper">
 				<i class="tstk-industrey-icon tstk-industrey-icon-cargo-ship"></i>			</div>
-			<h3 class="tstk-service-title"><a href="service/petroleum-gas-engineering/index.html">Petroleum &amp; Gas Engineering</a></h3>
+			<h3 class="tstk-service-title"><a href="product/petroleum-gas-engineering/index.html">Petroleum &amp; Gas Engineering</a></h3>
 						<div class="tstk-service-content"><p>We serve our clients top  level of trusted advisor for their business &amp; marketing progress.</p>
 </div>
 			 
 			<div class="tstk-service-btn"> 
-			<a class="btn-arrow" href="service/petroleum-gas-engineering/index.html"><span>Read More</span></a>
+			<a class="btn-arrow" href="product/petroleum-gas-engineering/index.html"><span>Read More</span></a>
 			</div>
 		</div>
 	</div>
