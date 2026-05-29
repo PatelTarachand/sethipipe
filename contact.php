@@ -181,19 +181,36 @@
 
 				<div class="elementor-section elementor-top-section elementor-element elementor-element-286c8771 tstk-col-stretched-none tstk-bg-color-over-image elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="286c8771" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element tstk-bg-color-yes tstk-elementor-bg-color-blackish tstk-bg-color-over-image" data-element_type="column" style="width: 100%;">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element tstk-bg-color-yes tstk-bg-color-over-image" data-element_type="column" style="width: 100%; background-color: #109ad7 !important;">
 						<div class="elementor-widget-wrap elementor-element-populated py-5">
 							<style>
-								.brand-logo-img {
-									max-height: 80px;
-									width: auto;
-									opacity: 0.85;
+								.brand-logo-container {
+									background-color: #ffffff;
+									border-radius: 8px;
+									padding: 10px 15px;
+									display: inline-flex;
+									align-items: center;
+									justify-content: center;
+									height: 65px;
+									width: 100%;
+									box-shadow: 0 4px 15px rgba(0,0,0,0.06);
 									transition: all 0.3s ease;
-									
+								}
+								.brand-logo-container:hover {
+									transform: translateY(-3px);
+									box-shadow: 0 8px 20px rgba(0,0,0,0.12);
+								}
+								.brand-logo-img {
+									max-height: 45px;
+									max-width: 100%;
+									width: auto;
+									height: auto;
+									object-fit: contain;
+									opacity: 0.95;
+									transition: all 0.3s ease;
 								}
 								.brand-logo-img:hover {
 									opacity: 1;
-									filter: none;
 								}
 							</style>
 							<div class="row w-100 align-items-center m-0">
@@ -205,22 +222,34 @@
 								<div class="col-12 col-lg-9">
 									<div class="row align-items-center justify-content-center g-3">
 										<div class="col-4 col-md-2 text-center my-2">
-											<img src="images/iso/c1.png" alt="ISO Logo 1" class="img-fluid brand-logo-img" />
+											<div class="brand-logo-container">
+												<img src="images/iso/c1.png" alt="ISO Logo 1" class="img-fluid brand-logo-img" />
+											</div>
 										</div>
 										<div class="col-4 col-md-2 text-center my-2">
-											<img src="images/iso/c2.png" alt="ISO Logo 2" class="img-fluid brand-logo-img" />
+											<div class="brand-logo-container">
+												<img src="images/iso/c2.png" alt="ISO Logo 2" class="img-fluid brand-logo-img" />
+											</div>
 										</div>
 										<div class="col-4 col-md-2 text-center my-2">
-											<img src="images/iso/c3.png" alt="ISO Logo 3" class="img-fluid brand-logo-img" />
+											<div class="brand-logo-container">
+												<img src="images/iso/c3.png" alt="ISO Logo 3" class="img-fluid brand-logo-img" />
+											</div>
 										</div>
 										<div class="col-4 col-md-2 text-center my-2">
-											<img src="images/iso/c4.png" alt="ISO Logo 4" class="img-fluid brand-logo-img" />
+											<div class="brand-logo-container">
+												<img src="images/iso/c4.png" alt="ISO Logo 4" class="img-fluid brand-logo-img" />
+											</div>
 										</div>
 										<div class="col-4 col-md-2 text-center my-2">
-											<img src="images/iso/c5.png" alt="ISO Logo 5" class="img-fluid brand-logo-img" />
+											<div class="brand-logo-container">
+												<img src="images/iso/c5.png" alt="ISO Logo 5" class="img-fluid brand-logo-img" />
+											</div>
 										</div>
 										<div class="col-4 col-md-2 text-center my-2">
-											<img src="images/iso/c6.png" alt="ISO Logo 6" class="img-fluid brand-logo-img" />
+											<div class="brand-logo-container">
+												<img src="images/iso/c6.png" alt="ISO Logo 6" class="img-fluid brand-logo-img" />
+											</div>
 										</div>
 									</div>
 								</div>

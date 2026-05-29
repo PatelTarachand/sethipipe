@@ -728,21 +728,38 @@
                      </div>
                      <div class="elementor-section elementor-top-section elementor-element elementor-element-de39934 elementor-section-stretched tstk-bg-image-over-color tstk-col-stretched-none elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="de39934" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
                         <div class="elementor-container elementor-column-gap-no">
-                           <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f76c449 tstk-bg-color-yes tstk-elementor-bg-color-blackish tstk-bg-color-over-image" data-id="f76c449" data-element_type="column">
+                           <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f76c449 tstk-bg-color-yes tstk-bg-color-over-image" data-id="f76c449" data-element_type="column" style="background-color: #109ad7 !important;">
                               <div class="elementor-widget-wrap elementor-element-populated">
                                  <section class="elementor-section elementor-inner-section elementor-element elementor-element-c30cfff tstk-col-stretched-none tstk-bg-color-over-image elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c30cfff" data-element_type="section">
                                     <div class="elementor-container elementor-column-gap-no py-4">
                                        <style>
-                                          .brand-logo-img {
-                                             max-height: 80px;
-                                             width: auto;
-                                             opacity: 0.85;
+                                          .brand-logo-container {
+                                             background-color: #ffffff;
+                                             border-radius: 8px;
+                                             padding: 10px 15px;
+                                             display: inline-flex;
+                                             align-items: center;
+                                             justify-content: center;
+                                             height: 65px;
+                                             width: 100%;
+                                             box-shadow: 0 4px 15px rgba(0,0,0,0.06);
                                              transition: all 0.3s ease;
-                                             
+                                          }
+                                          .brand-logo-container:hover {
+                                             transform: translateY(-3px);
+                                             box-shadow: 0 8px 20px rgba(0,0,0,0.12);
+                                          }
+                                          .brand-logo-img {
+                                             max-height: 45px;
+                                             max-width: 100%;
+                                             width: auto;
+                                             height: auto;
+                                             object-fit: contain;
+                                             opacity: 0.95;
+                                             transition: all 0.3s ease;
                                           }
                                           .brand-logo-img:hover {
                                              opacity: 1;
-                                             filter: none;
                                           }
                                        </style>
                                        <div class="row w-100 align-items-center m-0">
@@ -754,22 +771,34 @@
                                           <div class="col-12 col-lg-9">
                                              <div class="row align-items-center justify-content-center g-3">
                                                 <div class="col-4 col-md-2 text-center my-2">
-                                                   <img src="images/iso/c1.png" alt="ISO Logo 1" class="img-fluid brand-logo-img" />
+                                                   <div class="brand-logo-container">
+                                                      <img src="images/iso/c1.png" alt="ISO Logo 1" class="img-fluid brand-logo-img" />
+                                                   </div>
                                                 </div>
                                                 <div class="col-4 col-md-2 text-center my-2" >
-                                                   <img src="images/iso/c2.png" alt="ISO Logo 2" class="img-fluid brand-logo-img"  />
+                                                   <div class="brand-logo-container">
+                                                      <img src="images/iso/c2.png" alt="ISO Logo 2" class="img-fluid brand-logo-img"  />
+                                                   </div>
                                                 </div>
                                                 <div class="col-4 col-md-2 text-center my-2">
-                                                   <img src="images/iso/c3.png" alt="ISO Logo 3" class="img-fluid brand-logo-img" />
+                                                   <div class="brand-logo-container">
+                                                      <img src="images/iso/c3.png" alt="ISO Logo 3" class="img-fluid brand-logo-img" />
+                                                   </div>
                                                 </div>
                                                 <div class="col-4 col-md-2 text-center my-2">
-                                                   <img src="images/iso/c4.png" alt="ISO Logo 4" class="img-fluid brand-logo-img" />
+                                                   <div class="brand-logo-container">
+                                                      <img src="images/iso/c4.png" alt="ISO Logo 4" class="img-fluid brand-logo-img" />
+                                                   </div>
                                                 </div>
                                                 <div class="col-4 col-md-2 text-center my-2">
-                                                   <img src="images/iso/c5.png" alt="ISO Logo 5" class="img-fluid brand-logo-img" />
+                                                   <div class="brand-logo-container">
+                                                      <img src="images/iso/c5.png" alt="ISO Logo 5" class="img-fluid brand-logo-img" />
+                                                   </div>
                                                 </div>
                                                 <div class="col-4 col-md-2 text-center my-2">
-                                                   <img src="images/iso/c6.png" alt="ISO Logo 6" class="img-fluid brand-logo-img" />
+                                                   <div class="brand-logo-container">
+                                                      <img src="images/iso/c6.png" alt="ISO Logo 6" class="img-fluid brand-logo-img" />
+                                                   </div>
                                                 </div>
                                              </div>
                                           </div>
@@ -787,13 +816,13 @@
                                  <div class="elementor-element elementor-element-0d45093 tstk-align-left elementor-widget elementor-widget-tstk_heading" data-id="0d45093" data-element_type="widget" data-widget_type="tstk_heading.default">
                                     <div class="elementor-widget-container">
                                        <div class="tstk-heading-subheading left-align tstk-reverse-heading-yes">
-                                          <h4 class="tstk-element-subtitle">
-                                             FAQ
-                                           </h4>
-                                          <h2 class="tstk-element-title">
-                                             Frequently Asked Questions 
-                                          </h2>
-                                       </div>
+                                           <h4 class="tstk-element-subtitle">
+                                              INFRASTRUCTURE
+                                            </h4>
+                                           <h2 class="tstk-element-title">
+                                              Manufacturing Facility & Infrastructure
+                                           </h2>
+                                        </div>
                                     </div>
                                  </div>
                                  <div class="elementor-element elementor-element-3926dfa themestek-accordion-number elementor-widget elementor-widget-accordion" data-id="3926dfa" data-element_type="widget" data-widget_type="accordion.default">
@@ -801,27 +830,27 @@
                                        <div class="elementor-accordion">
                                                                                     <div class="elementor-accordion-item">
                                              <div id="elementor-tab-title-5991" class="elementor-tab-title" data-tab="1" role="button" aria-controls="elementor-tab-content-5991" aria-expanded="false">
-                                                <a class="elementor-accordion-title" tabindex="0">What makes HDPE pipes better than traditional metal pipes?</a>
+                                                <a class="elementor-accordion-title" tabindex="0">INFRASTRUCTURE</a>
                                              </div>
-                                             <div id="elementor-tab-content-5991" class="elementor-tab-content elementor-clearfix" data-tab="1" role="region" aria-labelledby="elementor-tab-title-5991">HDPE pipes are completely corrosion-resistant, lightweight, flexible, and have a smooth inner surface that reduces friction losses. Unlike metal, they do not rust or decay, ensuring a lifespan of over 50-100 years.</div>
+                                             <div id="elementor-tab-content-5991" class="elementor-tab-content elementor-clearfix" data-tab="1" role="region" aria-labelledby="elementor-tab-title-5991">We are backed by a huge infrastructure for manufacturing high quality products. Our facility is well equipped with all the latest and most advanced equipment and machinery for manufacturing the products. Also, we have spacious storing facility for properly storing our manufactured items.</div>
                                           </div>
                                           <div class="elementor-accordion-item">
                                              <div id="elementor-tab-title-5992" class="elementor-tab-title" data-tab="2" role="button" aria-controls="elementor-tab-content-5992" aria-expanded="false">
-                                                <a class="elementor-accordion-title" tabindex="0">Are your piping products certified for drinking water supply?</a>
+                                                <a class="elementor-accordion-title" tabindex="0">State-of-the-art Manufacturing Unit</a>
                                              </div>
-                                             <div id="elementor-tab-content-5992" class="elementor-tab-content elementor-clearfix" data-tab="2" role="region" aria-labelledby="elementor-tab-title-5992">Yes, our HDPE and MDPE pipes are manufactured using 100% virgin food-grade raw materials. They are completely non-toxic, safe for potable water supply, and certified under applicable national standards.</div>
+                                             <div id="elementor-tab-content-5992" class="elementor-tab-content elementor-clearfix" data-tab="2" role="region" aria-labelledby="elementor-tab-title-5992">Our state-of-the-art manufacturing facility is situated in Jabalpur, Madhya Pradesh. It is equipped with cutting-edge extrusion lines, advanced quality testing labs, and high-performance processing machinery to achieve maximum efficiency and quality output.</div>
                                           </div>
                                           <div class="elementor-accordion-item">
                                              <div id="elementor-tab-title-5993" class="elementor-tab-title" data-tab="3" role="button" aria-controls="elementor-tab-content-5993" aria-expanded="false">
-                                                <a class="elementor-accordion-title" tabindex="0">Do you offer custom sizes and pressure ratings for pipes?</a>
+                                                <a class="elementor-accordion-title" tabindex="0">Investment In Advanced Technologies</a>
                                              </div>
-                                             <div id="elementor-tab-content-5993" class="elementor-tab-content elementor-clearfix" data-tab="3" role="region" aria-labelledby="elementor-tab-title-5993">Yes, we manufacture pipes in various outer diameters and pressure ratings (PN ratings) to meet specific agricultural, industrial, and municipal project requirements. Please contact our sales team for detailed specifications.</div>
+                                             <div id="elementor-tab-content-5993" class="elementor-tab-content elementor-clearfix" data-tab="3" role="region" aria-labelledby="elementor-tab-title-5993">We continuously upgrade our technologies and invest in computerized tooling, electronic control systems, and automated calibrators to manufacture products that conform to the highest Indian and international standards.</div>
                                           </div>
                                           <div class="elementor-accordion-item">
                                              <div id="elementor-tab-title-5994" class="elementor-tab-title" data-tab="4" role="button" aria-controls="elementor-tab-content-5994" aria-expanded="false">
-                                                <a class="elementor-accordion-title" tabindex="0">Where is your manufacturing unit located?</a>
+                                                <a class="elementor-accordion-title" tabindex="0">100% Virgin Raw Material And Finished Goods Inspection, Defects-free Approach</a>
                                              </div>
-                                             <div id="elementor-tab-content-5994" class="elementor-tab-content elementor-clearfix" data-tab="4" role="region" aria-labelledby="elementor-tab-title-5994">Our state-of-the-art manufacturing facility is situated in Jabalpur, Madhya Pradesh, center of India. We are equipped with advanced machinery and testing laboratories to serve clients across the nation.</div>
+                                             <div id="elementor-tab-content-5994" class="elementor-tab-content elementor-clearfix" data-tab="4" role="region" aria-labelledby="elementor-tab-title-5994">We enforce a zero-defect approach by using only 100% virgin food-grade raw materials. Every batch of raw inputs and manufactured finished pipes undergoes stringent laboratory pressure testing and dimensions inspection before dispatch.</div>
                                           </div>
                                        </div>
                                     </div>

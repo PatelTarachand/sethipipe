@@ -39,7 +39,9 @@
             <div class="elementor-widget-wrap elementor-element-populated">
               <div class="elementor-element elementor-element-4cf846b tstk-img-effect-01 elementor-widget elementor-widget-image" data-id="4cf846b" data-element_type="widget" data-widget_type="image.default">
                 <div class="elementor-widget-container">
-                  <img fetchpriority="high" decoding="async" width="500" height="632" src="wp-content/uploads/sites/5/2021/09/demo1-img-01.jpg" class="attachment-full size-full wp-image-34058" alt="" srcset="wp-content/uploads/sites/5/2021/09/demo1-img-01.jpg 500w, wp-content/uploads/sites/5/2021/09/demo1-img-01-237x300.jpg 237w" sizes="(max-width: 500px) 100vw, 500px" />															
+                  <img fetchpriority="high" decoding="async" width="500" height="632"
+                   src="images/about-us.png" class="attachment-full size-full wp-image-34058" alt=""
+                    />															
                 </div>
               </div>
               <div class="elementor-element elementor-element-bfb9f39 tstk-btn-shape-round elementor-widget__width-auto elementor-absolute tstk-button-new tstk-btn-color-globalcolor tstk-btn-style-flat elementor-widget elementor-widget-button" data-id="bfb9f39" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="button.default">
@@ -254,50 +256,51 @@
                   </div>
                 </div>
               </section>
-              <div class="elementor-section elementor-inner-section elementor-element elementor-element-d73fb96 tstk-col-stretched-none tstk-bg-color-over-image elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d73fb96" data-element_type="section">
+              <style>
+                .tstk-vision-mission-card {
+                   padding: 40px; 
+                   background-color: #f9f9f9; 
+                   border-radius: 12px; 
+                   border-top: 4px solid #109ad7; 
+                   box-shadow: 0 10px 30px rgba(0,0,0,0.03); 
+                   height: 100%; 
+                   transition: all 0.3s ease; 
+                   text-align: left;
+                }
+                .tstk-vision-mission-card:hover {
+                   transform: translateY(-5px);
+                   box-shadow: 0 15px 35px rgba(16, 154, 215, 0.1);
+                   background-color: #ffffff;
+                }
+              </style>
+              <div class="elementor-section elementor-inner-section elementor-element tstk-col-stretched-none tstk-bg-color-over-image elementor-section-boxed elementor-section-height-default elementor-section-height-default" style="padding: 40px 0 20px 0;">
                 <div class="elementor-container elementor-column-gap-no">
-                  <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-a02c52f tstk-bg-color-over-image" data-id="a02c52f" data-element_type="column">
-                    <div class="elementor-widget-wrap elementor-element-populated">
-                      <div class="elementor-element elementor-element-149bd2c elementor-widget elementor-widget-tstk_static_box_element" data-id="149bd2c" data-element_type="widget" data-widget_type="tstk_static_box_element.default">
-                        <div class="elementor-widget-container">
-                          <div class="themestek-element themestek-element-static-box tstk-element-static-box-style-1 themestek-element-viewtype-carousel tstk-infinite-scroll-no tstk-infinite-scroll-button-no" data-cpt="static-box" data-totalpagination="1" data-style="1" data-show="3" data-columns="1" data-loop="false" data-autoplay="false" data-center="false" data-nav="false" data-dots="true" data-autoplayspeed="1000" data-lasthalf="false" data-margin="">
-                            <div class="themestek-element-inner">
-                              <div class="tstk-heading-subheading -align "></div>
-                              <div class="tstk-element-posts-wrapper row multi-columns-row">
-                                <article class="tstk-ele tstk-ele-static-box tstk-static-box-style-1 col-md-12   ">
-                                  <div class="tstk-imgbox">
-                                    <img decoding="async" src="wp-content/uploads/sites/5/2021/09/staticbox-01.jpg" alt="Our Vision" />
-                                  </div>
-                                  <div class="tstk-contentbox">
-                                    <div class="themestek-box-title">
-                                      <h4>Our Vision</h4>
-                                    </div>
-                                    <div class="themestek-static-box-desc">
-                                      Shri Krishna Rubber Industries exists to provide best quality products and services in accordance with the applicable international standards in the Indian Sub-Continent and the associated territories.
-                                    </div>
-                                  </div>
-                                </article>
-                                <article class="tstk-ele tstk-ele-static-box tstk-static-box-style-1 col-md-12   ">
-                                  <div class="tstk-imgbox">
-                                    <img decoding="async" src="wp-content/uploads/sites/5/2021/09/staticbox-02.jpg" alt="Our Mission" />
-                                  </div>
-                                  <div class="tstk-contentbox">
-                                    <div class="themestek-box-title">
-                                      <h4>Our Mission</h4>
-                                    </div>
-                                    <div class="themestek-static-box-desc">
-                                      Shri Krishna Rubber Industries has been incorporated with a mission to serve India in its growth journey of rapid infrastructural development. We are determined to provide the best quality product at competitive price, deliver as per commitments, and remain <strong>"The Symbol of Quality"</strong> &mdash; the ultimate leader in plastic pipes &amp; fittings manufacturing.
-                                    </div>
-                                  </div>
-                                </article>
-                              </div>
-                            </div>
-                            <!-- .themestek-element-inner -->   
-                          </div>
-                          <!-- .themestek-element -->  
+                  <div class="row w-100 m-0 justify-content-center">
+                     <!-- Our Vision Card -->
+                     <div class="col-12 col-md-6 mb-4 mb-md-0">
+                        <div class="tstk-vision-mission-card">
+                           <div style="color: #109ad7; margin-bottom: 20px; font-size: 36px; line-height: 1;">
+                              <i class="fas fa-eye"></i>
+                           </div>
+                           <h3 style="font-size: 24px; font-weight: 800; color: #111; margin-bottom: 15px; text-transform: uppercase; letter-spacing: 0.5px;">Our Vision</h3>
+                           <p style="color: #666; font-size: 15px; line-height: 1.8; margin: 0;">
+                              Shri Krishna Rubber Industries exists to provide best quality products and services in accordance with the applicable international standards in the Indian Sub-Continent and the associated territories.
+                           </p>
                         </div>
-                      </div>
-                    </div>
+                     </div>
+                     
+                     <!-- Our Mission Card -->
+                     <div class="col-12 col-md-6">
+                        <div class="tstk-vision-mission-card">
+                           <div style="color: #109ad7; margin-bottom: 20px; font-size: 36px; line-height: 1;">
+                              <i class="fas fa-bullseye"></i>
+                           </div>
+                           <h3 style="font-size: 24px; font-weight: 800; color: #111; margin-bottom: 15px; text-transform: uppercase; letter-spacing: 0.5px;">Our Mission</h3>
+                           <p style="color: #666; font-size: 15px; line-height: 1.8; margin: 0;">
+                              Shri Krishna Rubber Industries has been incorporated with a mission to serve India in its growth journey of rapid infrastructural development. We are determined to provide the best quality product at competitive price, deliver as per commitments, and remain <strong>"The Symbol of Quality"</strong> &mdash; the ultimate leader in plastic pipes &amp; fittings manufacturing.
+                           </p>
+                        </div>
+                     </div>
                   </div>
                 </div>
               </div>
