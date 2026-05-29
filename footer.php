@@ -19,7 +19,7 @@
 		}
 	}
 })();
-</script><!-- Mailchimp for WordPress v4.10.0 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-12722" method="post" data-id="12722" data-name="Newsletter" ><div class="mc4wp-form-fields"><div class="tstk-footer-newsletter">
+</script><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-12722" method="post" data-id="12722" data-name="Newsletter" ><div class="mc4wp-form-fields"><div class="tstk-footer-newsletter">
   <i aria-hidden="true" class="tstk-industrey-icon tstk-base-icon-mailbox"></i>
   <h4>
  Sign up for industry alert,news &#38; inslights
@@ -66,12 +66,9 @@
 						<div class="row d-flex align-items-center">
 							
 									<div class="tstk-footer-copyright-box tstk-footer-copyright-box-1  col-md-4">
-					<div class="menu-quick-links-container"> <ul id="tstk-footer-menu" class="tstk-footer-menu"> <li id="menu-item-33710" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33710"> <a href="#">Where to Find Us</a> </li>
-<li id="menu-item-33711" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33711"> <a href="#">Terms of Payment</a> </li>
-<li id="menu-item-33712" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33712"> <a href="#">Stats Element</a> </li>
-</ul> </div>					Copyright © 2022 <a href="index.php">Shri Krishna Rubber Industries</a>, All Rights Reserved.</div>
+								Copyright © 2026 <a href="index.php">Shri Krishna Rubber Industries</a>, All Rights Reserved.</div>
 					
-									<div class="tstk-footer-copyright-box tstk-footer-copyright-box-2 col-md-4"><img class="aligncenter wp-image-29578" src="wp-content/uploads/sites/2/2021/08/footer-logo.png" alt="" width="70" /></div>
+									<div class="tstk-footer-copyright-box tstk-footer-copyright-box-2 col-md-4"><img class="aligncenter wp-image-29578" src="images/SPLogo.png" alt="" width="70" /></div>
 					
 				
 									<div class="tstk-footer-copyright-box tstk-footer-copyright-text col-md-4"><ul class="tstk-social-links"><li class="tstk-social-li tstk-social-facebook "><a title="Facebook"   href="#" target="_blank"><span><i class="tstk-base-icon-facebook-squared"></i></span></a></li><li class="tstk-social-li tstk-social-twitter "><a title="Twitter"   href="#" target="_blank"><span><i class="tstk-base-icon-twitter-x"></i></span></a></li><li class="tstk-social-li tstk-social-instagram "><a title="Instagram"   href="#" target="_blank"><span><i class="tstk-base-icon-instagram"></i></span></a></li><li class="tstk-social-li tstk-social-youtube "><a title="Youtube"   href="#" target="_blank"><span><i class="tstk-base-icon-youtube-play"></i></span></a></li></ul></div>

@@ -349,11 +349,7 @@
                   </div>
                   <!-- .tstk-pre-header-left -->
                   <div class="tstk-pre-header-right">
-                     <ul class="tstk-top-links">
-                        <li><a href="#">Careers </a></li>
-                        <li> <a href="#">News &amp; Media </a></li>
-                        <li> <a href="#"> Faq</a></li>
-                     </ul>
+                     
                      <ul class="tstk-social-links">
                         <li class="tstk-social-li tstk-social-facebook "><a title="Facebook" href="#" target="_blank"><span><i class="tstk-base-icon-facebook-squared"></i></span></a></li>
                         <li class="tstk-social-li tstk-social-twitter "><a title="Twitter" href="#" target="_blank"><span><i class="tstk-base-icon-twitter-x"></i></span></a></li>
@@ -429,9 +425,7 @@
                   </div>
                   <!-- .navigation-top -->
                   <div class="tstk-right-box">
-                     <div class="tstk-search-cart-box">
-                        <div class="tstk-header-search-btn"><a title="Search" href="#"><i class="tstk-base-icon-search-1"></i></a></div>
-                     </div>
+                    
                      <div class="tstk-header-button">
                         <a href="#">
                         <span class="tstk-header-button-text-1">Get a quote</span>					</a>
@@ -466,7 +460,7 @@
                            data-frame_1_mask="u:t;"
                            data-frame_999="o:0;st:w;sR:6510;"
                            style="z-index:10;font-family:'Teko';"
-                           >Industrial Business<br/>Black Sheep Among<br/>White Ones. 
+                           >Reliable <br/>HDPE Pipe <br/>Solutions. 
                         </rs-layer>
                         <!--
                            -->
@@ -485,43 +479,7 @@
                         </rs-layer>
                         <!--
                            --><a id="slider-1-slide-1-layer-2" class="rs-layer rev-button rev-btn" href="contact.php" target="_self" data-type="button" data-rsp_ch="on" data-xy="xo:220px,200px,30px,30px;y:m;yo:114px,95px,70px,87px;" data-text="w:normal;s:18;l:60,55,50,45;ls:1px,1px,1px,0px;fw:300;" data-dim="minh:0px,none,none,none;" data-padding="t:4,5,3,4;r:50,42,40,35;l:50,42,40,35;" data-border="bor:0px,25px,0px,0px;" data-frame_0="x:-100%;" data-frame_0_mask="u:t;" data-frame_1="st:2660;sp:1000;sR:2660;" data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:5340;" data-frame_hover="bgc:#fc0012;bor:0px,25px,0px,0px;" style="z-index:13;background-color:#111010;font-family:'Teko';text-transform:uppercase;"><span>Get a quote</span> 
-                        </a><!--
-                           --><a
-                           id="slider-1-slide-1-layer-3" 
-                           class="rs-layer tstk-lightbox-video"
-                           href="https://www.youtube.com/watch?v=waBUdHnaqd8" target="_self"
-                           data-type="text"
-                           data-color="#fc0012"
-                           data-rsp_ch="on"
-                           data-xy="xo:30px,24px,18px,11px;y:m;yo:115px,96px,22px,13px;"
-                           data-text="w:normal;s:25,20,15,9;l:68,56,42,25;a:center;"
-                           data-dim="w:72px,62px,47px,28px;h:72px,62px,47px,28px;"
-                           data-vbility="t,t,f,f"
-                           data-border="bor:50%,50%,50%,50%;"
-                           data-frame_0="sX:0.8;sY:0.8;"
-                           data-frame_1="e:power4.out;st:1880;sp:1000;sR:1880;"
-                           data-frame_999="o:0;st:w;sR:6120;"
-                           data-frame_hover="c:#fff;bgc:#fc0012;bor:50%,50%,50%,50%;"
-                           style="z-index:11;background-color:#ffffff;font-family:'Oswald';"
-                           ><i class="tstk-base-icon-youtube-play"></i> 
-                        </a><!--
-                           --><a
-                           id="slider-1-slide-1-layer-4" 
-                           class="rs-layer tstk-lightbox-video"
-                           href="https://www.youtube.com/watch?v=waBUdHnaqd8" target="_self"
-                           data-type="text"
-                           data-rsp_ch="on"
-                           data-xy="xo:109px,100px,75px,46px;y:m;yo:116px,96px,22px,13px;"
-                           data-text="w:normal;s:14,14,10,6;l:24,20,15,9;ls:1px,1px,0px,0px;fw:700;"
-                           data-vbility="t,t,f,f"
-                           data-frame_0="x:50,41,31,19;"
-                           data-frame_1="st:2100;sp:1000;sR:2100;"
-                           data-frame_999="o:0;st:w;sR:5900;"
-                           data-frame_hover="c:#fc0012;"
-                           style="z-index:12;font-family:'Big Shoulders Display';text-transform:uppercase;"
-                           >See our video 
-                        </a><!--
-                           -->
+                        </a>
                         <rs-layer
                            id="slider-1-slide-1-layer-6" 
                            data-type="shape"
@@ -572,47 +530,11 @@
                            data-frame_1="st:1000;sp:1000;sR:1000;"
                            data-frame_999="o:0;st:w;sR:7000;"
                            style="z-index:9;font-family:'Yantramanav';"
-                           >Start experiencing amazing industrial business 
+                           >Reliable <br/>HDPE Pipe <br/>Solutions. 
                         </rs-layer>
                         <!--
                            --><a id="slider-1-slide-3-layer-2" class="rs-layer rev-button rev-btn" href="contact.php" target="_self" data-type="button" data-rsp_ch="on" data-xy="xo:220px,200px,30px,30px;y:m;yo:114px,95px,70px,87px;" data-text="w:normal;s:18;l:60,55,50,45;ls:1px,1px,1px,0px;fw:300;" data-dim="minh:0px,none,none,none;" data-padding="t:4,5,3,4;r:50,42,40,35;l:50,42,40,35;" data-border="bor:0px,25px,0px,0px;" data-frame_0="x:-100%;" data-frame_0_mask="u:t;" data-frame_1="st:2660;sp:1000;sR:2660;" data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:5340;" data-frame_hover="bgc:#fc0012;bor:0px,25px,0px,0px;" style="z-index:13;background-color:#111010;font-family:'Teko';text-transform:uppercase;"><span>Get a quote</span> 
-                        </a><!--
-                           --><a
-                           id="slider-1-slide-3-layer-3" 
-                           class="rs-layer tstk-lightbox-video"
-                           href="https://www.youtube.com/watch?v=waBUdHnaqd8" target="_self"
-                           data-type="text"
-                           data-color="#fc0012"
-                           data-rsp_ch="on"
-                           data-xy="xo:31px,24px,18px,11px;y:m;yo:116px,96px,22px,13px;"
-                           data-text="w:normal;s:25,20,15,9;l:68,56,42,25;a:center;"
-                           data-dim="w:72px,62px,47px,28px;h:72px,62px,47px,28px;"
-                           data-vbility="t,t,f,f"
-                           data-border="bor:50%,50%,50%,50%;"
-                           data-frame_0="sX:0.8;sY:0.8;"
-                           data-frame_1="e:power4.out;st:1880;sp:1000;sR:1880;"
-                           data-frame_999="o:0;st:w;sR:6120;"
-                           data-frame_hover="c:#fff;bgc:#fc0012;bor:50%,50%,50%,50%;"
-                           style="z-index:11;background-color:#ffffff;font-family:'Oswald';"
-                           ><i class="tstk-base-icon-youtube-play"></i> 
-                        </a><!--
-                           --><a
-                           id="slider-1-slide-3-layer-4" 
-                           class="rs-layer tstk-lightbox-video"
-                           href="https://www.youtube.com/watch?v=waBUdHnaqd8" target="_self"
-                           data-type="text"
-                           data-rsp_ch="on"
-                           data-xy="xo:112px,100px,75px,46px;y:m;yo:115px,96px,22px,13px;"
-                           data-text="w:normal;s:14,14,10,6;l:24,20,15,9;ls:1px,1px,0px,0px;fw:700;"
-                           data-vbility="t,t,f,f"
-                           data-frame_0="x:50,41,31,19;"
-                           data-frame_1="st:2100;sp:1000;sR:2100;"
-                           data-frame_999="o:0;st:w;sR:5900;"
-                           data-frame_hover="c:#fc0012;"
-                           style="z-index:12;font-family:'Big Shoulders Display';text-transform:uppercase;"
-                           >See our video 
-                        </a><!--
-                           -->
+                        </a>
                         <rs-layer
                            id="slider-1-slide-3-layer-6" 
                            data-type="shape"
