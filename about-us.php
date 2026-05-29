@@ -10,7 +10,7 @@
           </div>
         </div>
         <div class="tstk-breadcrumb">
-          <div class="tstk-breadcrumb-inner"><span><a title="Go to Industrey Demo3." href="https://industrey-demo.pbminfotech.com/demo3" class="home"><span>Industrey</span></a></span><span class="sep"><i class="tstk-base-icon-angle-double-right"></i></span><span><span class="post post-page current-item">About Us</span></span></div>
+          <div class="tstk-breadcrumb-inner"><span><a title="Go to Shri Krishna Rubber Industries." href="" class="home"><span>Industrey</span></a></span><span class="sep"><i class="tstk-base-icon-angle-double-right"></i></span><span><span class="post post-page current-item">About Us</span></span></div>
         </div>
       </div>
     </div>
@@ -24,7 +24,7 @@
   <div id="content" class="site-content container">
     <div class="tstk-header-search-form-wrapper">
       <div class="tstk-search-close"><i class="tstk-base-icon-cancel"></i></div>
-      <form role="search" method="get" class="search-form" action="https://industrey-demo.pbminfotech.com/demo3/">
+      <form role="search" method="get" class="search-form" action="">
         <label for="search-form-6a1837513f1cf">
         <span class="screen-reader-text">Search for:</span>
         </label>
@@ -39,7 +39,7 @@
             <div class="elementor-widget-wrap elementor-element-populated">
               <div class="elementor-element elementor-element-4cf846b tstk-img-effect-01 elementor-widget elementor-widget-image" data-id="4cf846b" data-element_type="widget" data-widget_type="image.default">
                 <div class="elementor-widget-container">
-                  <img fetchpriority="high" decoding="async" width="500" height="632" src="wp-content/uploads/sites/5/2021/09/demo1-img-01.jpg" class="attachment-full size-full wp-image-34058" alt="" srcset="https://industrey-demo.pbminfotech.com/demo3/wp-content/uploads/sites/5/2021/09/demo1-img-01.jpg 500w, https://industrey-demo.pbminfotech.com/demo3/wp-content/uploads/sites/5/2021/09/demo1-img-01-237x300.jpg 237w" sizes="(max-width: 500px) 100vw, 500px" />															
+                  <img fetchpriority="high" decoding="async" width="500" height="632" src="wp-content/uploads/sites/5/2021/09/demo1-img-01.jpg" class="attachment-full size-full wp-image-34058" alt="" srcset="wp-content/uploads/sites/5/2021/09/demo1-img-01.jpg 500w, wp-content/uploads/sites/5/2021/09/demo1-img-01-237x300.jpg 237w" sizes="(max-width: 500px) 100vw, 500px" />															
                 </div>
               </div>
               <div class="elementor-element elementor-element-bfb9f39 tstk-btn-shape-round elementor-widget__width-auto elementor-absolute tstk-button-new tstk-btn-color-globalcolor tstk-btn-style-flat elementor-widget elementor-widget-button" data-id="bfb9f39" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="button.default">

@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 <html lang="en-US" class="no-js no-svg">
-   <!-- Mirrored from industrey-demo.pbminfotech.com/demo3/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 28 May 2026 12:37:01 GMT -->
-   <!-- Added by HTTrack -->
+
    <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-   <!-- /Added by HTTrack -->
+  
    <head>
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -13,12 +12,12 @@
       <meta name="apple-mobile-web-app-capable" content="yes">
       <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
       <link rel="profile" href="https://gmpg.org/xfn/11">
-      <title>Industrey Demo3 &#8211; Industry and Engineering WordPress Theme</title>
+      <title>Shri Krishna Rubber Industries &#8211; </title>
       <meta name='robots' content='max-image-preview:large' />
       <link rel='dns-prefetch' href='http://platform-api.sharethis.com/' />
       <link href='https://fonts.gstatic.com/' crossorigin rel='preconnect' />
-      <link rel="alternate" type="application/rss+xml" title="Industrey Demo3 &raquo; Feed" href="feed/index.html" />
-      <link rel="alternate" type="application/rss+xml" title="Industrey Demo3 &raquo; Comments Feed" href="comments/feed/index.html" />
+      <link rel="alternate" type="application/rss+xml" title="Shri Krishna Rubber Industries &raquo; Feed" href="index.php" />
+      <link rel="alternate" type="application/rss+xml" title="Shri Krishna Rubber Industries &raquo; Comments Feed" href="index.php />
       <link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="wp-json/oembed/1.0/embedbda7.json?url=https%3A%2F%2Findustrey-demo.pbminfotech.com%2Fdemo3%2F" />
       <link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="wp-json/oembed/1.0/embed528d?url=https%3A%2F%2Findustrey-demo.pbminfotech.com%2Fdemo3%2F&amp;format=xml" />
       <style id='wp-img-auto-sizes-contain-inline-css'>
@@ -118,7 +117,7 @@
       <script src="http://platform-api.sharethis.com/js/sharethis.js?ver=2.3.4#property=615149efa2a5620019d2720b&amp;product=inline-buttons&amp;source=sharethis-share-buttons-wordpress" id="share-this-share-buttons-mu-js"></script>
       <script src="wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.minb274.js?ver=2.7.0-wc.9.8.7" id="jquery-blockui-js" defer data-wp-strategy="defer"></script>
       <script id="wc-add-to-cart-js-extra">
-         var wc_add_to_cart_params = {"ajax_url":"/demo3/wp-admin/admin-ajax.php","wc_ajax_url":"/demo3/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https://industrey-demo.pbminfotech.com/demo3/cart/","is_cart":"","cart_redirect_after_add":"no"};
+         var wc_add_to_cart_params = {"ajax_url":"/demo3/wp-admin/admin-ajax.php","wc_ajax_url":"/demo3/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"cart/","is_cart":"","cart_redirect_after_add":"no"};
          //# sourceURL=wc-add-to-cart-js-extra
       </script>
       <script src="wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min5c8b.js?ver=9.8.7" id="wc-add-to-cart-js" defer data-wp-strategy="defer"></script>
@@ -133,7 +132,7 @@
       <script src="wp-content/themes/industrey/libraries/jquery-observe/jquery-observe.minb34e.js?ver=6.9.4" id="jquery-observe-js"></script>
       <script src="wp-content/themes/industrey/libraries/sticky-toolkit/jquery.sticky-kit.minb34e.js?ver=6.9.4" id="jquery-sticky-js"></script>
       <script id="tstk-core-script-js-extra">
-         var tstk_js_variables = {"responsive":"1200","ajaxurl":"https://industrey-demo.pbminfotech.com/demo3/wp-admin/admin-ajax.php","ajaxnonce":"3311fa85ae","ajaxnonce_ajax_pagination":"98c2cf7ce5","ajaxnonce_sortcat":"0e3bf9296c"};
+         var tstk_js_variables = {"responsive":"1200","ajaxurl":"wp-admin/admin-ajax.php","ajaxnonce":"3311fa85ae","ajaxnonce_ajax_pagination":"98c2cf7ce5","ajaxnonce_sortcat":"0e3bf9296c"};
          //# sourceURL=tstk-core-script-js-extra
       </script>
       <script src="wp-content/themes/industrey/js/core.minb34e.js?ver=6.9.4" id="tstk-core-script-js"></script>
@@ -141,8 +140,8 @@
       <link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.php?rsd" />
       <meta name="generator" content="WordPress 6.9.4" />
       <meta name="generator" content="WooCommerce 9.8.7" />
-      <link rel="canonical" href="index.html" />
-      <link rel='shortlink' href='index.html' />
+      <link rel="canonical" href="index.php" />
+      <link rel='shortlink' href='index.php' />
       <style>.elementor-button-content-wrapper{
          gap: 5px;
          }
@@ -208,11 +207,10 @@
          }
          }
       </style>
-      <meta name="generator" content="Powered by Slider Revolution 6.7.20 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
-      <link rel="icon" href="wp-content/uploads/sites/5/2021/09/cropped-fevicon-32x32.png" sizes="32x32" />
-      <link rel="icon" href="wp-content/uploads/sites/5/2021/09/cropped-fevicon-192x192.png" sizes="192x192" />
-      <link rel="apple-touch-icon" href="wp-content/uploads/sites/5/2021/09/cropped-fevicon-180x180.png" />
-      <meta name="msapplication-TileImage" content="https://industrey-demo.pbminfotech.com/demo3/wp-content/uploads/sites/5/2021/09/cropped-fevicon-270x270.png" />
+      <link rel="icon" href="images/SP Logo.png" sizes="32x32" />
+      <link rel="icon" href="images/SP Logo.png" sizes="192x192" />
+      <link rel="apple-touch-icon" href="images/SP Logo.png" />
+      <meta name="msapplication-TileImage" content="images/SP Logo.png" />
       <script>function setREVStartSize(e){
          //window.requestAnimationFrame(function() {
          	window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;
@@ -274,19 +272,19 @@
       <style>/** Mega Menu CSS: fs **/</style>
       <style id='wp-block-archives-inline-css'>
          .wp-block-archives{box-sizing:border-box}.wp-block-archives-dropdown label{display:block}
-         /*# sourceURL=https://industrey-demo.pbminfotech.com/demo3/wp-includes/blocks/archives/style.min.css */
+         /*# sourceURL=wp-includes/blocks/archives/style.min.css */
       </style>
       <style id='wp-block-categories-inline-css'>
          .wp-block-categories{box-sizing:border-box}.wp-block-categories.alignleft{margin-right:2em}.wp-block-categories.alignright{margin-left:2em}.wp-block-categories.wp-block-categories-dropdown.aligncenter{text-align:center}.wp-block-categories .wp-block-categories__label{display:block;width:100%}
-         /*# sourceURL=https://industrey-demo.pbminfotech.com/demo3/wp-includes/blocks/categories/style.min.css */
+         /*# sourceURL=wp-includes/blocks/categories/style.min.css */
       </style>
       <style id='wp-block-heading-inline-css'>
          h1:where(.wp-block-heading).has-background,h2:where(.wp-block-heading).has-background,h3:where(.wp-block-heading).has-background,h4:where(.wp-block-heading).has-background,h5:where(.wp-block-heading).has-background,h6:where(.wp-block-heading).has-background{padding:1.25em 2.375em}h1.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h1.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h2.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h2.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h3.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h3.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h4.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h4.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h5.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h5.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h6.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h6.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]){rotate:180deg}
-         /*# sourceURL=https://industrey-demo.pbminfotech.com/demo3/wp-includes/blocks/heading/style.min.css */
+         /*# sourceURL=wp-includes/blocks/heading/style.min.css */
       </style>
       <style id='wp-block-group-inline-css'>
          .wp-block-group{box-sizing:border-box}:where(.wp-block-group.wp-block-group-is-layout-constrained){position:relative}
-         /*# sourceURL=https://industrey-demo.pbminfotech.com/demo3/wp-includes/blocks/group/style.min.css */
+         /*# sourceURL=wp-includes/blocks/group/style.min.css */
       </style>
       <link rel='stylesheet' id='wc-blocks-style-css' href='wp-content/plugins/woocommerce/assets/client/blocks/wc-blocksf3aa.css?ver=wc-9.8.7' media='all' />
       <style id='global-styles-inline-css'>
@@ -376,7 +374,7 @@
                   <div class="tstk-logo-menuarea">
                      <div class="site-branding tstk-logo-area">
                         <div class="wrap">
-                           <h1 class="site-title"><a href="index.php" rel="home"><span class="site-title-text">Reliable HDPE Pipe Solutions</span><img class="tstk-main-logo" src="wp-content/themes/industrey/images/logo.png" alt="Industrey Demo3" title="Industrey Demo3" /><img class="tstk-sticky-logo" src="wp-content/themes/industrey/images/logo.png" alt="Industrey Demo3" title="Industrey Demo3" /></a></h1>
+                           <h1 class="site-title"><a href="index.php" rel="home"><span class="site-title-text">Reliable HDPE Pipe Solutions</span><img class="tstk-main-logo" src="images/SPLogo.png" alt="Shri Krishna Rubber Industries" title="Shri Krishna Rubber Industries" /><img class="tstk-sticky-logo" src="images/SPLogo.png" alt="Shri Krishna Rubber Industries" title="Shri Krishna Rubber Industries" /></a></h1>
                            <!-- Logo area -->
                         </div>
                         <!-- .wrap -->
@@ -411,7 +409,7 @@
                                  <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-menu-item-33789' id='mega-menu-item-33789'> <a class="mega-menu-link" href="index.php" tabindex="0">Home</a> 
                                  <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-menu-item-33790' id='mega-menu-item-33790'> <a class="mega-menu-link" href="about-us.php" tabindex="0">About Us</a> </li>
                                  <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-align-bottom-left mega-menu-flyout mega-menu-item-33783' id='mega-menu-item-33783'>
-                                    <a class="mega-menu-link" href="products/index.html" aria-expanded="false" tabindex="0">Products<span class="mega-indicator"> </span> </a>
+                                    <a class="mega-menu-link" href="#" aria-expanded="false" tabindex="0">Products<span class="mega-indicator"> </span> </a>
                                      <ul class="mega-sub-menu">
                                         <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-tstk-service'><a class="mega-menu-link" href="hdpe-pipe.php">HDPE PIPE</a></li>
                                         <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-tstk-service'><a class="mega-menu-link" href="hdpe-roll-pipe.php">HDPE ROLL PIPE</a></li>

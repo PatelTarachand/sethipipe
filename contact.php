@@ -3,7 +3,7 @@
 		<div class="container">
 			<div class="tstk-title-bar-content">
 				<div class="tstk-title-bar-content-inner">
-					<div class="tstk-tbar"><div class="tstk-tbar-inner container"><h1 class="tstk-tbar-title"> Contact Us</h1></div></div>					<div class="tstk-breadcrumb"><div class="tstk-breadcrumb-inner"><span><a title="Go to Industrey Demo3." href="https://industrey-demo.pbminfotech.com/demo3" class="home"><span>Industrey</span></a></span><span class="sep"><i class="tstk-base-icon-angle-double-right"></i></span><span><span class="post post-page current-item">Contact Us</span></span></div></div>				</div>
+					<div class="tstk-tbar"><div class="tstk-tbar-inner container"><h1 class="tstk-tbar-title"> Contact Us</h1></div></div>					<div class="tstk-breadcrumb"><div class="tstk-breadcrumb-inner"><span><a title="Go to Shri Krishna Rubber Industries." href="" class="home"><span>Industrey</span></a></span><span class="sep"><i class="tstk-base-icon-angle-double-right"></i></span><span><span class="post post-page current-item">Contact Us</span></span></div></div>				</div>
 			</div><!-- .tstk-title-bar-content -->
 		</div><!-- .container -->
 	</div><!-- .tstk-title-bar-wrapper -->
@@ -12,7 +12,7 @@
 			<div id="content" class="site-content container">
 								<div class="tstk-header-search-form-wrapper">
 					<div class="tstk-search-close"><i class="tstk-base-icon-cancel"></i></div>
-					<form role="search" method="get" class="search-form" action="https://industrey-demo.pbminfotech.com/demo3/">
+					<form role="search" method="get" class="search-form" action="">
 	<label for="search-form-6a183779ce96c">
 		<span class="screen-reader-text">Search for:</span>
 	</label>
@@ -94,7 +94,7 @@
 					
 					</h2>
 					
-				<div class="tstk-heading-desc"><a href="mailto:shrikrishnarubberindustries@gmail.com">shrikrishnarubberindustries@gmail.com</a></div>			</div><!-- .tstk-ihbox-contents -->
+				<div class="tstk-heading-desc"><a href="mailto:shrikrishnarubberindustries@gmail.com" style="color:white; font-size:15px">shrikrishnarubberindustries@gmail.com</a></div>			</div><!-- .tstk-ihbox-contents -->
 </div></div>				</div>
 				</div>
 					</div>
@@ -106,7 +106,7 @@
 							<div class="elementor-shortcode">
 <div class="wpcf7 no-js" id="wpcf7-f17929-p12842-o1" lang="en-US" dir="ltr" data-wpcf7-id="17929">
 <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
-<form action="https://industrey-demo.pbminfotech.com/demo3/contact-us/#wpcf7-f17929-p12842-o1" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init">
+<form action="contact-us/#wpcf7-f17929-p12842-o1" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init">
 <div style="display: none;">
 <input type="hidden" name="_wpcf7" value="17929" />
 <input type="hidden" name="_wpcf7_version" value="6.0.6" />
@@ -164,6 +164,21 @@
 		</div>
 					</div>
 		</section>
+				
+				<!-- Google Map Section -->
+				<section class="elementor-section elementor-top-section elementor-element tstk-margin-zero" style="padding: 0; margin-top: 50px; margin-bottom: 0;">
+					<div class="elementor-container elementor-column-gap-no" style="max-width: 100%; width: 100%;">
+						<div class="elementor-column elementor-col-100 elementor-top-column elementor-element" style="width: 100%;">
+							<div class="elementor-widget-wrap elementor-element-populated" style="padding: 0;">
+								<div class="w-100" style="height: 450px; overflow: hidden; filter: grayscale(10%) contrast(1.1);">
+									<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3667.669567954932!2d79.9650808!3d23.1959601!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3981af81043af26b%3A0x5ba82d48996eb2f4!2sShri%20Krishna%20Rubber%20Industries!5e0!3m2!1sen!2sin!4v1780036000000!5m1!1e4" width="100%" height="100%" style="border:0; display: block;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+								</div>
+							</div>
+						</div>
+					</div>
+				</section>
+				<!-- End Google Map Section -->
+
 				<div class="elementor-section elementor-top-section elementor-element elementor-element-286c8771 tstk-col-stretched-none tstk-bg-color-over-image elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="286c8771" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element tstk-bg-color-yes tstk-elementor-bg-color-blackish tstk-bg-color-over-image" data-element_type="column" style="width: 100%;">

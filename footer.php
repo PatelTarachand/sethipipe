@@ -34,22 +34,26 @@
 </div>
 		</aside>								</div><!-- .tstk-footer-widget -->
 															<div class="tstk-footer-widget tstk-footer-widget-col-2 col-md-6 col-lg-3">
-									<aside id="text-3" class="widget-odd widget-last widget-first widget-1 widget widget_text industrey_widget  industrey_widget_count_27"><h2 class="widget-title">Industry WP Theme</h2>			<div class="textwidget"><p>A leading developer of A-grade commercial, industrial and residential projects in USA. Since its foundation the company has doubled its turnover year on year, with its staff numbers.<br />
+									<aside id="text-3" class="widget-odd widget-last widget-first widget-1 widget widget_text industrey_widget  industrey_widget_count_27"><h2 class="widget-title">Sethi Pipe</h2>			<div class="textwidget"><p>
+										Established in 1992 on the banks of Narmada River and centre of India, Jabalpur, Madhya Pradesh, in line with the escalating demand of plastic pipes and fittings products in the region.<br />
 <a class="btn-arrow" href="#"><span>Get a quote</span></a></p>
 </div>
 		</aside>								</div><!-- .tstk-footer-widget -->
 															<div class="tstk-footer-widget tstk-footer-widget-col-3 col-md-6 col-lg-3">
-									<aside id="nav_menu-1" class="widget-odd widget-last widget-first widget-1 widget widget_nav_menu industrey_widget  industrey_widget_count_28"><h2 class="widget-title">Company info</h2><div class="menu-footer-menu-container"> <ul id="menu-footer-menu" class="menu"> <li id="menu-item-33793" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33793"> <a href="about-us.php">About Us</a> </li>
-<li id="menu-item-33687" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33687"> <a href="#">News &amp; Media</a> </li>
-<li id="menu-item-33686" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33686"> <a href="#">Our Projects</a> </li>
-<li id="menu-item-33688" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33688"> <a href="#">Meet Our Team</a> </li>
-<li id="menu-item-33794" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33794"> <a href="contact.php">Contact Us</a> </li>
-<li id="menu-item-33689" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33689"> <a href="#">Careers</a> </li>
+									<aside id="nav_menu-1" class="widget-odd widget-last widget-first widget-1 widget widget_nav_menu industrey_widget  industrey_widget_count_28"><h2 class="widget-title">Company info</h2><div class="menu-footer-menu-container"> <ul id="menu-footer-menu" class="menu"> <li id="menu-item-33789" class="menu-item"> <a href="index.php">Home</a> </li>
+<li id="menu-item-33793" class="menu-item"> <a href="about-us.php">About Us</a> </li>
+<li id="menu-item-hdpe" class="menu-item"> <a href="hdpe-pipe.php">HDPE Pipe</a> </li>
+<li id="menu-item-hdpe-roll" class="menu-item"> <a href="hdpe-roll-pipe.php">HDPE Roll Pipe</a> </li>
+<li id="menu-item-sprinkler" class="menu-item"> <a href="sprinkler-pipe.php">Sprinkler Pipe</a> </li>
+<li id="menu-item-fitting" class="menu-item"> <a href="sprinkler-fitting.php">Sprinkler Fitting</a> </li>
+<li id="menu-item-mdpe" class="menu-item"> <a href="mdpe-pipe.php">MDPE Pipe</a> </li>
+<li id="menu-item-washer" class="menu-item"> <a href="rubber-washer.php">Rubber Washer</a> </li>
+<li id="menu-item-33794" class="menu-item"> <a href="contact.php">Contact Us</a> </li>
 </ul> </div></aside>								</div><!-- .tstk-footer-widget -->
 															<div class="tstk-footer-widget tstk-footer-widget-col-4 col-md-6 col-lg-3">
 									<aside id="text-4" class="widget-odd widget-last widget-first widget-1 widget widget_text industrey_widget  industrey_widget_count_29"><h2 class="widget-title">Quick Contact</h2>			<div class="textwidget"><p>58, 59 Industrial Estate, Adhartal, Jabalpur</p>
 <p>If you have any questions or need help, feel free to contact with our team.</p>
-<h3 class="footer-phone">+91 9425151151, +91 9713014516</h3>
+<h3 class="footer-phone"  style="font-size: 1.6rem;">+91 9425151151, +91 9713014516</h3>
 </div>
 		</aside>								</div><!-- .tstk-footer-widget -->
 												</div><!-- .row -->
@@ -65,7 +69,7 @@
 					<div class="menu-quick-links-container"> <ul id="tstk-footer-menu" class="tstk-footer-menu"> <li id="menu-item-33710" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33710"> <a href="#">Where to Find Us</a> </li>
 <li id="menu-item-33711" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33711"> <a href="#">Terms of Payment</a> </li>
 <li id="menu-item-33712" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33712"> <a href="#">Stats Element</a> </li>
-</ul> </div>					Copyright © 2022 <a href="index.html">Industrey Demo3</a>, All Rights Reserved.</div>
+</ul> </div>					Copyright © 2022 <a href="index.php">Shri Krishna Rubber Industries</a>, All Rights Reserved.</div>
 					
 									<div class="tstk-footer-copyright-box tstk-footer-copyright-box-2 col-md-4"><img class="aligncenter wp-image-29578" src="wp-content/uploads/sites/2/2021/08/footer-logo.png" alt="" width="70" /></div>
 					
@@ -166,7 +170,7 @@ var wpcf7 = {
 <script src="wp-content/plugins/revslider/sr6/assets/js/rs6.min129b.js?ver=6.7.20" defer async id="revmin-js"></script>
 <script src="wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min5c8b.js?ver=9.8.7" id="sourcebuster-js-js"></script>
 <script id="wc-order-attribution-js-extra">
-var wc_order_attribution = {"params":{"lifetime":1.0000000000000000818030539140313095458623138256371021270751953125e-5,"session":30,"base64":false,"ajaxurl":"https://industrey-demo.pbminfotech.com/demo3/wp-admin/admin-ajax.php","prefix":"wc_order_attribution_","allowTracking":true},"fields":{"source_type":"current.typ","referrer":"current_add.rf","utm_campaign":"current.cmp","utm_source":"current.src","utm_medium":"current.mdm","utm_content":"current.cnt","utm_id":"current.id","utm_term":"current.trm","utm_source_platform":"current.plt","utm_creative_format":"current.fmt","utm_marketing_tactic":"current.tct","session_entry":"current_add.ep","session_start_time":"current_add.fd","session_pages":"session.pgs","session_count":"udata.vst","user_agent":"udata.uag"}};
+var wc_order_attribution = {"params":{"lifetime":1.0000000000000000818030539140313095458623138256371021270751953125e-5,"session":30,"base64":false,"ajaxurl":"wp-admin/admin-ajax.php","prefix":"wc_order_attribution_","allowTracking":true},"fields":{"source_type":"current.typ","referrer":"current_add.rf","utm_campaign":"current.cmp","utm_source":"current.src","utm_medium":"current.mdm","utm_content":"current.cnt","utm_id":"current.id","utm_term":"current.trm","utm_source_platform":"current.plt","utm_creative_format":"current.fmt","utm_marketing_tactic":"current.tct","session_entry":"current_add.ep","session_start_time":"current_add.fd","session_pages":"session.pgs","session_count":"udata.vst","user_agent":"udata.uag"}};
 //# sourceURL=wc-order-attribution-js-extra
 </script>
 <script src="wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min5c8b.js?ver=9.8.7" id="wc-order-attribution-js"></script>
@@ -234,12 +238,12 @@ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false
 </script>
 <script src="wp-content/plugins/elementor/assets/js/frontend.min3ea8.js?ver=3.27.5" id="elementor-frontend-js"></script>
 <script id="wp-emoji-settings" type="application/json">
-{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://industrey-demo.pbminfotech.com/demo3/wp-includes/js/wp-emoji-release.min.js?ver=6.9.4"}}
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"wp-includes/js/wp-emoji-release.min.js?ver=6.9.4"}}
 </script>
 <script type="module">
 /*! This file is auto-generated */
 const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(window._wpemojiSettings=a,"wpEmojiSettingsSupports"),s=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,a){let r;const o=(r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),s=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"});const r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],"flag"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))});
-//# sourceURL=https://industrey-demo.pbminfotech.com/demo3/wp-includes/js/wp-emoji-loader.min.js
+//# sourceURL=wp-includes/js/wp-emoji-loader.min.js
 </script>
 <script id="rs-initialisation-scripts">
 		var	tpj = jQuery;

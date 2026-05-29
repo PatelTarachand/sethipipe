@@ -4,7 +4,7 @@
    <div id="content" class="site-content container">
       <div class="tstk-header-search-form-wrapper">
          <div class="tstk-search-close"><i class="tstk-base-icon-cancel"></i></div>
-         <form role="search" method="get" class="search-form" action="https://industrey-demo.pbminfotech.com/demo3/">
+         <form role="search" method="get" class="search-form" action="">
             <label for="search-form-6a1836ebf3f6d">
             <span class="screen-reader-text">Search for:</span>
             </label>
@@ -670,7 +670,10 @@
                            </div>
                         </div>
                      </section>
-                     <div class="elementor-section elementor-top-section elementor-element elementor-element-5524097 tstk-col-stretched-both elementor-section-stretched tstk-margin-space-row tstk-bg-color-over-image elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5524097" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+                     
+                     
+                      
+                      <div class="elementor-section elementor-top-section elementor-element elementor-element-5524097 tstk-col-stretched-both elementor-section-stretched tstk-margin-space-row tstk-bg-color-over-image elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5524097" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
                         <div class="elementor-container elementor-column-gap-default">
                            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-77d38b3 tstk-bg-color-yes tstk-elementor-bg-color-light tstk-bg-image-over-color" data-id="77d38b3" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                               <div class="elementor-widget-wrap elementor-element-populated">
@@ -785,8 +788,8 @@
                                     <div class="elementor-widget-container">
                                        <div class="tstk-heading-subheading left-align tstk-reverse-heading-yes">
                                           <h4 class="tstk-element-subtitle">
-                                             Do you needs any help?
-                                          </h4>
+                                             FAQ
+                                           </h4>
                                           <h2 class="tstk-element-title">
                                              Frequently Asked Questions 
                                           </h2>
@@ -796,29 +799,29 @@
                                  <div class="elementor-element elementor-element-3926dfa themestek-accordion-number elementor-widget elementor-widget-accordion" data-id="3926dfa" data-element_type="widget" data-widget_type="accordion.default">
                                     <div class="elementor-widget-container">
                                        <div class="elementor-accordion">
-                                          <div class="elementor-accordion-item">
+                                                                                    <div class="elementor-accordion-item">
                                              <div id="elementor-tab-title-5991" class="elementor-tab-title" data-tab="1" role="button" aria-controls="elementor-tab-content-5991" aria-expanded="false">
-                                                <a class="elementor-accordion-title" tabindex="0">In my financial marketing loss can i get insuarance ?</a>
+                                                <a class="elementor-accordion-title" tabindex="0">What makes HDPE pipes better than traditional metal pipes?</a>
                                              </div>
-                                             <div id="elementor-tab-content-5991" class="elementor-tab-content elementor-clearfix" data-tab="1" role="region" aria-labelledby="elementor-tab-title-5991">Our country possesses approximately 170 billion barrels of oil that can be recovered with today’s technology. Of that number, 165 billion barrels are located in the oil sands.</div>
+                                             <div id="elementor-tab-content-5991" class="elementor-tab-content elementor-clearfix" data-tab="1" role="region" aria-labelledby="elementor-tab-title-5991">HDPE pipes are completely corrosion-resistant, lightweight, flexible, and have a smooth inner surface that reduces friction losses. Unlike metal, they do not rust or decay, ensuring a lifespan of over 50-100 years.</div>
                                           </div>
                                           <div class="elementor-accordion-item">
                                              <div id="elementor-tab-title-5992" class="elementor-tab-title" data-tab="2" role="button" aria-controls="elementor-tab-content-5992" aria-expanded="false">
-                                                <a class="elementor-accordion-title" tabindex="0">Can you explain what are the steps of marketing research?</a>
+                                                <a class="elementor-accordion-title" tabindex="0">Are your piping products certified for drinking water supply?</a>
                                              </div>
-                                             <div id="elementor-tab-content-5992" class="elementor-tab-content elementor-clearfix" data-tab="2" role="region" aria-labelledby="elementor-tab-title-5992">Our country possesses approximately 170 billion barrels of oil that can be recovered with today’s technology. Of that number, 165 billion barrels are located in the oil sands.</div>
+                                             <div id="elementor-tab-content-5992" class="elementor-tab-content elementor-clearfix" data-tab="2" role="region" aria-labelledby="elementor-tab-title-5992">Yes, our HDPE and MDPE pipes are manufactured using 100% virgin food-grade raw materials. They are completely non-toxic, safe for potable water supply, and certified under applicable national standards.</div>
                                           </div>
                                           <div class="elementor-accordion-item">
                                              <div id="elementor-tab-title-5993" class="elementor-tab-title" data-tab="3" role="button" aria-controls="elementor-tab-content-5993" aria-expanded="false">
-                                                <a class="elementor-accordion-title" tabindex="0">How I can contact with your  advisor in strategic issue?</a>
+                                                <a class="elementor-accordion-title" tabindex="0">Do you offer custom sizes and pressure ratings for pipes?</a>
                                              </div>
-                                             <div id="elementor-tab-content-5993" class="elementor-tab-content elementor-clearfix" data-tab="3" role="region" aria-labelledby="elementor-tab-title-5993">Our country possesses approximately 170 billion barrels of oil that can be recovered with today’s technology. Of that number, 165 billion barrels are located in the oil sands.</div>
+                                             <div id="elementor-tab-content-5993" class="elementor-tab-content elementor-clearfix" data-tab="3" role="region" aria-labelledby="elementor-tab-title-5993">Yes, we manufacture pipes in various outer diameters and pressure ratings (PN ratings) to meet specific agricultural, industrial, and municipal project requirements. Please contact our sales team for detailed specifications.</div>
                                           </div>
                                           <div class="elementor-accordion-item">
                                              <div id="elementor-tab-title-5994" class="elementor-tab-title" data-tab="4" role="button" aria-controls="elementor-tab-content-5994" aria-expanded="false">
-                                                <a class="elementor-accordion-title" tabindex="0">Can  you provide tips for  invest money in stock market? </a>
+                                                <a class="elementor-accordion-title" tabindex="0">Where is your manufacturing unit located?</a>
                                              </div>
-                                             <div id="elementor-tab-content-5994" class="elementor-tab-content elementor-clearfix" data-tab="4" role="region" aria-labelledby="elementor-tab-title-5994">Our country possesses approximately 170 billion barrels of oil that can be recovered with today’s technology. Of that number, 165 billion barrels are located in the oil sands.</div>
+                                             <div id="elementor-tab-content-5994" class="elementor-tab-content elementor-clearfix" data-tab="4" role="region" aria-labelledby="elementor-tab-title-5994">Our state-of-the-art manufacturing facility is situated in Jabalpur, Madhya Pradesh, center of India. We are equipped with advanced machinery and testing laboratories to serve clients across the nation.</div>
                                           </div>
                                        </div>
                                     </div>
@@ -826,7 +829,7 @@
                                  <div class="elementor-element elementor-element-8deeb97 tstk-btn-style-text tstk-btn-color-globalcolor elementor-widget elementor-widget-button" data-id="8deeb97" data-element_type="widget" data-widget_type="button.default">
                                     <div class="elementor-widget-container">
                                        <div class="elementor-button-wrapper">
-                                          <a class="elementor-button elementor-button-link elementor-size-sm" href="faq/index.html">
+                                          <a class="elementor-button elementor-button-link elementor-size-sm" href="contact.php">
                                           <span class="elementor-button-content-wrapper">
                                           <span class="elementor-button-text">Ask question more </span>
                                           </span>
@@ -863,7 +866,7 @@
                                                 <p role="status" aria-live="polite" aria-atomic="true"></p>
                                                 <ul></ul>
                                              </div>
-                                             <form action="https://industrey-demo.pbminfotech.com/demo3/#wpcf7-f13031-p15796-o1" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init">
+                                             <form action="#wpcf7-f13031-p15796-o1" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init">
                                                 <div style="display: none;">
                                                    <input type="hidden" name="_wpcf7" value="13031" />
                                                    <input type="hidden" name="_wpcf7_version" value="6.0.6" />

@@ -26,7 +26,7 @@ include 'header.php';
             <div class="row multi-columns-row">
               <div class="tstk-header-search-form-wrapper">
                 <div class="tstk-search-close"><i class="tstk-base-icon-cancel"></i></div>
-                <form role="search" method="get" class="search-form" action="https://industrey-demo.pbminfotech.com/demo3/">
+                <form role="search" method="get" class="search-form" action="">
                   <label for="search-form-6a1837587ca7d">
                   <span class="screen-reader-text">Search for:</span>
                   </label>
@@ -98,10 +98,10 @@ include 'header.php';
                   <div class="textwidget custom-html-widget">
                     <div class="download">
                       <div class="item-download"> 
-                        <a href="#" target="_blank" rel="noopener noreferrer"><i class="industrey-base-icons tstk-base-icon-pdf"></i> Download our Brochures <i class="industrey-base-icons tstk-rightpostn tstk-base-icon-download"></i></a>
+                        <a href="images/Sethi Pipe Brochure.pdf" target="_blank" rel="noopener noreferrer"><i class="industrey-base-icons tstk-base-icon-pdf"></i> Download our Brochures <i class="industrey-base-icons tstk-rightpostn tstk-base-icon-download"></i></a>
                       </div>
                       <div class="item-download">
-                        <a href="#" target="_blank" rel="noopener noreferrer"><i class="industrey-base-icons  tstk-base-icon-doc-text-inv"></i>  Our company details  <i class="industrey-base-icons tstk-rightpostn tstk-base-icon-download"></i></a>
+                        <a href="images/Sethi Pipe company Brochure.pdf" target="_blank" rel="noopener noreferrer"><i class="industrey-base-icons  tstk-base-icon-doc-text-inv"></i>  Our company details  <i class="industrey-base-icons tstk-rightpostn tstk-base-icon-download"></i></a>
                       </div>
                     </div>
                   </div>
@@ -110,14 +110,14 @@ include 'header.php';
                   <div class="textwidget custom-html-widget">
                     <div class="single-service-contact-inner">
                       <h5>For a investor Inquiry</h5>
-                      <p><img loading="lazy" class="size-full wp-image-28211 aligncenter" src="wp-content/uploads/sites/5/2022/04/thsnsign36.jpg" alt="" width="150" height="150"></p>
-                      <h5 class="tstk-service-title">Alysa Casner</h5>
-                      <p class="tstk-service-position">Manager of industrey team</p>
+                      <p><img loading="lazy" class="size-full wp-image-28211 aligncenter" style="background-color: #fff;" src="images/SPLogo.png" alt="" width="100" height="100"></p>
+                      <h5 class="tstk-service-title">Sethi Pipe</h5>
+                      <p class="tstk-service-position">Shri Krishna Rubber Industries</p>
                       <ul>
                         <li style="list-style-type: none;">
                           <ul>
-                            <li><i class="tstk-base-icon-phone-volume-solid"></i> (+1) 555 234-8765</li>
-                            <li><i class="tstk-base-icon-mail-alt"></i> <a href="https://industrey-demo.pbminfotech.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="0d606c64614d68756c607d6168236e6260">[email&#160;protected]</a></li>
+                            <li><i class="tstk-base-icon-phone-volume-solid"></i> +91 9425151151</li>
+                            <li><i class="tstk-base-icon-mail-alt"></i> <a href="" class="__cf_email__" data-cfemail="0d606c64614d68756c607d6168236e6260">[email&#160;protected]</a></li>
                           </ul>
                         </li>
                       </ul>
@@ -126,7 +126,7 @@ include 'header.php';
                           <p role="status" aria-live="polite" aria-atomic="true"></p>
                           <ul></ul>
                         </div>
-                        <form action="https://industrey-demo.pbminfotech.com/demo1/service/mechanical-constructions/#wpcf7-f4-o7" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
+                        <form action="" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
                           <div style="display: none;">
                             <input type="hidden" name="_wpcf7" value="4">
                             <input type="hidden" name="_wpcf7_version" value="5.4.1">
