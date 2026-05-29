@@ -68,7 +68,7 @@
 									<div class="tstk-footer-copyright-box tstk-footer-copyright-box-1  col-md-4">
 								Copyright © 2026 <a href="index.php">Shri Krishna Rubber Industries</a>, All Rights Reserved.</div>
 					
-									<div class="tstk-footer-copyright-box tstk-footer-copyright-box-2 col-md-4"><img class="aligncenter wp-image-29578" src="images/SPLogo.png"  alt="Shri Krishna Rubber Industries" style="background-color:white;" width="90" /></div>
+									<div class="tstk-footer-copyright-box tstk-footer-copyright-box-2 col-md-4"><img class="aligncenter wp-image-29578" src="images/SPLogo.png"  alt="Shri Krishna Rubber Industries" style="background-color:white;" width="80" /></div>
 					
 				
 									<div class="tstk-footer-copyright-box tstk-footer-copyright-text col-md-4"><ul class="tstk-social-links">

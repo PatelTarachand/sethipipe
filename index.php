@@ -262,7 +262,7 @@
                                     <div class="elementor-widget-container">
                                        <div class="themestek-ele themestek-ele-fid themestek-ele-fid-style-4 ">
                                           <div class="tstk-fld-contents">
-                                             <div class="tstk-circle-outer" data-id="200" data-digit="100" data-fill="#fc0012" data-emptyfill="#fff" data-before="" data-after="&lt;sup&gt;%&lt;/sup&gt;" data-thickness="10">
+                                             <div class="tstk-circle-outer" data-id="200" data-digit="100" data-fill="#109ad7" data-emptyfill="#fff" data-before="" data-after="&lt;sup&gt;%&lt;/sup&gt;" data-thickness="10">
                                                 <div class="tstk-circle">
                                                    <h4 class="tstk-fid-inner">
                                                       <span class="tstk-number-rotate" data-appear-animation="animateDigits" data-from="0" data-to="100" data-interval="5" data-before="" data-before-style="" data-after="" data-after-style="">
@@ -954,9 +954,9 @@
                         <div class="container">
                            <div class="row justify-content-center text-center mb-5">
                               <div class="col-12 col-md-8">
-                                 <h4 class="tstk-element-subtitle" style="color: #fc0012; font-weight: 700; text-transform: uppercase; letter-spacing: 2px; font-size: 14px; margin-bottom: 10px;">Stay Connected</h4>
+                                 <h4 class="tstk-element-subtitle" style="color: #109ad7; font-weight: 700; text-transform: uppercase; letter-spacing: 2px; font-size: 14px; margin-bottom: 10px;">Stay Connected</h4>
                                  <h2 class="tstk-element-title" style="font-size: 32px; font-weight: 800; color: #111; margin-top: 10px; margin-bottom: 20px; line-height: 1.2;">OUR SOCIAL FEEDS</h2>
-                                 <div style="width: 60px; height: 3px; background-color: #fc0012; margin: 0 auto;"></div>
+                                 <div style="width: 60px; height: 3px; background-color: #109ad7; margin: 0 auto;"></div>
                               </div>
                            </div>
                            <div class="row justify-content-center">

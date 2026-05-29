@@ -1,13 +1,13 @@
 :root {
-    --tstk-industrey-global-color: #fc0012;
+    --tstk-industrey-global-color: #109ad7;
     --tstk-industrey-secondary-color: #111010;
-    --tstk-industrey-gradient-color-first: #fc0012;
-    --tstk-industrey-gradient-color-last: #fc0012;
+    --tstk-industrey-gradient-color-first: #109ad7;
+    --tstk-industrey-gradient-color-last: #109ad7;
     --tstk-industrey-logo-height: 110px;
     --tstk-industrey-sticky-logo-height: 100px;
     --tstk-industrey-responsive-logo-height: 60px;
     --tstk-industrey-link-color-normal: #111010;
-    --tstk-industrey-link-color-hover: #fc0012;
+    --tstk-industrey-link-color-hover: #109ad7;
     --tstk-industrey-responsive-breakpoint: 1200px;
     --tstk-industrey-white-color: #fff;
     --tstk-industrey-light-bg-color: #f4f4f9;
@@ -34,7 +34,7 @@
     --tstk-industrey-footer-2-col-width: 25%;
     --tstk-industrey-footer-3-col-width: 23%;
     --tstk-industrey-footer-4-col-width: 22%;
-    --tstk-industrey-global-color-rgb: 252, 0, 18;
+    --tstk-industrey-global-color-rgb: 16, 154, 215;
     --tstk-industrey-secondary-color-rgb: 17, 16, 16;
     --tstk-industrey-white-color-rgb: 255, 255, 255;
     --tstk-industrey-light-bg-color-rgb: 244, 244, 249;
