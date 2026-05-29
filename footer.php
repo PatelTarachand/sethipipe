@@ -20,7 +20,7 @@
 	}
 })();
 </script><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-12722" method="post" data-id="12722" data-name="Newsletter" ><div class="mc4wp-form-fields"><div class="tstk-footer-newsletter">
-  <i aria-hidden="true" class="tstk-industrey-icon tstk-base-icon-mailbox"></i>
+  <img src="images/SPLogo.png" alt="Sethi Pipe Logo" style="max-height: 90px; width: auto; margin-bottom: 15px; display: block;" />
   <h4>
  Sign up for industry alert,news &#38; inslights
   </h4>
