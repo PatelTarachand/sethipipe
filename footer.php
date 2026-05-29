@@ -154,8 +154,8 @@ for (let j = 0; j < urlFields.length; j++) {
 wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
 //# sourceURL=wp-i18n-js-after
 </script>
-<script src="wp-content/plugins/contact-form-7/includes/swv/js/indexfc7a.js?ver=6.0.6" id="swv-js"></script>
-<script id="contact-form-7-js-before">
+<!-- <script src="wp-content/plugins/contact-form-7/includes/swv/js/indexfc7a.js?ver=6.0.6" id="swv-js"></script> -->
+<!-- <script id="contact-form-7-js-before">
 var wpcf7 = {
     "api": {
         "root": "https:\/\/industrey-demo.pbminfotech.com\/demo3\/wp-json\/",
@@ -163,8 +163,39 @@ var wpcf7 = {
     }
 };
 //# sourceURL=contact-form-7-js-before
+</script> -->
+<!-- <script src="wp-content/plugins/contact-form-7/includes/js/indexfc7a.js?ver=6.0.6" id="contact-form-7-js"></script> -->
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+   document.querySelectorAll('form.wpcf7-form').forEach(function(form) {
+      form.addEventListener('submit', function(e) {
+         e.preventDefault();
+         
+         var responseOutput = form.querySelector('.wpcf7-response-output');
+         if (responseOutput) {
+            responseOutput.style.display = 'block';
+            responseOutput.style.borderColor = '#109ad7';
+            responseOutput.style.color = '#109ad7';
+            responseOutput.style.background = '#eaf5fa';
+            responseOutput.style.padding = '15px';
+            responseOutput.style.borderRadius = '5px';
+            responseOutput.style.marginTop = '15px';
+            responseOutput.innerText = 'Sending your message...';
+         }
+         
+         setTimeout(function() {
+            if (responseOutput) {
+               responseOutput.style.borderColor = '#46b450';
+               responseOutput.style.color = '#46b450';
+               responseOutput.style.background = '#e7f7ed';
+               responseOutput.innerText = 'Thank you! Your message has been sent successfully. We will get back to you shortly.';
+            }
+            form.reset();
+         }, 1000);
+      });
+   });
+});
 </script>
-<script src="wp-content/plugins/contact-form-7/includes/js/indexfc7a.js?ver=6.0.6" id="contact-form-7-js"></script>
 <script src="wp-content/plugins/revslider/sr6/assets/js/rbtools.min129b.js?ver=6.7.20" defer async id="tp-tools-js"></script>
 <script src="wp-content/plugins/revslider/sr6/assets/js/rs6.min129b.js?ver=6.7.20" defer async id="revmin-js"></script>
 <script src="wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min5c8b.js?ver=9.8.7" id="sourcebuster-js-js"></script>

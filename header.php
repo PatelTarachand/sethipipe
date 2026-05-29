@@ -207,10 +207,10 @@
          }
          }
       </style>
-      <link rel="icon" href="images/SP Logo.png" sizes="32x32" />
-      <link rel="icon" href="images/SP Logo.png" sizes="192x192" />
-      <link rel="apple-touch-icon" href="images/SP Logo.png" />
-      <meta name="msapplication-TileImage" content="images/SP Logo.png" />
+      <link rel="icon" href="images/SPLogo.png" sizes="32x32" />
+      <link rel="icon" href="images/SPLogo.png" sizes="192x192" />
+      <link rel="apple-touch-icon" href="images/SPLogo.png" />
+      <meta name="msapplication-TileImage" content="images/SPLogo.png" />
       <script>function setREVStartSize(e){
          //window.requestAnimationFrame(function() {
          	window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;
