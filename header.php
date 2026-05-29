@@ -528,7 +528,7 @@
                            data-frame_1="st:1000;sp:1000;sR:1000;"
                            data-frame_999="o:0;st:w;sR:7000;"
                            style="z-index:9;font-family:'Yantramanav';"
-                           >Reliable <br/>HDPE Pipe <br/>Solutions. 
+                           >Engineering to Resist,<br/>Adapt <br/>And Simplify . 
                         </rs-layer>
                         <!--
                            --><a id="slider-1-slide-3-layer-2" class="rs-layer rev-button rev-btn" href="contact.php" target="_self" data-type="button" data-rsp_ch="on" data-xy="xo:220px,200px,30px,30px;y:m;yo:114px,95px,70px,87px;" data-text="w:normal;s:18;l:60,55,50,45;ls:1px,1px,1px,0px;fw:300;" data-dim="minh:0px,none,none,none;" data-padding="t:4,5,3,4;r:50,42,40,35;l:50,42,40,35;" data-border="bor:0px,25px,0px,0px;" data-frame_0="x:-100%;" data-frame_0_mask="u:t;" data-frame_1="st:2660;sp:1000;sR:2660;" data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:5340;" data-frame_hover="bgc:#109ad7;bor:0px,25px,0px,0px;" style="z-index:13;background-color:#111010;font-family:'Teko';text-transform:uppercase;"><span>Get a quote</span> 
