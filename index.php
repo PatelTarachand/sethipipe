@@ -244,7 +244,9 @@
                               <div class="elementor-widget-wrap elementor-element-populated">
                                  <div class="elementor-element elementor-element-728628e tstk-img-effect-01 tstk-img-effect-02 elementor-widget elementor-widget-image" data-id="728628e" data-element_type="widget" data-widget_type="image.default">
                                     <div class="elementor-widget-container">
-                                       <img decoding="async" width="470" height="560" src="wp-content/uploads/sites/5/2021/09/img-05-new.jpg" class="attachment-full size-full wp-image-33925" alt="" srcset="https://industrey-demo.pbminfotech.com/demo3/wp-content/uploads/sites/5/2021/09/img-05-new.jpg 470w, https://industrey-demo.pbminfotech.com/demo3/wp-content/uploads/sites/5/2021/09/img-05-new-252x300.jpg 252w" sizes="(max-width: 470px) 100vw, 470px" />															
+                                       <img decoding="async" width="470" height="560" src="images/about-us.png" 
+                                       class="attachment-full size-full wp-image-33925" alt="" 
+                                        sizes="(max-width: 470px) 100vw, 470px" />															
                                     </div>
                                  </div>
                                  
@@ -726,85 +728,45 @@
                            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f76c449 tstk-bg-color-yes tstk-elementor-bg-color-blackish tstk-bg-color-over-image" data-id="f76c449" data-element_type="column">
                               <div class="elementor-widget-wrap elementor-element-populated">
                                  <section class="elementor-section elementor-inner-section elementor-element elementor-element-c30cfff tstk-col-stretched-none tstk-bg-color-over-image elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c30cfff" data-element_type="section">
-                                    <div class="elementor-container elementor-column-gap-no">
-                                       <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-0f6fb43 tstk-text-color-white tstk-bg-color-over-image" data-id="0f6fb43" data-element_type="column">
-                                          <div class="elementor-widget-wrap elementor-element-populated">
-                                             <div class="elementor-element elementor-element-0b30eb8 elementor-widget elementor-widget-tstk_icon_heading" data-id="0b30eb8" data-element_type="widget" data-widget_type="tstk_icon_heading.default">
-                                                <div class="elementor-widget-container">
-                                                   <div class="tstk-ihbox tstk-ihbox-style-14">
-                                                      <div class="tstk-ihbox-box">
-                                                         <div class="tstk-ihbox-headingicon">
-                                                         </div>
-                                                         <div class="tstk-ihbox-contents">
-                                                            <h2 class="tstk-element-title">
-                                                               We have worked with some awesome brands.
-                                                            </h2>
-                                                         </div>
-                                                         <!-- .tstk-ihbox-contents -->
-                                                      </div>
-                                                   </div>
-                                                </div>
-                                             </div>
+                                    <div class="elementor-container elementor-column-gap-no py-4">
+                                       <style>
+                                          .brand-logo-img {
+                                             max-height: 80px;
+                                             width: auto;
+                                             opacity: 0.85;
+                                             transition: all 0.3s ease;
+                                             
+                                          }
+                                          .brand-logo-img:hover {
+                                             opacity: 1;
+                                             filter: none;
+                                          }
+                                       </style>
+                                       <div class="row w-100 align-items-center m-0">
+                                          <div class="col-12 col-lg-3 mb-4 mb-lg-0 text-lg-left text-center">
+                                             <h2 class="tstk-element-title text-white m-0" style="font-size: 26px; line-height: 1.3;">
+                                                We have worked with some awesome brands.
+                                             </h2>
                                           </div>
-                                       </div>
-                                       <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2f9f325 tstk-bg-color-over-image" data-id="2f9f325" data-element_type="column">
-                                          <div class="elementor-widget-wrap elementor-element-populated">
-                                             <div class="elementor-element elementor-element-ba17653 tstk-align-left elementor-widget elementor-widget-tstk_client_element" data-id="ba17653" data-element_type="widget" data-widget_type="tstk_client_element.default">
-                                                <div class="elementor-widget-container">
-                                                   <div class="themestek-element themestek-element-client tstk-element-client-style-1 themestek-element-viewtype-carousel themestek-gap-10px tstk-infinite-scroll-no tstk-infinite-scroll-button-no" data-cpt="client" data-totalpagination="1" data-style="1" data-show="6" data-columns="4" data-loop="false" data-autoplay="false" data-center="false" data-nav="false" data-dots="false" data-autoplayspeed="1000" data-lasthalf="false" data-margin="10px">
-                                                      <div class="themestek-element-inner">
-                                                         <div class="tstk-infinite-scroll-data">{"cpt":"client","style":"1","columns":"4","show":"6","from_category":["white"],"order":"DESC","orderby":"DESC"}</div>
-                                                         <div class="tstk-ele-header-area">
-                                                            <div class="tstk-heading-subheading left-align "></div>
-                                                         </div>
-                                                         <div class="tstk-element-posts-wrapper row multi-columns-row">
-                                                            <article class="tstk-ele tstk-ele-client tstk-client-style-1 col-md-6 col-lg-3 white tstk-term-60  ">
-                                                               <div class="tstk-client-wrapper tstk-client-with-hover-img">
-                                                                  <h4 class="tstk-hide">client 12</h4>
-                                                                  <div class="tstk-client-hover-img"><img decoding="async" src="wp-content/uploads/sites/5/2021/09/client-06.png" alt /></div>
-                                                                  <div class="tstk-featured-wrapper"><img loading="lazy" decoding="async" width="101" height="87" src="wp-content/uploads/sites/5/2021/09/client-white-06.png" class="attachment-tstk-img-770x9999 size-tstk-img-770x9999 wp-post-image" alt="" /></div>
-                                                               </div>
-                                                            </article>
-                                                            <article class="tstk-ele tstk-ele-client tstk-client-style-1 col-md-6 col-lg-3 white tstk-term-60  ">
-                                                               <div class="tstk-client-wrapper tstk-client-with-hover-img">
-                                                                  <h4 class="tstk-hide">client 11</h4>
-                                                                  <div class="tstk-client-hover-img"><img decoding="async" src="wp-content/uploads/sites/5/2021/09/client-05.png" alt /></div>
-                                                                  <div class="tstk-featured-wrapper"><img loading="lazy" decoding="async" width="101" height="87" src="wp-content/uploads/sites/5/2021/09/client-white-05.png" class="attachment-tstk-img-770x9999 size-tstk-img-770x9999 wp-post-image" alt="" /></div>
-                                                               </div>
-                                                            </article>
-                                                            <article class="tstk-ele tstk-ele-client tstk-client-style-1 col-md-6 col-lg-3 white tstk-term-60  ">
-                                                               <div class="tstk-client-wrapper tstk-client-with-hover-img">
-                                                                  <h4 class="tstk-hide">client 10</h4>
-                                                                  <div class="tstk-client-hover-img"><img decoding="async" src="wp-content/uploads/sites/5/2021/09/client-04.png" alt /></div>
-                                                                  <div class="tstk-featured-wrapper"><img loading="lazy" decoding="async" width="101" height="87" src="wp-content/uploads/sites/5/2021/09/client-white-04.png" class="attachment-tstk-img-770x9999 size-tstk-img-770x9999 wp-post-image" alt="" /></div>
-                                                               </div>
-                                                            </article>
-                                                            <article class="tstk-ele tstk-ele-client tstk-client-style-1 col-md-6 col-lg-3 white tstk-term-60  ">
-                                                               <div class="tstk-client-wrapper tstk-client-with-hover-img">
-                                                                  <h4 class="tstk-hide">client 9</h4>
-                                                                  <div class="tstk-client-hover-img"><img decoding="async" src="wp-content/uploads/sites/5/2021/09/client-03.png" alt /></div>
-                                                                  <div class="tstk-featured-wrapper"><img loading="lazy" decoding="async" width="101" height="87" src="wp-content/uploads/sites/5/2021/09/client-white-03.png" class="attachment-tstk-img-770x9999 size-tstk-img-770x9999 wp-post-image" alt="" /></div>
-                                                               </div>
-                                                            </article>
-                                                            <article class="tstk-ele tstk-ele-client tstk-client-style-1 col-md-6 col-lg-3 white tstk-term-60  ">
-                                                               <div class="tstk-client-wrapper tstk-client-with-hover-img">
-                                                                  <h4 class="tstk-hide">client 8</h4>
-                                                                  <div class="tstk-client-hover-img"><img decoding="async" src="wp-content/uploads/sites/5/2021/09/client-02.png" alt /></div>
-                                                                  <div class="tstk-featured-wrapper"><img loading="lazy" decoding="async" width="101" height="87" src="wp-content/uploads/sites/5/2021/09/client-white-02.png" class="attachment-tstk-img-770x9999 size-tstk-img-770x9999 wp-post-image" alt="" /></div>
-                                                               </div>
-                                                            </article>
-                                                            <article class="tstk-ele tstk-ele-client tstk-client-style-1 col-md-6 col-lg-3 white tstk-term-60  ">
-                                                               <div class="tstk-client-wrapper tstk-client-with-hover-img">
-                                                                  <h4 class="tstk-hide">client 7</h4>
-                                                                  <div class="tstk-client-hover-img"><img decoding="async" src="wp-content/uploads/sites/5/2021/09/client-01.png" alt /></div>
-                                                                  <div class="tstk-featured-wrapper"><img loading="lazy" decoding="async" width="101" height="87" src="wp-content/uploads/sites/5/2021/09/client-white-01.png" class="attachment-tstk-img-770x9999 size-tstk-img-770x9999 wp-post-image" alt="" /></div>
-                                                               </div>
-                                                            </article>
-                                                         </div>
-                                                      </div>
-                                                      <!-- .themestek-element-inner -->   
-                                                   </div>
-                                                   <!-- .themestek-element -->  
+                                          <div class="col-12 col-lg-9">
+                                             <div class="row align-items-center justify-content-center g-3">
+                                                <div class="col-4 col-md-2 text-center my-2">
+                                                   <img src="images/iso/c1.png" alt="ISO Logo 1" class="img-fluid brand-logo-img" />
+                                                </div>
+                                                <div class="col-4 col-md-2 text-center my-2" >
+                                                   <img src="images/iso/c2.png" alt="ISO Logo 2" class="img-fluid brand-logo-img"  />
+                                                </div>
+                                                <div class="col-4 col-md-2 text-center my-2">
+                                                   <img src="images/iso/c3.png" alt="ISO Logo 3" class="img-fluid brand-logo-img" />
+                                                </div>
+                                                <div class="col-4 col-md-2 text-center my-2">
+                                                   <img src="images/iso/c4.png" alt="ISO Logo 4" class="img-fluid brand-logo-img" />
+                                                </div>
+                                                <div class="col-4 col-md-2 text-center my-2">
+                                                   <img src="images/iso/c5.png" alt="ISO Logo 5" class="img-fluid brand-logo-img" />
+                                                </div>
+                                                <div class="col-4 col-md-2 text-center my-2">
+                                                   <img src="images/iso/c6.png" alt="ISO Logo 6" class="img-fluid brand-logo-img" />
                                                 </div>
                                              </div>
                                           </div>

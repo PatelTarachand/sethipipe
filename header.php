@@ -99,6 +99,7 @@
          'hdpe-pipe.php',
          'hdpe-roll-pipe.php',
          'sprinkler-pipe.php',
+         'sprinkler-fitting.php',
          'mdpe-pipe.php',
          'rubber-washer.php'
       ])): ?>
@@ -319,6 +320,7 @@
          'hdpe-pipe.php',
          'hdpe-roll-pipe.php',
          'sprinkler-pipe.php',
+         'sprinkler-fitting.php',
          'mdpe-pipe.php',
          'rubber-washer.php'
       ];
@@ -414,6 +416,7 @@
                                         <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-tstk-service'><a class="mega-menu-link" href="hdpe-pipe.php">HDPE PIPE</a></li>
                                         <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-tstk-service'><a class="mega-menu-link" href="hdpe-roll-pipe.php">HDPE ROLL PIPE</a></li>
                                         <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-tstk-service'><a class="mega-menu-link" href="sprinkler-pipe.php">SPRINKLER PIPE</a></li>
+                                        <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-tstk-service'><a class="mega-menu-link" href="sprinkler-fitting.php">SPRINKLER FITTING</a></li>
                                         <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-tstk-service'><a class="mega-menu-link" href="mdpe-pipe.php">MDPE PIPE</a></li>
                                         <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-tstk-service'><a class="mega-menu-link" href="rubber-washer.php">RUBBER WASHER</a></li>
                                      </ul>

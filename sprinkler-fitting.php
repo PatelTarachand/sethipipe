@@ -38,14 +38,43 @@ include 'header.php';
                 <main id="main" class="site-main">
                   <article id="post-7558" class="tstk-service-single-style-1 post-7558 tstk-service type-tstk-service status-publish has-post-thumbnail hentry tstk-service-category-chemical">
                     <div class="tstk-service-single">
-                      <div class="tstk-service-feature-image">
-                        <div class="tstk-featured-wrapper"><img fetchpriority="high" width="1200" height="1000" src="images/brands/MDPE PIPE.png" class="img-fluid w-100 mb-4" alt="MDPE PIPE" /></div>
-                      </div>
+                      
                       <div class="tstk-entry-content">
                         <div class="product-details-content mb-5 mt-4">
-        <h2>MDPE PIPE</h2>
+        <h2>SPRINKLER FITTING</h2>
         <div class="elementor-widget-container">
-            <p>MDPE (Medium Density Polyethylene) pipes are durable, flexible, and corrosion-resistant plastic pipes widely used for underground water mains and potable drinking water supply. Thanks to their lightweight, non-toxic nature, and resistance to environmental stress, they have become a standard, long-lasting alternative to traditional copper or galvanized steel plumbing.</p>
+            <h4 class="mt-4 mb-3">Types of Adapters</h4>
+            <div class="row text-center mb-4">
+                <div class="col-md-4 mb-4"><img src="images/brands/Adapter HM Type.png" alt="Adapter HM Type" class="img-fluid"><br>Adapter HM Type</div>
+                <div class="col-md-4 mb-4"><img src="images/brands/Adapter C Type.png" alt="Adapter C Type" class="img-fluid"><br>Adapter C Type</div>
+                <div class="col-md-4 mb-4"><img src="images/brands/Adapter Bush HM Type.png" alt="Adapter Bush HM Type" class="img-fluid"><br>Adapter Bush HM Type</div>
+                <div class="col-md-4 mb-4"><img src="images/brands/Adapter Bush C Type.png" alt="Adapter Bush C Type" class="img-fluid"><br>Adapter Bush C Type</div>
+                <div class="col-md-4 mb-4"><img src="images/brands/PCR C Type.png" alt="PCR C Type" class="img-fluid"><br>PCR C Type</div>
+                <div class="col-md-4 mb-4"><img src="images/brands/Bend C Type.png" alt="Bend C Type" class="img-fluid"><br>Bend C Type</div>
+                <div class="col-md-4 mb-4"><img src="images/brands/Coupler C type.png" alt="Coupler C type" class="img-fluid"><br>Coupler C type</div>
+                <div class="col-md-4 mb-4"><img src="images/brands/Tee C Type.png" alt="Tee C Type" class="img-fluid"><br>Tee C Type</div>
+                <div class="col-md-4 mb-4"><img src="images/brands/Y Type.png" alt="Y Type" class="img-fluid"><br>Y Type</div>
+            </div>
+
+            <h4 class="mt-4 mb-3">FEATURES & CHARACTERRISTICS</h4>
+            <div class="row">
+                <div class="col-md-6">
+                    <ul class="tstk-list tstk-list-style-icon tstk-list-icon-color-skincolor">
+                        <li><i class="tstk-base-icon-right-open"></i> Corrosion Resistance</li>
+                        <li><i class="tstk-base-icon-right-open"></i> Light Weight & Flexible</li>
+                        <li><i class="tstk-base-icon-right-open"></i> Impact Resistance & Tough, Durable</li>
+                        <li><i class="tstk-base-icon-right-open"></i> Smooth Surface-low Pipe Friction Losses</li>
+                    </ul>
+                </div>
+                <div class="col-md-6">
+                    <ul class="tstk-list tstk-list-style-icon tstk-list-icon-color-skincolor">
+                        <li><i class="tstk-base-icon-right-open"></i> Long Service Life</li>
+                        <li><i class="tstk-base-icon-right-open"></i> Low Electrical Conductivity</li>
+                        <li><i class="tstk-base-icon-right-open"></i> Environmental Friendly</li>
+                        <li><i class="tstk-base-icon-right-open"></i> Good Weldability</li>
+                    </ul>
+                </div>
+            </div>
         </div>
     </div>
     <!-- .entry-content -->

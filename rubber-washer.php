@@ -4,6 +4,7 @@ $page_titles = [
 	'hdpe-pipe.php' => 'HDPE PIPE',
 	'hdpe-roll-pipe.php' => 'HDPE ROLL PIPE',
 	'sprinkler-pipe.php' => 'SPRINKLER PIPE',
+	'sprinkler-fitting.php' => 'SPRINKLER FITTING',
 	'mdpe-pipe.php' => 'MDPE PIPE',
 	'rubber-washer.php' => 'RUBBER WASHER'
 ];
@@ -37,9 +38,7 @@ include 'header.php';
                 <main id="main" class="site-main">
                   <article id="post-7558" class="tstk-service-single-style-1 post-7558 tstk-service type-tstk-service status-publish has-post-thumbnail hentry tstk-service-category-chemical">
                     <div class="tstk-service-single">
-                      <div class="tstk-service-feature-image">
-                        <div class="tstk-featured-wrapper"><img fetchpriority="high" width="1200" height="1000" src="wp-content/uploads/sites/5/2021/09/service-new-08.jpg" class="img-fluid w-100 mb-4" alt="RUBBER WASHER" /></div>
-                      </div>
+                      
                       <div class="tstk-entry-content">
                         <div class="product-details-content mb-5 mt-4">
         <h2>RUBBER WASHER</h2>
@@ -97,6 +96,7 @@ include 'header.php';
                         'hdpe-pipe.php' => 'HDPE PIPE',
                         'hdpe-roll-pipe.php' => 'HDPE ROLL PIPE',
                         'sprinkler-pipe.php' => 'SPRINKLER PIPE',
+                        'sprinkler-fitting.php' => 'SPRINKLER FITTING',
                         'mdpe-pipe.php' => 'MDPE PIPE',
                         'rubber-washer.php' => 'RUBBER WASHER'
                       ];

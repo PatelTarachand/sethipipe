@@ -4,6 +4,7 @@ $page_titles = [
 	'hdpe-pipe.php' => 'HDPE PIPE',
 	'hdpe-roll-pipe.php' => 'HDPE ROLL PIPE',
 	'sprinkler-pipe.php' => 'SPRINKLER PIPE',
+	'sprinkler-fitting.php' => 'SPRINKLER FITTING',
 	'mdpe-pipe.php' => 'MDPE PIPE',
 	'rubber-washer.php' => 'RUBBER WASHER'
 ];
@@ -80,6 +81,7 @@ include 'header.php';
                         'hdpe-pipe.php' => 'HDPE PIPE',
                         'hdpe-roll-pipe.php' => 'HDPE ROLL PIPE',
                         'sprinkler-pipe.php' => 'SPRINKLER PIPE',
+                        'sprinkler-fitting.php' => 'SPRINKLER FITTING',
                         'mdpe-pipe.php' => 'MDPE PIPE',
                         'rubber-washer.php' => 'RUBBER WASHER'
                       ];
