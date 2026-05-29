@@ -948,4 +948,221 @@
    <!-- #content -->
 </div>
 <!-- .site-content-wrap -->
+
+                     <!-- SOCIAL MEDIA SECTION -->
+                     <section class="elementor-section elementor-top-section elementor-element tstk-social-preview-section" style="padding: 70px 0; background-color: #f9f9f9; border-top: 1px solid #eee;">
+                        <div class="container">
+                           <div class="row justify-content-center text-center mb-5">
+                              <div class="col-12 col-md-8">
+                                 <h4 class="tstk-element-subtitle" style="color: #fc0012; font-weight: 700; text-transform: uppercase; letter-spacing: 2px; font-size: 14px; margin-bottom: 10px;">Stay Connected</h4>
+                                 <h2 class="tstk-element-title" style="font-size: 32px; font-weight: 800; color: #111; margin-top: 10px; margin-bottom: 20px; line-height: 1.2;">OUR SOCIAL FEEDS</h2>
+                                 <div style="width: 60px; height: 3px; background-color: #fc0012; margin: 0 auto;"></div>
+                              </div>
+                           </div>
+                           <div class="row justify-content-center">
+                              <!-- Facebook Feed Simulator -->
+                              <div class="col-12 col-md-6 col-lg-5 mb-4 mb-md-0 d-flex">
+                                 <div class="card w-100 border-0 shadow-sm" style="border-radius: 12px; overflow: hidden; background-color: #fff; box-shadow: 0 10px 30px rgba(0,0,0,0.05); display: flex; flex-direction: column;">
+                                    <!-- Header -->
+                                    <div style="background-color: #3b5998; padding: 15px 20px; color: white; display: flex; align-items: center; justify-content: space-between;">
+                                       <div style="display: flex; align-items: center;">
+                                          <i class="tstk-base-icon-facebook-squared" style="font-size: 24px; color: #fff; margin-right: 10px;"></i>
+                                          <span style="font-weight: 700; font-size: 16px; letter-spacing: 0.5px;">FACEBOOK FEED</span>
+                                       </div>
+                                       <a href="https://www.facebook.com/shrikrishnarubberindustries/" target="_blank" rel="noopener noreferrer" style="color: #fff; text-decoration: none; font-size: 13px; font-weight: 600; border: 1px solid rgba(255,255,255,0.4); padding: 4px 12px; border-radius: 20px; transition: all 0.3s;">Like Page</a>
+                                    </div>
+                                    
+                                    <!-- Facebook Post -->
+                                    <div style="padding: 20px; flex-grow: 1; display: flex; flex-direction: column; text-align: left;">
+                                       <!-- Profile Header -->
+                                       <div style="display: flex; align-items: center; margin-bottom: 15px;">
+                                          <img src="images/SPLogo.png" alt="Shri Krishna Rubber Industries" style="width: 45px; height: 45px; border-radius: 50%; border: 1px solid #ddd; object-fit: contain; background: #fff;" />
+                                          <div style="margin-left: 12px;">
+                                             <h5 style="margin: 0; font-size: 15px; font-weight: 700; color: #333; display: flex; align-items: center;">
+                                                Shri Krishna Rubber Industries
+                                                <span style="background-color: #1877f2; color: white; border-radius: 50%; width: 14px; height: 14px; display: inline-flex; align-items: center; justify-content: center; font-size: 8px; margin-left: 5px;" title="Verified"><i class="fas fa-check" style="font-size: 6px;"></i></span>
+                                             </h5>
+                                             <span style="font-size: 11px; color: #888;">Just now · <i class="fas fa-globe-americas"></i></span>
+                                          </div>
+                                       </div>
+                                       
+                                       <!-- Post Content -->
+                                       <p style="font-size: 14px; color: #444; line-height: 1.5; margin-bottom: 15px;">
+                                          Delivering robust, high-performance HDPE and MDPE pipes engineered for standard-setting longevity and defect-free supply across India. Quality is our trademark! 🇮🇳💧 #HDPEPipe #Infrastructure #SethiPipe
+                                       </p>
+                                       
+                                       <!-- Post Image -->
+                                       <div style="border-radius: 8px; overflow: hidden; margin-bottom: 15px; border: 1px solid #eee; flex-grow: 1; display: flex; align-items: center; justify-content: center; background: #fdfdfd; max-height: 250px;">
+                                          <img src="images/products/Construction.jpg.jpeg" alt="Manufacturing Post Image" style="width: 100%; height: 100%; object-fit: cover;" />
+                                       </div>
+                                       
+                                       <!-- Post Stats -->
+                                       <div style="display: flex; justify-content: space-between; align-items: center; padding-bottom: 10px; border-bottom: 1px solid #eee; margin-bottom: 10px; font-size: 12px; color: #777;">
+                                          <div style="display: flex; align-items: center;">
+                                             <span style="background: #1877f2; color: white; border-radius: 50%; width: 18px; height: 18px; display: inline-flex; align-items: center; justify-content: center; margin-right: 5px;"><i class="fas fa-thumbs-up" style="font-size: 9px;"></i></span>
+                                             <span style="font-weight: 600; color: #555;">248 Likes</span>
+                                          </div>
+                                          <span>18 Comments · 12 Shares</span>
+                                       </div>
+                                       
+                                       <!-- Post Actions -->
+                                       <div style="display: flex; justify-content: space-between; font-size: 13px; font-weight: 600; color: #606770; margin-bottom: 15px; text-align: center;">
+                                          <span style="cursor: pointer; flex: 1;"><i class="far fa-thumbs-up"></i> Like</span>
+                                          <span style="cursor: pointer; flex: 1;"><i class="far fa-comment"></i> Comment</span>
+                                          <span style="cursor: pointer; flex: 1;"><i class="far fa-share-square"></i> Share</span>
+                                       </div>
+                                       
+                                       <a href="https://www.facebook.com/shrikrishnarubberindustries/" target="_blank" rel="noopener noreferrer" style="background-color: #3b5998; color: #fff; text-decoration: none; border-radius: 30px; padding: 10px 20px; font-weight: 700; font-size: 13px; text-transform: uppercase; letter-spacing: 0.5px; transition: all 0.3s; text-align: center; display: block; box-shadow: 0 4px 6px rgba(59,89,152,0.15);">View on Facebook</a>
+                                    </div>
+                                 </div>
+                              </div>
+                              
+                              <!-- Instagram Feed Simulator -->
+                              <div class="col-12 col-md-6 col-lg-5 d-flex">
+                                 <div class="card w-100 border-0 shadow-sm" style="border-radius: 12px; overflow: hidden; background-color: #fff; box-shadow: 0 10px 30px rgba(0,0,0,0.05); display: flex; flex-direction: column;">
+                                    <!-- Header -->
+                                    <div style="background: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); padding: 15px 20px; color: white; display: flex; align-items: center; justify-content: space-between;">
+                                       <div style="display: flex; align-items: center;">
+                                          <i class="tstk-base-icon-instagram" style="font-size: 24px; color: #fff; margin-right: 10px;"></i>
+                                          <span style="font-weight: 700; font-size: 16px; letter-spacing: 0.5px;">INSTAGRAM PROFILE</span>
+                                       </div>
+                                       <a href="https://www.instagram.com/sethipipes/" target="_blank" rel="noopener noreferrer" style="color: #fff; text-decoration: none; font-size: 13px; font-weight: 600; border: 1px solid rgba(255,255,255,0.4); padding: 4px 12px; border-radius: 20px; transition: all 0.3s;">Follow</a>
+                                    </div>
+                                    
+                                    <!-- Instagram Profile & Grid -->
+                                    <div style="padding: 20px; flex-grow: 1; display: flex; flex-direction: column;">
+                                       <!-- Profile info -->
+                                       <div style="display: flex; align-items: center; margin-bottom: 20px; text-align: left;">
+                                          <img src="images/SPLogo.png" alt="Sethi Pipes" style="width: 50px; height: 50px; border-radius: 50%; border: 2px solid #e6683c; padding: 2px; object-fit: contain; background: #fff;" />
+                                          <div style="margin-left: 15px;">
+                                             <h5 style="margin: 0; font-size: 16px; font-weight: 700; color: #333;">sethipipes</h5>
+                                             <div style="font-size: 12px; color: #666; margin-top: 2px;">
+                                                <strong style="color:#111;">12</strong> posts &nbsp;&bull;&nbsp; <strong style="color:#111;">1.5K</strong> followers &nbsp;&bull;&nbsp; <strong style="color:#111;">45</strong> following
+                                             </div>
+                                          </div>
+                                       </div>
+                                       
+                                       <!-- Grid -->
+                                       <style>
+                                          .insta-grid-container {
+                                             display: flex;
+                                             flex-wrap: wrap;
+                                             margin-right: -5px;
+                                             margin-left: -5px;
+                                             flex-grow: 1;
+                                          }
+                                          .insta-grid-col {
+                                             width: 33.333%;
+                                             padding-right: 5px;
+                                             padding-left: 5px;
+                                             margin-bottom: 10px;
+                                          }
+                                          .insta-grid-item {
+                                             position: relative;
+                                             overflow: hidden;
+                                             border-radius: 6px;
+                                             cursor: pointer;
+                                             aspect-ratio: 1;
+                                             background: #eee;
+                                             display: block;
+                                             width: 100%;
+                                             height: 100%;
+                                          }
+                                          .insta-grid-item img {
+                                             width: 100%;
+                                             height: 100%;
+                                             object-fit: cover;
+                                             transition: transform 0.3s ease;
+                                             display: block;
+                                          }
+                                          .insta-overlay {
+                                             position: absolute;
+                                             top: 0;
+                                             left: 0;
+                                             width: 100%;
+                                             height: 100%;
+                                             background: rgba(0, 0, 0, 0.6);
+                                             color: #fff;
+                                             display: flex;
+                                             align-items: center;
+                                             justify-content: center;
+                                             opacity: 0;
+                                             transition: opacity 0.3s ease;
+                                             font-weight: 700;
+                                             font-size: 13px;
+                                             text-decoration: none;
+                                          }
+                                          .insta-grid-item:hover img {
+                                             transform: scale(1.1);
+                                          }
+                                          .insta-grid-item:hover .insta-overlay {
+                                             opacity: 1;
+                                          }
+                                       </style>
+                                       <div class="insta-grid-container">
+                                          <div class="insta-grid-col">
+                                             <a href="https://www.instagram.com/sethipipes/" target="_blank" rel="noopener noreferrer" class="insta-grid-item">
+                                                <img src="images/products/Agricultural.png" alt="Insta Grid 1" />
+                                                <div class="insta-overlay">
+                                                   <span style="margin-right: 10px;"><i class="fas fa-heart"></i> 42</span>
+                                                   <span><i class="fas fa-comment"></i> 5</span>
+                                                </div>
+                                             </a>
+                                          </div>
+                                          <div class="insta-grid-col">
+                                             <a href="https://www.instagram.com/sethipipes/" target="_blank" rel="noopener noreferrer" class="insta-grid-item">
+                                                <img src="images/products/Chemical.png" alt="Insta Grid 2" />
+                                                <div class="insta-overlay">
+                                                   <span style="margin-right: 10px;"><i class="fas fa-heart"></i> 58</span>
+                                                   <span><i class="fas fa-comment"></i> 8</span>
+                                                </div>
+                                             </a>
+                                          </div>
+                                          <div class="insta-grid-col">
+                                             <a href="https://www.instagram.com/sethipipes/" target="_blank" rel="noopener noreferrer" class="insta-grid-item">
+                                                <img src="images/products/Gas Pipe Line.jpg.jpeg" alt="Insta Grid 3" />
+                                                <div class="insta-overlay">
+                                                   <span style="margin-right: 10px;"><i class="fas fa-heart"></i> 64</span>
+                                                   <span><i class="fas fa-comment"></i> 11</span>
+                                                </div>
+                                             </a>
+                                          </div>
+                                          <div class="insta-grid-col">
+                                             <a href="https://www.instagram.com/sethipipes/" target="_blank" rel="noopener noreferrer" class="insta-grid-item">
+                                                <img src="images/products/Sewarage.png" alt="Insta Grid 4" />
+                                                <div class="insta-overlay">
+                                                   <span style="margin-right: 10px;"><i class="fas fa-heart"></i> 37</span>
+                                                   <span><i class="fas fa-comment"></i> 4</span>
+                                                </div>
+                                             </a>
+                                          </div>
+                                          <div class="insta-grid-col">
+                                             <a href="https://www.instagram.com/sethipipes/" target="_blank" rel="noopener noreferrer" class="insta-grid-item">
+                                                <img src="images/products/Marine and Dragging Piping.png" alt="Insta Grid 5" />
+                                                <div class="insta-overlay">
+                                                   <span style="margin-right: 10px;"><i class="fas fa-heart"></i> 79</span>
+                                                   <span><i class="fas fa-comment"></i> 14</span>
+                                                </div>
+                                             </a>
+                                          </div>
+                                          <div class="insta-grid-col">
+                                             <a href="https://www.instagram.com/sethipipes/" target="_blank" rel="noopener noreferrer" class="insta-grid-item">
+                                                <img src="images/products/HDPE-Pipe-for-Wastewater-Management.webp" alt="Insta Grid 6" />
+                                                <div class="insta-overlay">
+                                                   <span style="margin-right: 10px;"><i class="fas fa-heart"></i> 51</span>
+                                                   <span><i class="fas fa-comment"></i> 7</span>
+                                                </div>
+                                             </a>
+                                          </div>
+                                       </div>
+                                       
+                                       <a href="https://www.instagram.com/sethipipes/" target="_blank" rel="noopener noreferrer" style="background: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); color: #fff; text-decoration: none; border: none; border-radius: 30px; padding: 10px 20px; font-weight: 700; font-size: 13px; text-transform: uppercase; letter-spacing: 0.5px; transition: all 0.3s; text-align: center; display: block; box-shadow: 0 4px 6px rgba(220,39,67,0.15); margin-top: 10px;">View on Instagram</a>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </section>
+                     <!-- END SOCIAL MEDIA SECTION -->
+
 <?php include 'footer.php'; ?>

@@ -32,7 +32,7 @@
 				<div class="elementor-widget-container">
 						<div class="tstk-heading-subheading left-align "><h2 class="tstk-element-title">
 			
-				You can connect with us when need help!
+				Shri Krishna Rubber Industries
 			
 			</h2>
 		</div>				</div>
@@ -189,7 +189,7 @@
 									width: auto;
 									opacity: 0.85;
 									transition: all 0.3s ease;
-									filter: grayscale(100%) brightness(1.5);
+									
 								}
 								.brand-logo-img:hover {
 									opacity: 1;

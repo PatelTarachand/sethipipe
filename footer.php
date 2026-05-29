@@ -68,11 +68,13 @@
 									<div class="tstk-footer-copyright-box tstk-footer-copyright-box-1  col-md-4">
 								Copyright © 2026 <a href="index.php">Shri Krishna Rubber Industries</a>, All Rights Reserved.</div>
 					
-									<div class="tstk-footer-copyright-box tstk-footer-copyright-box-2 col-md-4"><img class="aligncenter wp-image-29578" src="images/SPLogo.png" alt="" width="70" /></div>
+									<div class="tstk-footer-copyright-box tstk-footer-copyright-box-2 col-md-4"><img class="aligncenter wp-image-29578" src="images/SPLogo.png"  alt="Shri Krishna Rubber Industries" style="background-color:white;" width="90" /></div>
 					
 				
-									<div class="tstk-footer-copyright-box tstk-footer-copyright-text col-md-4"><ul class="tstk-social-links"><li class="tstk-social-li tstk-social-facebook "><a title="Facebook"   href="#" target="_blank"><span><i class="tstk-base-icon-facebook-squared"></i></span></a></li><li class="tstk-social-li tstk-social-twitter "><a title="Twitter"   href="#" target="_blank"><span><i class="tstk-base-icon-twitter-x"></i></span></a></li><li class="tstk-social-li tstk-social-instagram "><a title="Instagram"   href="#" target="_blank"><span><i class="tstk-base-icon-instagram"></i></span></a></li><li class="tstk-social-li tstk-social-youtube "><a title="Youtube"   href="#" target="_blank"><span><i class="tstk-base-icon-youtube-play"></i></span></a></li></ul></div>
-					
+									<div class="tstk-footer-copyright-box tstk-footer-copyright-text col-md-4"><ul class="tstk-social-links">
+										<li class="tstk-social-li tstk-social-facebook "><a title="Facebook"   href="https://www.facebook.com/shrikrishnarubberindustries/" target="_blank"><span><i class="tstk-base-icon-facebook-squared"></i></span>
+									</a></li><li class="tstk-social-li tstk-social-instagram "><a title="Instagram"   href="https://www.instagram.com/sethipipes/" target="_blank"><span><i class="tstk-base-icon-instagram"></i></span></a></li>
+									
 									</div>
 					</div>	
 				</div>	

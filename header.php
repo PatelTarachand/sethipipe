@@ -351,11 +351,9 @@
                   <div class="tstk-pre-header-right">
                      
                      <ul class="tstk-social-links">
-                        <li class="tstk-social-li tstk-social-facebook "><a title="Facebook" href="#" target="_blank"><span><i class="tstk-base-icon-facebook-squared"></i></span></a></li>
-                        <li class="tstk-social-li tstk-social-twitter "><a title="Twitter" href="#" target="_blank"><span><i class="tstk-base-icon-twitter-x"></i></span></a></li>
-                        <li class="tstk-social-li tstk-social-instagram "><a title="Instagram" href="#" target="_blank"><span><i class="tstk-base-icon-instagram"></i></span></a></li>
-                        <li class="tstk-social-li tstk-social-youtube "><a title="Youtube" href="#" target="_blank"><span><i class="tstk-base-icon-youtube-play"></i></span></a></li>
-                     </ul>
+                        <li class="tstk-social-li tstk-social-facebook "><a title="Facebook" href="https://www.facebook.com/shrikrishnarubberindustries/" target="_blank"><span><i class="tstk-base-icon-facebook-squared"></i></span></a></li>
+                        <li class="tstk-social-li tstk-social-instagram "><a title="Instagram" href="https://www.instagram.com/sethipipes/" target="_blank"><span><i class="tstk-base-icon-instagram"></i></span></a></li>
+                       </ul>
                   </div>
                   <!-- .tstk-pre-header-right -->
                </div>
