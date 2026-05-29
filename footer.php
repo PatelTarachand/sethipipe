@@ -4,7 +4,7 @@
 				<div class="container">
 					<div class="row">
 														<div class="tstk-footer-widget tstk-footer-widget-col-1 col-md-6 col-lg-3">
-									<aside id="text-2" class="widget-odd widget-last widget-first widget-1 tstk-footer-news widget widget_text industrey_widget  industrey_widget_count_26">			<div class="textwidget"><script data-cfasync="false" src="https://industrey-demo.pbminfotech.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>(function() {
+									<aside id="text-2" class="widget-odd widget-last widget-first widget-1 tstk-footer-news widget widget_text industrey_widget  industrey_widget_count_26">			<div class="textwidget"><script data-cfasync="false" src=""></script><script>(function() {
 	window.mc4wp = window.mc4wp || {
 		listeners: [],
 		forms: {
@@ -331,8 +331,6 @@ const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(
 
 		if (window.RS_MODULES.checkMinimal!==undefined) { window.RS_MODULES.checkMinimal();};
 	</script>
-<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a02d4ed36ea77fa5',t:'MTc3OTk3MTgxNw=='};var a=document.createElement('script');a.src='https://industrey-demo.pbminfotech.com/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/v833ccba57c9e4d2798f2e76cebdd09a11778172276447" integrity="sha512-57MDmcccJXYtNnH+ZiBwzC4jb2rvgVCEokYN+L/nLlmO8rfYT/gIpW2A569iJ/3b+0UEasghjuZH/ma3wIs/EQ==" data-cf-beacon='{"version":"2024.11.0","token":"125856bf84ab44059737e93b01aa0fef","server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
 </body>
 
-<!-- Mirrored from industrey-demo.pbminfotech.com/demo3/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 28 May 2026 12:40:21 GMT -->
 </html>

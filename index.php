@@ -37,12 +37,12 @@
                                                             <div class="tstk-service-icon-wrapper">
                                                                <i class="tstk-industrey-icon tstk-industrey-icon-drilling-rig"></i>			
                                                             </div>
-                                                            <h3 class="tstk-service-title"><a href="product/mechanical-constructions/index.html">HDPE PIPE</a></h3>
+                                                            <h3 class="tstk-service-title"><a href="hdpe-pipe.php">HDPE PIPE</a></h3>
                                                             <div class="tstk-service-content">
                                                                <p>HDPE pipe is known for its high strength to density ratio. HDPE has little branching giving it stronger ...</p>
                                                             </div>
                                                             <div class="tstk-service-btn"> 
-                                                               <a class="btn-arrow" href="product/mechanical-constructions/index.html"><span>Read More</span></a>
+                                                               <a class="btn-arrow" href="hdpe-pipe.php"><span>Read More</span></a>
                                                             </div>
                                                          </div>
                                                       </div>
@@ -55,12 +55,12 @@
                                                             <div class="tstk-service-icon-wrapper">
                                                                <i class="tstk-industrey-icon tstk-industrey-icon-coal"></i>			
                                                             </div>
-                                                            <h3 class="tstk-service-title"><a href="product/product-design-manufacture/index.html">HDPE ROLL PIPE</a></h3>
+                                                            <h3 class="tstk-service-title"><a href="hdpe-roll-pipe.php">HDPE ROLL PIPE</a></h3>
                                                             <div class="tstk-service-content">
                                                                <p>We are enlisted amongst the leading organization in the industry, offering a quality approved range of HDPE...</p>
                                                             </div>
                                                             <div class="tstk-service-btn"> 
-                                                               <a class="btn-arrow" href="product/product-design-manufacture/index.html"><span>Read More</span></a>
+                                                               <a class="btn-arrow" href="hdpe-roll-pipe.php"><span>Read More</span></a>
                                                             </div>
                                                          </div>
                                                       </div>
@@ -73,12 +73,12 @@
                                                             <div class="tstk-service-icon-wrapper">
                                                                <i class="tstk-industrey-icon tstk-industrey-icon-tank"></i>			
                                                             </div>
-                                                            <h3 class="tstk-service-title"><a href="product/research-and-manufacture/index.html">SPRINKLER PIPE</a></h3>
+                                                            <h3 class="tstk-service-title"><a href="sprinkler-pipe.php">SPRINKLER PIPE</a></h3>
                                                             <div class="tstk-service-content">
                                                                <p>We are an eminent manufacturer and supplier of a wide collection of HDPE sprinkler pipes. The ...</p>
                                                             </div>
                                                             <div class="tstk-service-btn"> 
-                                                               <a class="btn-arrow" href="product/research-and-manufacture/index.html"><span>Read More</span></a>
+                                                               <a class="btn-arrow" href="sprinkler-pipe.php"><span>Read More</span></a>
                                                             </div>
                                                          </div>
                                                       </div>
@@ -91,12 +91,12 @@
                                                             <div class="tstk-service-icon-wrapper">
                                                                <i class="tstk-industrey-icon tstk-industrey-icon-cargo-ship"></i>			
                                                             </div>
-                                                            <h3 class="tstk-service-title"><a href="product/petroleum-gas-engineering/index.html">MDPE PIPE</a></h3>
+                                                            <h3 class="tstk-service-title"><a href="mdpe-pipe.php">MDPE PIPE</a></h3>
                                                             <div class="tstk-service-content">
                                                                <p>MDPE (Medium Density Polyethylene) pipes are durable, flexible, and corrosion-resistant plastic..</p>
                                                             </div>
                                                             <div class="tstk-service-btn"> 
-                                                               <a class="btn-arrow" href="product/petroleum-gas-engineering/index.html"><span>Read More</span></a>
+                                                               <a class="btn-arrow" href="mdpe-pipe.php"><span>Read More</span></a>
                                                             </div>
                                                          </div>
                                                       </div>

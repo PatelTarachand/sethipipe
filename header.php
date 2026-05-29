@@ -305,6 +305,9 @@
          /*# sourceURL=rs-plugin-settings-inline-css */
       </style>
       <style>
+         #slider-1-slide-1-layer-0, #slider-1-slide-3-layer-0 {color:#000000 !important;}
+      </style>
+      <style>
          .themestek-element-portfolio .tstk-featured-wrapper img {
             width: 100% !important;
             aspect-ratio: 770 / 520 !important;
@@ -457,24 +460,12 @@
                            data-frame_1="e:power3.out;st:1490;sp:1000;sR:1490;"
                            data-frame_1_mask="u:t;"
                            data-frame_999="o:0;st:w;sR:6510;"
-                           style="z-index:10;font-family:'Teko';"
+                           style="z-index:10;font-family:'Teko';color:#000000!important;"
                            >Reliable <br/>HDPE Pipe <br/>Solutions. 
                         </rs-layer>
                         <!--
                            -->
-                        <rs-layer
-                           id="slider-1-slide-1-layer-1" 
-                           data-type="text"
-                           data-rsp_ch="on"
-                           data-xy="xo:30px,24px,30px,18px;y:m;yo:-247px,-199px,-160px,-98px;"
-                           data-text="w:normal;s:22,20,20,12;l:30,24,24,14;"
-                           data-vbility="t,t,t,f"
-                           data-frame_0="x:50,41,31,19;"
-                           data-frame_1="st:1000;sp:1000;sR:1000;"
-                           data-frame_999="o:0;st:w;sR:7000;"
-                           style="z-index:9;font-family:'Yantramanav';"
-                           >Start experiencing amazing industrial business 
-                        </rs-layer>
+                       
                         <!--
                            --><a id="slider-1-slide-1-layer-2" class="rs-layer rev-button rev-btn" href="contact.php" target="_self" data-type="button" data-rsp_ch="on" data-xy="xo:220px,200px,30px,30px;y:m;yo:114px,95px,70px,87px;" data-text="w:normal;s:18;l:60,55,50,45;ls:1px,1px,1px,0px;fw:300;" data-dim="minh:0px,none,none,none;" data-padding="t:4,5,3,4;r:50,42,40,35;l:50,42,40,35;" data-border="bor:0px,25px,0px,0px;" data-frame_0="x:-100%;" data-frame_0_mask="u:t;" data-frame_1="st:2660;sp:1000;sR:2660;" data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:5340;" data-frame_hover="bgc:#109ad7;bor:0px,25px,0px,0px;" style="z-index:13;background-color:#111010;font-family:'Teko';text-transform:uppercase;"><span>Get a quote</span> 
                         </a>
@@ -512,24 +503,12 @@
                            data-frame_1="e:power3.out;st:1490;sp:1000;sR:1490;"
                            data-frame_1_mask="u:t;"
                            data-frame_999="o:0;st:w;sR:6510;"
-                           style="z-index:10;font-family:'Teko';"
-                           >Industrial Business<br/>Black Sheep Among<br/>White Ones. 
+                           style="z-index:10;font-family:'Teko';color:#000000!important;"
+                           >Engineering to Resist,<br/>Adapt <br/>And Simplify. 
                         </rs-layer>
                         <!--
                            -->
-                        <rs-layer
-                           id="slider-1-slide-3-layer-1" 
-                           data-type="text"
-                           data-rsp_ch="on"
-                           data-xy="xo:30px,24px,30px,18px;y:m;yo:-247px,-199px,-160px,-98px;"
-                           data-text="w:normal;s:22,20,20,12;l:30,24,24,14;"
-                           data-vbility="t,t,t,f"
-                           data-frame_0="x:50,41,31,19;"
-                           data-frame_1="st:1000;sp:1000;sR:1000;"
-                           data-frame_999="o:0;st:w;sR:7000;"
-                           style="z-index:9;font-family:'Yantramanav';"
-                           >Engineering to Resist,<br/>Adapt <br/>And Simplify . 
-                        </rs-layer>
+                       
                         <!--
                            --><a id="slider-1-slide-3-layer-2" class="rs-layer rev-button rev-btn" href="contact.php" target="_self" data-type="button" data-rsp_ch="on" data-xy="xo:220px,200px,30px,30px;y:m;yo:114px,95px,70px,87px;" data-text="w:normal;s:18;l:60,55,50,45;ls:1px,1px,1px,0px;fw:300;" data-dim="minh:0px,none,none,none;" data-padding="t:4,5,3,4;r:50,42,40,35;l:50,42,40,35;" data-border="bor:0px,25px,0px,0px;" data-frame_0="x:-100%;" data-frame_0_mask="u:t;" data-frame_1="st:2660;sp:1000;sR:2660;" data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:5340;" data-frame_hover="bgc:#109ad7;bor:0px,25px,0px,0px;" style="z-index:13;background-color:#111010;font-family:'Teko';text-transform:uppercase;"><span>Get a quote</span> 
                         </a>
@@ -558,7 +537,7 @@
                         -->
                   </rs-static-layers>
                </rs-module>
-               <script data-cfasync="false" src="https://industrey-demo.pbminfotech.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+               <script data-cfasync="false" src=""></script><script>
                   setREVStartSize({c: 'rev_slider_1_1',rl:[1240,1024,778,480],el:[815,650,500,400],gw:[1230,1024,778,480],gh:[815,650,500,400],type:'standard',justify:'',layout:'fullwidth',mh:"0"});if (window.RS_MODULES!==undefined && window.RS_MODULES.modules!==undefined && window.RS_MODULES.modules["revslider11"]!==undefined) {window.RS_MODULES.modules["revslider11"].once = false;window.revapi1 = undefined;if (window.RS_MODULES.checkMinimal!==undefined) window.RS_MODULES.checkMinimal()}
                </script>
             </rs-module-wrap>
