@@ -49,7 +49,7 @@ include 'header.php';
                 <div class="col-md-4 mb-4"><img src="images/brands/Adapter C Type.png" alt="Adapter C Type" class="img-fluid"><br>Adapter C Type</div>
                 <div class="col-md-4 mb-4"><img src="images/brands/Adapter Bush HM Type.png" alt="Adapter Bush HM Type" class="img-fluid"><br>Adapter Bush HM Type</div>
                 <div class="col-md-4 mb-4"><img src="images/brands/Adapter Bush C Type.png" alt="Adapter Bush C Type" class="img-fluid"><br>Adapter Bush C Type</div>
-                <div class="col-md-4 mb-4"><img src="images/brands/PCR C Type.png" alt="PCR C Type" class="img-fluid"><br>PCR C Type</div>
+                <div class="col-md-4 mb-4"><img src="images/brands/PCR C Type.png" alt="PCN C Type" class="img-fluid"><br>PCN C Type</div>
                 <div class="col-md-4 mb-4"><img src="images/brands/Bend C Type.png" alt="Bend C Type" class="img-fluid"><br>Bend C Type</div>
                 <div class="col-md-4 mb-4"><img src="images/brands/Coupler C type.png" alt="Coupler C type" class="img-fluid"><br>Coupler C type</div>
                 <div class="col-md-4 mb-4"><img src="images/brands/Tee C Type.png" alt="Tee C Type" class="img-fluid"><br>Tee C Type</div>

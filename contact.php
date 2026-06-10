@@ -216,7 +216,7 @@
 							<div class="row w-100 align-items-center m-0">
 								<div class="col-12 col-lg-3 mb-4 mb-lg-0 text-lg-left text-center">
 									<h2 class="tstk-element-title text-white m-0" style="font-size: 26px; line-height: 1.3;">
-										We have worked with some awesome brands.
+										Our Certificat & Aprovals
 									</h2>
 								</div>
 								<div class="col-12 col-lg-9">

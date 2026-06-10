@@ -679,9 +679,9 @@
                               <div class="elementor-widget-wrap elementor-element-populated">
                                  <div class="elementor-element elementor-element-a0da2f3 tstk-align-left elementor-widget elementor-widget-tstk_testimonial_element" data-id="a0da2f3" data-element_type="widget" data-widget_type="tstk_testimonial_element.default">
                                     <div class="elementor-widget-container">
-                                       <div class="themestek-element themestek-element-testimonial tstk-element-testimonial-style-3 themestek-element-viewtype-carousel themestek-gap-30px tstk-infinite-scroll-no tstk-infinite-scroll-button-no" data-cpt="testimonial" data-totalpagination="2" data-style="3" data-show="3" data-columns="1" data-loop="true" data-autoplay="false" data-center="false" data-nav="true" data-dots="false" data-autoplayspeed="1000" data-lasthalf="false" data-margin="30px">
+                                       <div class="themestek-element themestek-element-testimonial tstk-element-testimonial-style-3 themestek-element-viewtype-carousel themestek-gap-30px tstk-infinite-scroll-no tstk-infinite-scroll-button-no" data-cpt="testimonial" data-totalpagination="1" data-style="3" data-show="1" data-columns="1" data-loop="false" data-autoplay="false" data-center="false" data-nav="false" data-dots="false" data-autoplayspeed="1000" data-lasthalf="false" data-margin="30px">
                                           <div class="themestek-element-inner">
-                                             <div class="tstk-infinite-scroll-data">{"cpt":"testimonial","style":"3","columns":"1","show":3,"order":"DESC","orderby":"DESC"}</div>
+                                             <div class="tstk-infinite-scroll-data">{"cpt":"testimonial","style":"3","columns":"1","show":1,"order":"DESC","orderby":"DESC"}</div>
                                              <div class="tstk-ele-header-area">
                                                 <div class="tstk-heading-subheading left-align "></div>
                                              </div>
@@ -700,21 +700,6 @@
                                                       </div>
                                                    </div>
                                                 </article>
-                                                <article class="tstk-ele tstk-ele-testimonial tstk-testimonial-style-3 col-md-12  tstk-even tstk-col-even">
-                                                   <div class="themestek-post-item">
-                                                      <div class="themestek-box-content">
-                                                         <div class="themestek-testimonial-wrapper">
-                                                            <div class="themestek-box-desc">
-                                                               <blockquote class="themestek-testimonial-text">
-                                                                  <p>“ Every pipe manufactured at Shri Krishna Rubber Industries is produced under strict quality standards. We conduct quality checks at every stage of production to ensure durability, strength, and long-lasting performance.”</p>
-                                                               </blockquote>
-                                                            </div>
-                                                         </div>
-                                                         
-                                                      </div>
-                                                   </div>
-                                                </article>
-                                                
                                              </div>
                                           </div>
                                           <!-- .themestek-element-inner -->   
@@ -765,7 +750,7 @@
                                        <div class="row w-100 align-items-center m-0">
                                           <div class="col-12 col-lg-3 mb-4 mb-lg-0 text-lg-left text-center">
                                              <h2 class="tstk-element-title text-white m-0" style="font-size: 26px; line-height: 1.3;">
-                                                We have worked with some awesome brands.
+                                                Our Certificat & Aprovals
                                              </h2>
                                           </div>
                                           <div class="col-12 col-lg-9">
