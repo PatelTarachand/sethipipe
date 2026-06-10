@@ -43,11 +43,90 @@ include 'header.php';
                         <div class="product-details-content mb-5 mt-4">
         <h2>RUBBER WASHER</h2>
         <div class="elementor-widget-container">
-            <div class="row text-center mb-5 mt-4">
-                <div class="col-md-3"><img src="images/brands/Round Flange Washer.png" alt="Round Flange Washer" class="img-fluid"><br>Round Flange Washer</div>
-                <div class="col-md-3"><img src="images/brands/Square Flange Washer.png" alt="Square Flange Washer" class="img-fluid"><br>Square Flange Washer</div>
-                <div class="col-md-3"><img src="images/brands/Sprinkler Pipe Ring.png" alt="Sprinkler Pipe Ring" class="img-fluid"><br>Sprinkler Pipe Ring</div>
-                <div class="col-md-3"><img src="images/brands/Tyton Gasket.png" alt="Tyton Gasket" class="img-fluid"><br>Tyton Gasket</div>
+            <style>
+                .rubber-washer-grid {
+                    display: grid;
+                    grid-template-columns: repeat(2, 1fr);
+                    gap: 30px;
+                    margin-bottom: 40px;
+                    margin-top: 20px;
+                }
+                @media (max-width: 767px) {
+                    .rubber-washer-grid {
+                        grid-template-columns: 1fr;
+                        gap: 20px;
+                    }
+                }
+                .rubber-washer-card {
+                    background: #ffffff;
+                    border-radius: 12px;
+                    padding: 25px;
+                    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+                    border: 1px solid #f0f0f0;
+                    transition: all 0.3s ease;
+                    text-align: center;
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
+                    justify-content: center;
+                }
+                .rubber-washer-card:hover {
+                    transform: translateY(-5px);
+                    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.1);
+                    border-color: #109ad7;
+                }
+                .rubber-washer-img-wrapper {
+                    width: 100%;
+                    height: 180px;
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    margin-bottom: 15px;
+                    overflow: hidden;
+                }
+                .rubber-washer-img-wrapper img {
+                    max-height: 100%;
+                    max-width: 100%;
+                    object-fit: contain;
+                    transition: transform 0.3s ease;
+                }
+                .rubber-washer-card:hover .rubber-washer-img-wrapper img {
+                    transform: scale(1.05);
+                }
+                .rubber-washer-title {
+                    font-size: 18px;
+                    font-weight: 600;
+                    color: #1a1a1a;
+                    margin-top: 10px;
+                    margin-bottom: 0;
+                }
+            </style>
+            
+            <div class="rubber-washer-grid">
+                <div class="rubber-washer-card">
+                    <div class="rubber-washer-img-wrapper">
+                        <img src="images/brands/Round Flange Washer.png" alt="Round Flange Washer">
+                    </div>
+                    <h5 class="rubber-washer-title">Round Flange Washer</h5>
+                </div>
+                <div class="rubber-washer-card">
+                    <div class="rubber-washer-img-wrapper">
+                        <img src="images/brands/Square Flange Washer.png" alt="Square Flange Washer">
+                    </div>
+                    <h5 class="rubber-washer-title">Square Flange Washer</h5>
+                </div>
+                <div class="rubber-washer-card">
+                    <div class="rubber-washer-img-wrapper">
+                        <img src="images/brands/Sprinkler Pipe Ring.png" alt="Sprinkler Pipe Ring">
+                    </div>
+                    <h5 class="rubber-washer-title">Sprinkler Pipe Ring</h5>
+                </div>
+                <div class="rubber-washer-card">
+                    <div class="rubber-washer-img-wrapper">
+                        <img src="images/brands/Tyton Gasket.png" alt="Tyton Gasket">
+                    </div>
+                    <h5 class="rubber-washer-title">Tyton Gasket</h5>
+                </div>
             </div>
 
             <h4 class="mt-4 mb-3">FEATURES & CHARACTERRISTICS</h4>
