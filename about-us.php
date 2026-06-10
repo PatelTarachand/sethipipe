@@ -10,7 +10,7 @@
           </div>
         </div>
         <div class="tstk-breadcrumb">
-          <div class="tstk-breadcrumb-inner"><span><a title="Go to Shri Krishna Rubber Industries." href="" class="home"><span>Industrey</span></a></span><span class="sep"><i class="tstk-base-icon-angle-double-right"></i></span><span><span class="post post-page current-item">About Us</span></span></div>
+          <div class="tstk-breadcrumb-inner"><span><a title="Go to Shri Krishna Rubber Industries." href="index.php" class="home"><span>Industry</span></a></span><span class="sep"><i class="tstk-base-icon-angle-double-right"></i></span><span><span class="post post-page current-item">About Us</span></span></div>
         </div>
       </div>
     </div>

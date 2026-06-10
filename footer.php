@@ -241,9 +241,9 @@ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false
       }
    ?>,"title":"<?php 
       if ($current_page == 'index.php') {
-         echo 'Industrey%20Demo3%20%E2%80%93%20Industry%20and%20Engineering%20WordPress%20Theme';
+         echo 'Industry%20Demo3%20%E2%80%93%20Industry%20and%20Engineering%20WordPress%20Theme';
       } elseif ($current_page == 'about-us.php') {
-         echo 'About%20Us%20%E2%80%93%20Industrey%20Demo3';
+         echo 'About%20Us%20%E2%80%93%20Industry%20Demo3';
       } elseif (in_array($current_page, $service_pages)) {
          $page_titles = [
             'water-supply-scheme.php' => 'Water%20Supply%20Scheme',
@@ -259,9 +259,9 @@ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false
             'marine-dragging-piping.php' => 'Marine%20%26%20Dragging%20Piping'
          ];
          $sub_title = isset($page_titles[$current_page]) ? $page_titles[$current_page] : 'Comprehensive%20Logits%20Service';
-         echo $sub_title . '%20%E2%80%93%20Industrey%20Demo3';
+         echo $sub_title . '%20%E2%80%93%20Industry%20Demo3';
       } else {
-         echo 'Contact%20Us%20%E2%80%93%20Industrey%20Demo3';
+         echo 'Contact%20Us%20%E2%80%93%20Industry%20Demo3';
       }
    ?>","excerpt":"","featuredImage":false}};
 //# sourceURL=elementor-frontend-js-before

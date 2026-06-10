@@ -3,7 +3,7 @@
 		<div class="container">
 			<div class="tstk-title-bar-content">
 				<div class="tstk-title-bar-content-inner">
-					<div class="tstk-tbar"><div class="tstk-tbar-inner container"><h1 class="tstk-tbar-title"> Contact Us</h1></div></div>					<div class="tstk-breadcrumb"><div class="tstk-breadcrumb-inner"><span><a title="Go to Shri Krishna Rubber Industries." href="" class="home"><span>Industrey</span></a></span><span class="sep"><i class="tstk-base-icon-angle-double-right"></i></span><span><span class="post post-page current-item">Contact Us</span></span></div></div>				</div>
+					<div class="tstk-tbar"><div class="tstk-tbar-inner container"><h1 class="tstk-tbar-title"> Contact Us</h1></div></div>					<div class="tstk-breadcrumb"><div class="tstk-breadcrumb-inner"><span><a title="Go to Shri Krishna Rubber Industries." href="index.php" class="home"><span>Industry</span></a></span><span class="sep"><i class="tstk-base-icon-angle-double-right"></i></span><span><span class="post post-page current-item">Contact Us</span></span></div></div>				</div>
 			</div><!-- .tstk-title-bar-content -->
 		</div><!-- .container -->
 	</div><!-- .tstk-title-bar-wrapper -->
