@@ -14,10 +14,9 @@
       <link rel="profile" href="https://gmpg.org/xfn/11">
       <title>Shri Krishna Rubber Industries &#8211; </title>
       <meta name='robots' content='max-image-preview:large' />
-      <link rel='dns-prefetch' href='http://platform-api.sharethis.com/' />
       <link href='https://fonts.gstatic.com/' crossorigin rel='preconnect' />
       <link rel="alternate" type="application/rss+xml" title="Shri Krishna Rubber Industries &raquo; Feed" href="index.php" />
-      <link rel="alternate" type="application/rss+xml" title="Shri Krishna Rubber Industries &raquo; Comments Feed" href="index.php />
+      <link rel="alternate" type="application/rss+xml" title="Shri Krishna Rubber Industries &raquo; Comments Feed" href="index.php "/>
       <link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="wp-json/oembed/1.0/embedbda7.json?url=https%3A%2F%2Findustrey-demo.pbminfotech.com%2Fdemo3%2F" />
       <link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="wp-json/oembed/1.0/embed528d?url=https%3A%2F%2Findustrey-demo.pbminfotech.com%2Fdemo3%2F&amp;format=xml" />
       <style id='wp-img-auto-sizes-contain-inline-css'>
@@ -371,7 +370,7 @@
                   <div class="tstk-logo-menuarea">
                      <div class="site-branding tstk-logo-area">
                         <div class="wrap">
-                           <h1 class="site-title"><a href="index.php" rel="home"><span class="site-title-text">Reliable HDPE Pipe Solutions</span><img class="tstk-main-logo" src="images/SPLogo.png" alt="Shri Krishna Rubber Industries" title="Shri Krishna Rubber Industries" /><img class="tstk-sticky-logo" src="images/SPLogo.png" alt="Shri Krishna Rubber Industries" title="Shri Krishna Rubber Industries" /></a></h1>
+                           <h1 class="site-title"><a href="index.php" rel="home"><span class="site-title-text">Reliable HDPE Pipe Solutions</span><img class="tstk-main-logo" src="images/SPLogo.png" alt="Shri Krishna Rubber Industries" title="Shri Krishna Rubber Industries" style="max-height: 70px !important; width: auto; vertical-align: middle;" /><img class="tstk-sticky-logo" src="images/SPLogo.png" alt="Shri Krishna Rubber Industries" title="Shri Krishna Rubber Industries" style="max-height: 60px !important; width: auto; vertical-align: middle;" /></a></h1>
                            <!-- Logo area -->
                         </div>
                         <!-- .wrap -->
