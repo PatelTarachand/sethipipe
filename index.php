@@ -289,7 +289,7 @@
                                              What we do for you!
                                           </h4>
                                           <h2 class="tstk-element-title">
-                                            Industries We Serve
+                                            Industry We Serve
                                           </h2>
                                           <div class="tstk-heading-desc">HDPE (High-Density Polyethylene) pipes are durable, flexible, and corrosion-resistant thermoplastic pipes. Their ability to form leak-proof, welded joints makes them ideal for the following application.</div>
                                        </div>
@@ -390,7 +390,7 @@
                                                    15			</span><span class="tstk-fid"></span>
                                                 </h4>
                                              </div>
-                                             <div class="tstk-fid-title"><span>Served States In India</span></div>
+                                             <div class="tstk-fid-title"><span>Serving States in India</span></div>
                                           </div>
                                           <!-- .tstk-fld-contents -->
                                        </div>
@@ -434,7 +434,7 @@
                                                    236			</span><span class="tstk-fid"></span>
                                                 </h4>
                                              </div>
-                                             <div class="tstk-fid-title"><span>Great Experienced Team member</span></div>
+                                             <div class="tstk-fid-title"><span>Great Experienced Team Members</span></div>
                                           </div>
                                           <!-- .tstk-fld-contents -->
                                        </div>
@@ -499,15 +499,15 @@
                                                 <article class="tstk-ele tstk-ele-portfolio tstk-portfolio-style-1 col-md-6 col-lg-3 chemical tstk-term-36">
                                                    <div class="themestek-post-content">
                                                       <div class="tstk-portfolio-img-wrapper">
-                                                         <div class="tstk-featured-wrapper"><img loading="lazy" decoding="async" width="770" height="520" src="images/products/Chemical.png" class="attachment-tstk-img-770x520 size-tstk-img-770x520 wp-post-image" alt="Chemical Industries" /></div>
+                                                         <div class="tstk-featured-wrapper"><img loading="lazy" decoding="async" width="770" height="520" src="images/products/Chemical.png" class="attachment-tstk-img-770x520 size-tstk-img-770x520 wp-post-image" alt="Chemical Industry" /></div>
                                                          <div class="themestek-icon-box themestek-media-link">			  	
-                                                            <a class="tstk-lightbox" title="Chemical Industries" href="images/products/Chemical.png"><i class="tstk-base-icon-plus"></i></a>
+                                                            <a class="tstk-lightbox" title="Chemical Industry" href="images/products/Chemical.png"><i class="tstk-base-icon-plus"></i></a>
                                                          </div>
                                                       </div>
                                                       <div class="themestek-box-content">
                                                          <div class="themestek-titlebox">
                                                             <h6 class="tstk-port-cat"><a href="chemical-industries.php" rel="tag">Chemical</a></h6>
-                                                            <h3 class="tstk-portfolio-title"><a href="chemical-industries.php">Chemical Industries</a></h3>
+                                                            <h3 class="tstk-portfolio-title"><a href="chemical-industries.php">Chemical Industry</a></h3>
                                                          </div>
                                                       </div>
                                                    </div>
@@ -750,7 +750,7 @@
                                        <div class="row w-100 align-items-center m-0">
                                           <div class="col-12 col-lg-3 mb-4 mb-lg-0 text-lg-left text-center">
                                              <h2 class="tstk-element-title text-white m-0" style="font-size: 26px; line-height: 1.3;">
-                                                Our Certificat & Aprovals
+                                                Our Certificate and Approvals
                                              </h2>
                                           </div>
                                           <div class="col-12 col-lg-9">
@@ -845,7 +845,7 @@
                                        <div class="elementor-button-wrapper">
                                           <a class="elementor-button elementor-button-link elementor-size-sm" href="contact.php">
                                           <span class="elementor-button-content-wrapper">
-                                          <span class="elementor-button-text">Ask question more </span>
+                                          <span class="elementor-button-text">Ask more questions</span>
                                           </span>
                                           </a>
                                        </div>
@@ -859,7 +859,7 @@
                                     <div class="elementor-widget-container">
                                        <div class="tstk-heading-subheading left-align tstk-reverse-heading-yes">
                                           <h4 class="tstk-element-subtitle">
-                                             Conatct us
+                                             Contact us
                                           </h4>
                                           <h2 class="tstk-element-title">
                                              Request a call back
@@ -925,7 +925,7 @@
                                                       </div>
                                                       <div class="col-sm-12">
                                                          <div class="input-group">
-                                                            <p><span class="wpcf7-form-control-wrap" data-name="message"><textarea cols="40" rows="5" maxlength="2000" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="Write here message" name="message"></textarea></span>
+                                                            <p><span class="wpcf7-form-control-wrap" data-name="message"><textarea cols="40" rows="5" maxlength="2000" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="Write message here" name="message"></textarea></span>
                                                             </p>
                                                          </div>
                                                       </div>

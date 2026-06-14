@@ -481,9 +481,10 @@
                            data-frame_1="st:1880;sp:1000;"
                            data-frame_1_mask="u:t;"
                            data-frame_999="o:0;st:w;sR:6820;"
-                           style="z-index:8;background-color:#109ad7;"
+                           style="z-index:8;"
                            > 
                         </rs-layer>
+
                         <!--
                            -->					
                      </rs-slide>
@@ -524,7 +525,7 @@
                            data-frame_1="st:1880;sp:1000;"
                            data-frame_1_mask="u:t;"
                            data-frame_999="o:0;st:w;sR:6820;"
-                           style="z-index:8;background-color:#109ad7;"
+                           style="z-index:8;"
                            > 
                         </rs-layer>
                         <!--
