@@ -79,7 +79,7 @@
 					
 					</h2>
 					
-				<div class="tstk-heading-desc">+91 9425151151<br> +91 9713014516</div>			</div><!-- .tstk-ihbox-contents -->
+				<div class="tstk-heading-desc" style="color:white!important">+91 9425151151<br> +91 9713014516</div>			</div><!-- .tstk-ihbox-contents -->
 </div></div>				</div>
 				</div>
 				<div class="elementor-element elementor-element-7acf5b3d elementor-widget elementor-widget-tstk_icon_heading" data-id="7acf5b3d" data-element_type="widget" data-widget_type="tstk_icon_heading.default">
