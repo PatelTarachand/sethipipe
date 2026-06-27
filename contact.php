@@ -79,7 +79,7 @@
 					
 					</h2>
 					
-				<div class="tstk-heading-desc" style="color:white!important">+91 9425151151<br> +91 9713014516</div>			</div><!-- .tstk-ihbox-contents -->
+				<div class="tstk-heading-desc" style="color:white!important">+91 9713014516</div>			</div><!-- .tstk-ihbox-contents -->
 </div></div>				</div>
 				</div>
 				<div class="elementor-element elementor-element-7acf5b3d elementor-widget elementor-widget-tstk_icon_heading" data-id="7acf5b3d" data-element_type="widget" data-widget_type="tstk_icon_heading.default">
@@ -137,7 +137,7 @@
 		</div>
 		<div class="col-sm-6">
 			<div class="input-group">
-				<p><span class="wpcf7-form-control-wrap" data-name="Select"><select class="wpcf7-form-control wpcf7-select" aria-invalid="false" name="Select"><option value="Mechanical">Mechanical</option><option value="Petroleum &amp; Gas">Petroleum &amp; Gas</option><option value="Constructions">Constructions</option></select></span>
+				<p><span class="wpcf7-form-control-wrap" data-name="your-city"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" placeholder="City" value="" type="text" name="your-city" /></span>
 				</p>
 			</div>
 		</div>

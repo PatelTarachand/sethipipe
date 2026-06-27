@@ -53,7 +53,7 @@
 															<div class="tstk-footer-widget tstk-footer-widget-col-4 col-md-6 col-lg-3">
 									<aside id="text-4" class="widget-odd widget-last widget-first widget-1 widget widget_text industrey_widget  industrey_widget_count_29"><h2 class="widget-title">Quick Contact</h2>			<div class="textwidget"><p>58, 59 Industrial Estate, Adhartal, Jabalpur</p>
 <p>If you have any questions or need help, feel free to contact with our team.</p>
-<h3 class="footer-phone"  style="font-size: 1.6rem;">+91 9425151151, +91 9713014516</h3>
+<h3 class="footer-phone"  style="font-size: 1.6rem;">+91 9713014516</h3>
 </div>
 		</aside>								</div><!-- .tstk-footer-widget -->
 												</div><!-- .row -->

@@ -39,7 +39,7 @@
                                                             </div>
                                                             <h3 class="tstk-service-title"><a href="hdpe-pipe.php">HDPE PIPE</a></h3>
                                                             <div class="tstk-service-content">
-                                                               <p>HDPE pipe is known for its high strength to density ratio. HDPE has little branching giving it stronger ...</p>
+                                                               <p>HDPE(High-Density Polyethylene) Pipes are durable plastic pipes made from high-density...</p>
                                                             </div>
                                                             <div class="tstk-service-btn"> 
                                                                <a class="btn-arrow" href="hdpe-pipe.php"><span>Read More</span></a>
@@ -75,7 +75,7 @@
                                                             </div>
                                                             <h3 class="tstk-service-title"><a href="sprinkler-pipe.php">SPRINKLER PIPE</a></h3>
                                                             <div class="tstk-service-content">
-                                                               <p>We are an eminent manufacturer and supplier of a wide collection of HDPE sprinkler pipes. The ...</p>
+                                                               <p>HDPE Sprinkler Pipes are lightweight, durable pipes made from high-dlensity polyethylene, designed for ...</p>
                                                             </div>
                                                             <div class="tstk-service-btn"> 
                                                                <a class="btn-arrow" href="sprinkler-pipe.php"><span>Read More</span></a>

@@ -54,13 +54,13 @@ pages = {
                 <div class="col-md-4 mb-4"><img src="images/brands/Y Type.png" alt="Y Type" class="img-fluid"><br>Y Type</div>
             </div>
 
-            <h4 class="mt-4 mb-3">FEATURES & CHARACTERRISTICS</h4>
+            <h4 class="mt-4 mb-3">FEATURES & CHARACTERISTICS</h4>
             <div class="row">
                 <div class="col-md-6">
                     <ul class="tstk-list tstk-list-style-icon tstk-list-icon-color-skincolor">
-                        <li><i class="tstk-base-icon-right-open"></i> Corrosion Resistance</li>
+                        <li><i class="tstk-base-icon-right-open"></i> Corrosion-Resistant</li>
                         <li><i class="tstk-base-icon-right-open"></i> Light Weight & Flexible</li>
-                        <li><i class="tstk-base-icon-right-open"></i> Impact Resistance & Tough, Durable</li>
+                        <li><i class="tstk-base-icon-right-open"></i> impact resistant & Tough, Durable</li>
                         <li><i class="tstk-base-icon-right-open"></i> Smooth Surface-low Pipe Friction Losses</li>
                     </ul>
                 </div>
@@ -86,13 +86,13 @@ pages = {
                 <div class="col-md-3"><img src="images/brands/Tyton Gasket.png" alt="Tyton Gasket" class="img-fluid"><br>Tyton Gasket</div>
             </div>
 
-            <h4 class="mt-4 mb-3">FEATURES & CHARACTERRISTICS</h4>
+            <h4 class="mt-4 mb-3">FEATURES & CHARACTERISTICS</h4>
             <div class="row">
                 <div class="col-md-6">
                     <ul class="tstk-list tstk-list-style-icon tstk-list-icon-color-skincolor">
-                        <li><i class="tstk-base-icon-right-open"></i> Corrosion Resistance</li>
+                        <li><i class="tstk-base-icon-right-open"></i> Corrosion-Resistant</li>
                         <li><i class="tstk-base-icon-right-open"></i> Light Weight & Flexible</li>
-                        <li><i class="tstk-base-icon-right-open"></i> Impact Resistance & Tough, Durable</li>
+                        <li><i class="tstk-base-icon-right-open"></i> impact resistant & Tough, Durable</li>
                         <li><i class="tstk-base-icon-right-open"></i> Smooth Surface-low Pipe Friction Losses</li>
                     </ul>
                 </div>

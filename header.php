@@ -344,7 +344,7 @@
                <div class="d-flex justify-content-between">
                   <div class="tstk-pre-header-left">
                      <ul class="tstk-contact-info">
-                        <li><i class="tstk-base-icon-phone"></i> Call +91 9425151151</li>
+                        <li><i class="tstk-base-icon-phone"></i> Call +91 9713014516</li>
                          <li><i class="tstk-base-icon-mail-alt"></i> <a href="mailto:shrikrishnarubberindustries@gmail.com">shrikrishnarubberindustries@gmail.com</a></li>
                         <li><i class="tstk-base-icon-pin"></i> 58, 59 Industrial Estate, Adhartal, Jabalpur</li>
                      </ul>
@@ -412,7 +412,7 @@
                                         <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-tstk-service'><a class="mega-menu-link" href="sprinkler-pipe.php">SPRINKLER PIPE</a></li>
                                         <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-tstk-service'><a class="mega-menu-link" href="sprinkler-fitting.php">SPRINKLER FITTING</a></li>
                                         <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-tstk-service'><a class="mega-menu-link" href="mdpe-pipe.php">MDPE PIPE</a></li>
-                                        <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-tstk-service'><a class="mega-menu-link" href="rubber-washer.php">RUBBER WASHER</a></li>
+                                        <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-tstk-service'><a class="mega-menu-link" href="rubber-washer.php">RUBBER PRODUCTS</a></li>
                                      </ul>
                                  </li>
                                  <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-menu-item-33789' id='mega-menu-item-33789'> <a class="mega-menu-link" href="contact.php" tabindex="0">Contact Us</a> </li>

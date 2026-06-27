@@ -54,15 +54,16 @@ include 'header.php';
                 <div class="col-md-4 mb-4"><img src="images/brands/Coupler C type.png" alt="Coupler C type" class="img-fluid"><br>Coupler C type</div>
                 <div class="col-md-4 mb-4"><img src="images/brands/Tee C Type.png" alt="Tee C Type" class="img-fluid"><br>Tee C Type</div>
                 <div class="col-md-4 mb-4"><img src="images/brands/Y Type.png" alt="Y Type" class="img-fluid"><br>Y Type</div>
-            </div>
-
-            <h4 class="mt-4 mb-3">FEATURES & CHARACTERRISTICS</h4>
+            </div>  
+            <h2>SPRINKLER FITTING</h2>
+            <p>HDPE Sprinkler Fitting is a durable irrigation component made from High-Density Polyethylene (HDPE),used to connect pipes, sprinklers, and other irrigation equipment in sprinkler systems. It is llightweight, corrosion- resistant, leak-proof, anid designed to withstand high pressure and outdloor conditions, ensuring efficient water distribution in agricultural and landscaping applications.</p>
+            <h4 class="mt-4 mb-3">FEATURES & CHARACTERISTICS</h4>
             <div class="row">
                 <div class="col-md-6">
                     <ul class="tstk-list tstk-list-style-icon tstk-list-icon-color-skincolor">
-                        <li><i class="tstk-base-icon-right-open"></i> Corrosion Resistance</li>
+                        <li><i class="tstk-base-icon-right-open"></i> Corrosion-Resistant</li>
                         <li><i class="tstk-base-icon-right-open"></i> Light Weight & Flexible</li>
-                        <li><i class="tstk-base-icon-right-open"></i> Impact Resistance & Tough, Durable</li>
+                        <li><i class="tstk-base-icon-right-open"></i> impact resistant & Tough, Durable</li>
                         <li><i class="tstk-base-icon-right-open"></i> Smooth Surface-low Pipe Friction Losses</li>
                     </ul>
                 </div>
@@ -130,14 +131,14 @@ include 'header.php';
                 <aside id="custom_html-3" class="widget_text widget-odd widget-21 single-service-contact widget widget_custom_html industrey_widget  industrey_widget_count_21">
                   <div class="textwidget custom-html-widget">
                     <div class="single-service-contact-inner">
-                      <h5>For a investor Inquiry</h5>
+                      <h5>For a Dealership Enquiry</h5>
                     <p><img loading="lazy" class="size-full wp-image-28211 aligncenter" style="background-color: #fff; border-radius: 8px !important; padding: 10px; width: 160px !important; height: auto !important; border: none !important; object-fit: contain;" src="images/SPLogo.png" alt="Sethi Pipe Logo" width="160" height="107"></p>
                         <h5 class="tstk-service-title">Sethi Pipe</h5>
                       <p class="tstk-service-position">Shri Krishna Rubber Industries</p>
                       <ul>
                         <li style="list-style-type: none;">
                           <ul>
-                            <li><i class="tstk-base-icon-phone-volume-solid"></i> +91 9425151151</li>
+                            <li><i class="tstk-base-icon-phone-volume-solid"></i> +91 9713014516</li>
                             <li><i class="tstk-base-icon-mail-alt"></i> <a href="" class="__cf_email__ text-white" data-cfemail="0d606c64614d68756c607d6168236e6260">shrikrishnarubberindustries@gmail.com</a></li>
                           </ul>
                         </li>

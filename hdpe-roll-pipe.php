@@ -102,14 +102,14 @@ include 'header.php';
                 <aside id="custom_html-3" class="widget_text widget-odd widget-21 single-service-contact widget widget_custom_html industrey_widget  industrey_widget_count_21">
                   <div class="textwidget custom-html-widget">
                     <div class="single-service-contact-inner">
-                      <h5>For a investor Inquiry</h5>
+                      <h5>For a Dealership Enquiry</h5>
                     <p><img loading="lazy" class="size-full wp-image-28211 aligncenter" style="background-color: #fff; border-radius: 8px !important; padding: 10px; width: 160px !important; height: auto !important; border: none !important; object-fit: contain;" src="images/SPLogo.png" alt="Sethi Pipe Logo" width="160" height="107"></p>
                         <h5 class="tstk-service-title">Sethi Pipe</h5>
                       <p class="tstk-service-position">Shri Krishna Rubber Industries</p>
                       <ul>
                         <li style="list-style-type: none;">
                           <ul>
-                            <li><i class="tstk-base-icon-phone-volume-solid"></i> +91 9425151151</li>
+                            <li><i class="tstk-base-icon-phone-volume-solid"></i> +91 9713014516</li>
                             <li><i class="tstk-base-icon-mail-alt"></i> <a href="" class="__cf_email__ text-white" data-cfemail="0d606c64614d68756c607d6168236e6260">shrikrishnarubberindustries@gmail.com</a></li>
                           </ul>
                         </li>
